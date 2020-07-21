@@ -10,3 +10,4 @@ Feel free to submit a pull request with your suggestions of awesome github profi
 - [Praveen](https://github.com/praveenscience)
 - [reeha](https://github.com/syedareehaquasar)
 - [Vedant Khairnar](https://github.com/VedantKhairnar)
+- [Dedar Alam](https://github.com/devded)
