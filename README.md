@@ -27,13 +27,23 @@ Join the conversation on our [Discord community](https://discord.com/invite/jZQs
     </td>
     <td align="center">
       <p><a href="https://github.com/praveenscience">Praveen</a></p>
-      <img src="https://user-images.githubusercontent.com/624760/88123729-6adab200-cbc3-11ea-8d73-a190de560b3a.png" />
+      <img src="https://user-images.githubusercontent.com/624760/88163309-62599a00-cc0a-11ea-8f70-8a9fd17b8eed.png" />
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/15">(:100: give your vote)</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p><a href="https://github.com/VedantKhairnar">Vedant Khairnar</a></p>
+      <img src="https://user-images.githubusercontent.com/624760/88165360-7b177f00-cc0d-11ea-804a-776639dcca29.png" />
+      <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/18">(:100: give your vote)</a></p>
+    </td>
+    <td align="center">
+      <p><a href="https://github.com/syedareehaquasar">Reeha</a></p>
+      <img src="https://user-images.githubusercontent.com/624760/88165225-473c5980-cc0d-11ea-936d-3c3daa24a536.png" />
+      <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/17">(:100: give your vote)</a></p>
     </td>
   </tr>
 </table>
 
-- [reeha](https://github.com/syedareehaquasar)
-- [Vedant Khairnar](https://github.com/VedantKhairnar)
 - [Dedar Alam](https://github.com/devded)
 - [Sanchit Vijay](https://github.com/sanchitvj/sanchitvj)  
