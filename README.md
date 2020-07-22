@@ -43,7 +43,15 @@ Join the conversation on our [Discord community](https://discord.com/invite/jZQs
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/17">(:100: give your vote)</a></p>
     </td>
   </tr>
+  
+  <tr>
+    <td align="center">
+      <p><a href="https://github.com/tusharpandey13">Tushar Pandey</a></p>
+      <img src="https://raw.githubusercontent.com/tusharpandey13/tusharpandey13/master/header.svg" />
+    </td>
+  </tr>
 </table>
+
 
 - [Dedar Alam](https://github.com/devded)
 - [Sanchit Vijay](https://github.com/sanchitvj/sanchitvj)  
