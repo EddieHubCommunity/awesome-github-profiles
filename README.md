@@ -2,7 +2,9 @@
 
 List of GitHub profiles that have awesome customisation, that you can use for inspiration.
 
-Feel free to submit a pull request with your suggestions of awesome github profiles
+Feel free to submit a pull request with your suggestions of awesome github profiles.
+
+Join the conversation on our [Discord community](https://discord.com/invite/jZQs6Wu)
 
 <table width="100%">
   <tr>
