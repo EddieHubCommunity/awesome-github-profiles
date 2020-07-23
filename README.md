@@ -55,6 +55,16 @@ Join the conversation on our [Discord community](https://discord.com/invite/jZQs
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/21">(:100: give your vote)</a></p>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <p><a href="https://github.com/annu12340">Annu</a></p>
+      <img src="https://user-images.githubusercontent.com/624760/88266719-92b33e00-ccc7-11ea-9b40-d77fa96dcd4f.png" />
+      <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/22">(:100: give your vote)</a></p>
+    </td>
+    <td align="center">
+      <p><a href="https://github.com/sanchitvj">Sanchit Vijay</a></p>
+      <img src="https://user-images.githubusercontent.com/624760/88266811-c1311900-ccc7-11ea-8863-efa1664b45fd.png" />
+      <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/22">(:100: give your vote)</a></p>
+    </td>
+  </tr>
 </table>
-
-- [Sanchit Vijay](https://github.com/sanchitvj/sanchitvj)  
