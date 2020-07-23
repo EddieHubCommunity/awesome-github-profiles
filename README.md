@@ -43,7 +43,18 @@ Join the conversation on our [Discord community](https://discord.com/invite/jZQs
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/17">(:100: give your vote)</a></p>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <p><a href="https://github.com/stemount">Stephen Mount</a></p>
+      <img src="https://user-images.githubusercontent.com/624760/88265731-e91f7d00-ccc5-11ea-99c5-c68434be9d26.png" />
+      <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/20">(:100: give your vote)</a></p>
+    </td>
+    <td align="center">
+      <p><a href="https://github.com/devded">Dedar Alam</a></p>
+      <img src="https://user-images.githubusercontent.com/624760/88265854-1f5cfc80-ccc6-11ea-8951-1acfd99eb8d2.png" />
+      <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/21">(:100: give your vote)</a></p>
+    </td>
+  </tr>
 </table>
 
-- [Dedar Alam](https://github.com/devded)
 - [Sanchit Vijay](https://github.com/sanchitvj/sanchitvj)  
