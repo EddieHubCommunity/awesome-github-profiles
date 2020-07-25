@@ -73,5 +73,13 @@ Any questions let us know
       <img src="https://user-images.githubusercontent.com/624760/88266811-c1311900-ccc7-11ea-8863-efa1664b45fd.png" />
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/22">(:100: give your vote)</a></p>
     </td>
+   <tr>
+    <td align="center">
+      <p><a href="https://github.com/sandip15">Sandip Roy</a></p>
+      <img src="https://user-images.githubusercontent.com/23638291/88459015-c94dac00-ceb3-11ea-82df-691a23987640.png" />
+      <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/28">(:100: give your vote)</a></p>
+    </td>
+    <td></td>
+   </tr>
   </tr>
 </table>
