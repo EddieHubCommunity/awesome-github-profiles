@@ -73,5 +73,7 @@ Join the conversation on our [Discord community](https://discord.com/invite/jZQs
       <img src="https://i.imgur.com/8H4iUWT.png" />
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/24">(:100: give your vote)</a></p>
     </td>
+    <td align="center">
+    </td>
   </tr>
 </table>
