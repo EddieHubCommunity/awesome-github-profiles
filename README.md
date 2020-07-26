@@ -82,4 +82,13 @@ Any questions let us know
     <td></td>
    </tr>
   </tr>
+  <tr>
+    <td align="center">
+      <p><a href="https://github.com/M4cs">Max Bridgland</a></p>
+      <img src="https://i.imgur.com/8H4iUWT.png" />
+      <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/24">(:100: give your vote)</a></p>
+    </td>
+    <td align="center">
+    </td>
+  </tr>
 </table>
