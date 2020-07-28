@@ -79,7 +79,11 @@ Any questions let us know
       <img src="https://user-images.githubusercontent.com/23638291/88459015-c94dac00-ceb3-11ea-82df-691a23987640.png" />
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/28">(:100: give your vote)</a></p>
     </td>
-    <td></td>
+    <td align="center">
+      <p><a href="https://github.com/adreaskar">Andreas Karabetian</a></p>
+      <img src="https://user-images.githubusercontent.com/63111742/88703846-eed9f000-d115-11ea-9569-587de740a27a.jpg" />
+      <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/39">(:100: give your vote)</a></p>
+    </td>
    </tr>
   </tr>
   <tr>
