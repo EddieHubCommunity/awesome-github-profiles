@@ -73,31 +73,24 @@ Any questions let us know
       <img src="https://user-images.githubusercontent.com/624760/88266811-c1311900-ccc7-11ea-8863-efa1664b45fd.png" />
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/22">(:100: give your vote)</a></p>
     </td>
-   <tr>
+   </tr>
+  <tr>
     <td align="center">
       <p><a href="https://github.com/sandip15">Sandip Roy</a></p>
       <img src="https://user-images.githubusercontent.com/23638291/88459015-c94dac00-ceb3-11ea-82df-691a23987640.png" />
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/28">(:100: give your vote)</a></p>
     </td>
-    <td></td>
+    <td align='center'>
+       <p><a href="https://github.com/M4cs">Max Bridgland</a></p>
+        <img src="https://i.imgur.com/8H4iUWT.png" />
+        <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/24">(:100: give your vote)</a></p>
+     </td>
    </tr>
-  </tr>
   <tr>
     <td align="center">
-      <p><a href="https://github.com/M4cs">Max Bridgland</a></p>
-      <img src="https://i.imgur.com/8H4iUWT.png" />
-      <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/24">(:100: give your vote)</a></p>
-    </td>
-    <td align="center">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <p><a href="https://github.com/moshfiqrony">Md. Moshfiqur Rahman Rony</a></p>
-      <img src="https://user-images.githubusercontent.com/26689488/88507621-a085fd80-cffe-11ea-8918-e0dab7a7f3b2.png" />
-      <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/30">(:100: give your vote)</a></p>
-    </td>
-    <td align="center">
+        <p><a href="https://github.com/moshfiqrony">Md. Moshfiqur Rahman Rony</a></p>
+        <img src="https://user-images.githubusercontent.com/26689488/88507621-a085fd80-cffe-11ea-8918-e0dab7a7f3b2.png" />
+        <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/30">(:100: give your vote)</a></p>
     </td>
   </tr>
 </table>
