@@ -73,7 +73,7 @@ Any questions let us know
       <img src="https://user-images.githubusercontent.com/624760/88266811-c1311900-ccc7-11ea-8863-efa1664b45fd.png" />
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/22">(:100: give your vote)</a></p>
     </td>
-   <tr>
+  <tr>
     <td align="center">
       <p><a href="https://github.com/sandip15">Sandip Roy</a></p>
       <img src="https://user-images.githubusercontent.com/23638291/88459015-c94dac00-ceb3-11ea-82df-691a23987640.png" />
@@ -84,7 +84,6 @@ Any questions let us know
       <img src="https://user-images.githubusercontent.com/63111742/88703846-eed9f000-d115-11ea-9569-587de740a27a.jpg" />
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/39">(:100: give your vote)</a></p>
     </td>
-   </tr>
   </tr>
   <tr>
     <td align="center">
@@ -93,6 +92,9 @@ Any questions let us know
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/24">(:100: give your vote)</a></p>
     </td>
     <td align="center">
+      <p><a href="https://github.com/Jaynil1611">Jaynil Gaglani</a></p>
+      <img src="https://user-images.githubusercontent.com/48921037/88678363-00b69580-d10c-11ea-902b-58e25c2c799c.PNG" />
+      <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/36">(:100: give your vote)</a></p>
     </td>
   </tr>
   <tr>
