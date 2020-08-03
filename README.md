@@ -16,6 +16,11 @@ Any questions let us know
 <table width="100%">
   <tr>
     <td align="center">
+      <p><a href="https://github.com/devitsmb">Akas Rai</a></p>
+      <img src="https://user-images.githubusercontent.com/58613756/89166497-6b3b5b80-d57a-11ea-97c2-a04a9376388c.png" />
+      <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/12">(:100: give your vote)</a></p>
+    </td> 
+    <td align="center">
       <p><a href="https://github.com/akasrai">Akas Rai</a></p>
       <img src="https://user-images.githubusercontent.com/624760/88123456-d40df580-cbc2-11ea-9add-a7fc8675b243.png" />
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/12">(:100: give your vote)</a></p>
