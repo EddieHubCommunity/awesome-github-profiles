@@ -11,7 +11,12 @@ jobs:
       uses: eddiejaoude/github-actions-reader-writer@master
       with:
         json-file-path: 'data.json'
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-    # Use the output from the `hello` step
-    - name: Get the output time
-      run: echo "The time was ${{ steps.hello.outputs.time }}"
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v4.4.0
+      with:
+        author_name: GitHub Action
+        author_email: eddie@jaoudestudios.com
+        message: 'Updated README'
+        add: 'README.md'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
