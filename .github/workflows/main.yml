@@ -6,8 +6,8 @@ jobs:
     name: Update README from json data
     steps:
     - uses: actions/checkout@v2
-    - name: Hello world action step
-      id: hello
+    - name: Read/Write data into README
+      id: step1
       uses: eddiejaoude/github-actions-reader-writer@master
       with:
         json-file-path: 'data.json'
