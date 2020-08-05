@@ -3,8 +3,9 @@ on: [push]
 jobs:
   hello_world_job:
     runs-on: ubuntu-latest
-    name: A job to say hello
+    name: Read json data
     steps:
+    - uses: actions/checkout@v2
     - name: Hello world action step
       id: hello
       uses: eddiejaoude/github-actions-reader-writer@master
