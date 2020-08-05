@@ -3,7 +3,7 @@ on: [push]
 jobs:
   hello_world_job:
     runs-on: ubuntu-latest
-    name: Read json data
+    name: Update README from json data
     steps:
     - uses: actions/checkout@v2
     - name: Hello world action step
