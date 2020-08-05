@@ -11,12 +11,4 @@ jobs:
       uses: eddiejaoude/github-actions-reader-writer@master
       with:
         json-file-path: 'data.json'
-    - name: Commit changes
-      uses: EndBug/add-and-commit@v4.4.0
-      with:
-        author_name: GitHub Action
-        author_email: eddie@jaoudestudios.com
-        message: 'Updated README'
-        add: 'README.md'
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        github-token: ${{ secrets.GITHUB_TOKEN }}
