@@ -110,4 +110,11 @@ Any questions let us know
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/41">(:100: give your vote)</a></p>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <p><a href="https://github.com/Shubham714">Shubham Hadake</a></p>
+      <img src="https://user-images.githubusercontent.com/40699892/89451190-6db7d400-d779-11ea-8302-fd5d4f9bc8f8.png" />
+      <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/50">(:100: give your vote)</a></p>
+    </td>
+  </tr>
 </table>
