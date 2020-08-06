@@ -17,6 +17,19 @@ Any questions let us know
 **Join the conversation on our [Discord community](https://discord.com/invite/jZQs6Wu)**
 
 <!--START_SECTION:data-section-->
+[
+    {
+        "githubUsername": "akasrai",
+        "imageUrl": "https://user-images.githubusercontent.com/624760/88123456-d40df580-cbc2-11ea-9add-a7fc8675b243.png",
+        "issueNumber": 12
+    },
+    {
+        "githubUsername": "anuraghazra",
+        "imageUrl": "https://user-images.githubusercontent.com/624760/88123729-6adab200-cbc3-11ea-8d73-a190de560b3a.png",
+        "issueNumber": 13
+    }
+]
+
 <!--END_SECTION:data-section-->
 
 More data to check section rewrite.
