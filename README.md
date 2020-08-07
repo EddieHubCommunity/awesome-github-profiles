@@ -41,7 +41,11 @@ Any questions let us know
                             <p><a href="https://github.com/syedareehaquasar">Reeha</a></p>
                             <img src="https://user-images.githubusercontent.com/624760/88165225-473c5980-cc0d-11ea-936d-3c3daa24a536.png" />
                             <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/17">(:100: give your vote)</a></p>
-                        </td></tr></table>
+                        </td></tr><tr><td align="center">
+                            <p><a href="https://github.com/stemount">Stephen Mount</a></p>
+                            <img src="https://user-images.githubusercontent.com/624760/88265731-e91f7d00-ccc5-11ea-99c5-c68434be9d26.png" />
+                            <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/20">(:100: give your vote)</a></p>
+                        </td><td></td></tr></table>
 <!--END_SECTION:data-section-->
 
 More data to check section rewrite.
