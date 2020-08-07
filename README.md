@@ -25,7 +25,7 @@ Any questions let us know
                         <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/12">(:100: give your vote)</a></p>
                     </td>
                 </tr>
-            ,
+            
                 <tr>
                     <td align="center">
                         <p><a href="https://github.com/anuraghazra">Anurag Hazra</a></p>
@@ -33,12 +33,20 @@ Any questions let us know
                         <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/13">(:100: give your vote)</a></p>
                     </td>
                 </tr>
-            ,
+            
                 <tr>
                     <td align="center">
                         <p><a href="https://github.com/diptochakrabarty">Dipto Chakrabarty</a></p>
                         <img src="https://user-images.githubusercontent.com/624760/88163171-2d4d4780-cc0a-11ea-91fe-6fc7c37fc8d6.png" />
                         <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/14">(:100: give your vote)</a></p>
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        <p><a href="https://github.com/praveenscience">Praveen</a></p>
+                        <img src="https://user-images.githubusercontent.com/624760/88163309-62599a00-cc0a-11ea-8f70-8a9fd17b8eed.png" />
+                        <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/15">(:100: give your vote)</a></p>
                     </td>
                 </tr>
             </table>
