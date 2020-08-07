@@ -11,3 +11,4 @@ jobs:
       with:
         json-file-path: 'data.json'
         github-token: ${{ secrets.GITHUB_TOKEN }}
+        columns: 3
