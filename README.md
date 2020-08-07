@@ -17,24 +17,31 @@ Any questions let us know
 **Join the conversation on our [Discord community](https://discord.com/invite/jZQs6Wu)**
 
 <!--START_SECTION:data-section-->
-[
-    {
-        "githubUsername": "akasrai",
-        "imageUrl": "https://user-images.githubusercontent.com/624760/88123456-d40df580-cbc2-11ea-9add-a7fc8675b243.png",
-        "issueNumber": 12
-    },
-    {
-        "githubUsername": "anuraghazra",
-        "imageUrl": "https://user-images.githubusercontent.com/624760/88123729-6adab200-cbc3-11ea-8d73-a190de560b3a.png",
-        "issueNumber": 13
-    },
-    {
-        "githubUsername": "diptochakrabarty",
-        "imageUrl": "https://user-images.githubusercontent.com/624760/88163171-2d4d4780-cc0a-11ea-91fe-6fc7c37fc8d6.png",
-        "issueNumber": 14
-    }
-]
-
+<table width="100%">
+                <tr>
+                    <td align="center">
+                        <p><a href="https://github.com/akasrai">Akas Rai</a></p>
+                        <img src="https://user-images.githubusercontent.com/624760/88123456-d40df580-cbc2-11ea-9add-a7fc8675b243.png" />
+                        <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/12">(:100: give your vote)</a></p>
+                    </td>
+                </tr>
+            ,
+                <tr>
+                    <td align="center">
+                        <p><a href="https://github.com/anuraghazra">Anurag Hazra</a></p>
+                        <img src="https://user-images.githubusercontent.com/624760/88123729-6adab200-cbc3-11ea-8d73-a190de560b3a.png" />
+                        <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/13">(:100: give your vote)</a></p>
+                    </td>
+                </tr>
+            ,
+                <tr>
+                    <td align="center">
+                        <p><a href="https://github.com/diptochakrabarty">Dipto Chakrabarty</a></p>
+                        <img src="https://user-images.githubusercontent.com/624760/88163171-2d4d4780-cc0a-11ea-91fe-6fc7c37fc8d6.png" />
+                        <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/14">(:100: give your vote)</a></p>
+                    </td>
+                </tr>
+            </table>
 <!--END_SECTION:data-section-->
 
 More data to check section rewrite.
