@@ -1,15 +1,18 @@
 [
     {
+        "name": "Akas Rai",
         "githubUsername": "akasrai",
         "imageUrl": "https://user-images.githubusercontent.com/624760/88123456-d40df580-cbc2-11ea-9add-a7fc8675b243.png",
         "issueNumber": 12
     },
     {
+        "name": "Anurag Hazra",
         "githubUsername": "anuraghazra",
         "imageUrl": "https://user-images.githubusercontent.com/624760/88123729-6adab200-cbc3-11ea-8d73-a190de560b3a.png",
         "issueNumber": 13
     },
     {
+        "name": "Dipto Chakrabarty",
         "githubUsername": "diptochakrabarty",
         "imageUrl": "https://user-images.githubusercontent.com/624760/88163171-2d4d4780-cc0a-11ea-91fe-6fc7c37fc8d6.png",
         "issueNumber": 14
