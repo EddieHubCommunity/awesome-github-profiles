@@ -116,5 +116,10 @@ Any questions let us know
       <img src="https://user-images.githubusercontent.com/40699892/89451190-6db7d400-d779-11ea-8302-fd5d4f9bc8f8.png" />
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/50">(:100: give your vote)</a></p>
     </td>
+    <td align="center">
+      <p><a href="https://github.com/KarthikNayak024">Karthik Nayak</a></p>
+      <img src="https://user-images.githubusercontent.com/39642646/90327189-aa23d500-dfae-11ea-8147-53bbddc3d1c3.png" />
+      <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/56">(:100: give your vote)</a></p>
+    </td>
   </tr>
 </table>
