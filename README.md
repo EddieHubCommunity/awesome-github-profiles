@@ -25,15 +25,15 @@ Any questions let us know
                             <p><a href="https://github.com/anuraghazra">Anurag Hazra</a></p>
                             <img src="https://user-images.githubusercontent.com/624760/88123729-6adab200-cbc3-11ea-8d73-a190de560b3a.png" />
                             <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/13">(:100: give your vote)</a></p>
-                        </td></tr><tr><td align="center">
+                        </td><td align="center">
                             <p><a href="https://github.com/diptochakrabarty">Dipto Chakrabarty</a></p>
                             <img src="https://user-images.githubusercontent.com/624760/88163171-2d4d4780-cc0a-11ea-91fe-6fc7c37fc8d6.png" />
                             <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/14">(:100: give your vote)</a></p>
-                        </td><td align="center">
+                        </td></tr><tr><td align="center">
                             <p><a href="https://github.com/praveenscience">Praveen</a></p>
                             <img src="https://user-images.githubusercontent.com/624760/88163309-62599a00-cc0a-11ea-8f70-8a9fd17b8eed.png" />
                             <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/15">(:100: give your vote)</a></p>
-                        </td></tr><tr><td align="center">
+                        </td><td align="center">
                             <p><a href="https://github.com/VedantKhairnar">Vedant Khairnar</a></p>
                             <img src="https://user-images.githubusercontent.com/624760/88165360-7b177f00-cc0d-11ea-804a-776639dcca29.png" />
                             <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/18">(:100: give your vote)</a></p>
@@ -45,6 +45,10 @@ Any questions let us know
                             <p><a href="https://github.com/stemount">Stephen Mount</a></p>
                             <img src="https://user-images.githubusercontent.com/624760/88265731-e91f7d00-ccc5-11ea-99c5-c68434be9d26.png" />
                             <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/20">(:100: give your vote)</a></p>
+                        </td><td align="center">
+                            <p><a href="https://github.com/devded">Dedar Alam</a></p>
+                            <img src="https://user-images.githubusercontent.com/624760/88265854-1f5cfc80-ccc6-11ea-8951-1acfd99eb8d2.png" />
+                            <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/21">(:100: give your vote)</a></p>
                         </td><td></td></tr></table>
 <!--END_SECTION:data-section-->
 
