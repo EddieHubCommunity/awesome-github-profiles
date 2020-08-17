@@ -49,8 +49,14 @@
     },
     {
         "name": "Annu",
-        "githubUsername": "devded",
+        "githubUsername": "annu12340",
         "imageUrl": "https://user-images.githubusercontent.com/624760/88266719-92b33e00-ccc7-11ea-9b40-d77fa96dcd4f.png",
         "issueNumber": 22
+    },
+    {
+        "name": "Sanchit Vijay",
+        "githubUsername": "sanchitvj",
+        "imageUrl": "https://user-images.githubusercontent.com/624760/88266811-c1311900-ccc7-11ea-8863-efa1664b45fd.png",
+        "issueNumber": 23
     }
 ]
