@@ -106,7 +106,7 @@ Any questions let us know
     </td>
     <td align="center">
       <p><a href="https://github.com/AVS1508">Aditya Vikram Singh</a></p>
-      <img src="https://user-images.githubusercontent.com/20084950/88753168-3180e400-d179-11ea-8995-69cbac07d9c0.png" />
+      <img src="https://user-images.githubusercontent.com/20084950/90978133-08315900-e569-11ea-9299-9f43bc5f1912.png" />
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/41">(:100: give your vote)</a></p>
     </td>
   </tr>
