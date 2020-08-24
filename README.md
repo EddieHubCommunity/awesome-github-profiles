@@ -8,9 +8,16 @@ Feel free to submit a pull request with your suggestions of awesome github profi
 
 ### To add your github profile:
 
-1. create an issue, with the title as your name, and in the description put a screenshot of the customised GitHub profile page
-2. take the url created by github from the screenshot in step 1 and add it to this `README.md` as an image at the bottom of the table (use other submissions with the table as an example)
-3. use your created issue url under the image you added
+1. create an issue, with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image url, this will be needed in the next step)
+2. in `data.json` add your own object to the end of the file, your entry should be similar to this example:
+```typescript
+{
+    "name": "Eddie Jaoude",
+    "githubUsername": "eddiejaoude",
+    "imageUrl": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
+    "issueNumber": 66
+}
+```
 
 Any questions let us know
 
