@@ -106,5 +106,3 @@ Any questions let us know
         <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/62">(:100: give your vote)</a></p>
     </td><td></td></tr></table>
 <!--END_SECTION:data-section-->
-
-More data to check section rewrite.
