@@ -1,0 +1,14 @@
+on: [push]
+
+jobs:
+  hello_world_job:
+    runs-on: ubuntu-latest
+    name: Update README from json data
+    steps:
+    - uses: actions/checkout@v2
+    - name: Read/Write data into README
+      uses: eddiejaoude/github-actions-reader-writer@master
+      with:
+        json-file-path: 'data.json'
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        columns: 3
