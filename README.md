@@ -61,6 +61,42 @@ Any questions let us know
         <p><a href="https://github.com/sandip15">Sandip Roy</a></p>
         <img src="https://user-images.githubusercontent.com/23638291/88459015-c94dac00-ceb3-11ea-82df-691a23987640.png" />
         <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/28">(:100: give your vote)</a></p>
+    </td><td align="center">
+        <p><a href="https://github.com/adreaskar">Andreas Karabetian</a></p>
+        <img src="https://user-images.githubusercontent.com/63111742/88703846-eed9f000-d115-11ea-9569-587de740a27a.jpg" />
+        <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/39">(:100: give your vote)</a></p>
+    </td></tr><tr><td align="center">
+        <p><a href="https://github.com/M4cs">Max Bridgland</a></p>
+        <img src="https://user-images.githubusercontent.com/624760/91051132-96fcaf00-e617-11ea-91f7-48d42535373d.png" />
+        <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/65">(:100: give your vote)</a></p>
+    </td><td align="center">
+        <p><a href="https://github.com/Jaynil1611">Jaynil Gaglani</a></p>
+        <img src="https://user-images.githubusercontent.com/48921037/88678363-00b69580-d10c-11ea-902b-58e25c2c799c.PNG" />
+        <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/36">(:100: give your vote)</a></p>
+    </td><td align="center">
+        <p><a href="https://github.com/moshfiqrony">Md. Moshfiqur Rahman Rony</a></p>
+        <img src="https://user-images.githubusercontent.com/26689488/88507621-a085fd80-cffe-11ea-8918-e0dab7a7f3b2.png" />
+        <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/30">(:100: give your vote)</a></p>
+    </td></tr><tr><td align="center">
+        <p><a href="https://github.com/AVS1508">Aditya Vikram Singh</a></p>
+        <img src="https://user-images.githubusercontent.com/20084950/90978133-08315900-e569-11ea-9299-9f43bc5f1912.png" />
+        <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/41">(:100: give your vote)</a></p>
+    </td><td align="center">
+        <p><a href="https://github.com/Shubham714">Shubham Hadake</a></p>
+        <img src="https://user-images.githubusercontent.com/40699892/89451190-6db7d400-d779-11ea-8302-fd5d4f9bc8f8.png" />
+        <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/50">(:100: give your vote)</a></p>
+    </td><td align="center">
+        <p><a href="https://github.com/KarthikNayak024">Karthik Nayak</a></p>
+        <img src="https://user-images.githubusercontent.com/39642646/90327189-aa23d500-dfae-11ea-8147-53bbddc3d1c3.png" />
+        <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/56">(:100: give your vote)</a></p>
+    </td></tr><tr><td align="center">
+        <p><a href="https://github.com/Abhay2611">Abhay Anand</a></p>
+        <img src="https://user-images.githubusercontent.com/48680107/90428369-801eff80-e0e1-11ea-98b1-742aa741b7cc.png" />
+        <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/59">(:100: give your vote)</a></p>
+    </td><td align="center">
+        <p><a href="https://github.com/JoykishanSharma">Joykishan Sharma</a></p>
+        <img src="https://user-images.githubusercontent.com/47889468/90676332-78925e80-e279-11ea-9f7d-bbc2c44289b0.png" />
+        <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/62">(:100: give your vote)</a></p>
     </td><td></td></tr></table>
 <!--END_SECTION:data-section-->
 
