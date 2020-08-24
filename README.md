@@ -10,6 +10,7 @@ Feel free to submit a pull request with your suggestions of awesome github profi
 
 1. create an issue, with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image url, this will be needed in the next step)
 2. in `data.json` add your own object to the end of the file, your entry should be similar to this example:
+
 ```typescript
 {
     "name": "Eddie Jaoude",
