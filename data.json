@@ -118,5 +118,11 @@
         "githubUsername": "JoykishanSharma",
         "imageUrl": "https://user-images.githubusercontent.com/47889468/90676332-78925e80-e279-11ea-9f7d-bbc2c44289b0.png",
         "issueNumber": 62
+    },
+    {
+        "name": "Remco Halman",
+        "githubUsername": "RemcoHalman",
+        "imageUrl": "https://user-images.githubusercontent.com/25010775/91281626-9cc5d200-e788-11ea-843f-52a10890b485.jpg",
+        "issueNumber": 69
     }
 ]
