@@ -124,5 +124,11 @@
         "githubUsername": "RemcoHalman",
         "imageUrl": "https://user-images.githubusercontent.com/25010775/91281626-9cc5d200-e788-11ea-843f-52a10890b485.jpg",
         "issueNumber": 69
+    },
+    {
+        "name": "Daniel F",
+        "githubUsername": "w3bdesign",
+        "imageUrl": "https://user-images.githubusercontent.com/45217974/91754997-ae650a80-ebca-11ea-97fd-dfa011b49d79.png",
+        "issueNumber": 72
     }
 ]
