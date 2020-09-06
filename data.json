@@ -136,5 +136,11 @@
         "githubUsername": "w3bdesign",
         "imageUrl": "https://user-images.githubusercontent.com/45217974/91754997-ae650a80-ebca-11ea-97fd-dfa011b49d79.png",
         "issueNumber": 72
-    }
+    }, 
+    {
+        "name": "Russ Perry",
+        "githubUsername": "rperry99",
+        "imageUrl": "https://user-images.githubusercontent.com/24259120/92329693-1a19fe00-f037-11ea-889a-8fb530b03514.png",
+        "issueNumber": 78
+    },
 ]
