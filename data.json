@@ -136,5 +136,23 @@
         "githubUsername": "w3bdesign",
         "imageUrl": "https://user-images.githubusercontent.com/45217974/91754997-ae650a80-ebca-11ea-97fd-dfa011b49d79.png",
         "issueNumber": 72
+    },
+    {
+    "name": "Bhuvanesh Hingal",
+    "githubUsername": "BhuvaneshHingal",
+    "imageUrl": "https://user-images.githubusercontent.com/58567847/92334550-be8a5780-f0ac-11ea-9bbc-626b8dac30c6.jpg",
+    "issueNumber": 80
+    },
+    {
+    "name": "Vivek Singh",
+    "githubUsername": "vivmost",
+    "imageUrl": "https://user-images.githubusercontent.com/58567847/92334655-ad8e1600-f0ad-11ea-9de9-c44ee1ff7420.jpg",
+    "issueNumber": 81
+    },
+    {
+    "name": "Meghna Das",
+    "githubUsername": "Meghna-DAS",
+    "imageUrl": "https://user-images.githubusercontent.com/58567847/92334660-c1397c80-f0ad-11ea-9c35-45f99de50225.jpg",
+    "issueNumber": 82
     }
 ]
