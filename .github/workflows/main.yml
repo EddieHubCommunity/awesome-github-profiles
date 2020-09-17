@@ -7,7 +7,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Read/Write data into README
-      uses: eddiejaoude/github-actions-reader-writer@v0.1
+      uses: eddiejaoudecommunity/gh-actions-html-table-generator@v0.1
       with:
         json-file-path: 'data.json'
         github-token: ${{ secrets.GITHUB_TOKEN }}
