@@ -168,10 +168,10 @@
         "issueNumber": 82
     },
     {
-    "name": "Aakarsh Teja",
-    "githubUsername": "aakarshteja",
-    "imageUrl": "https://user-images.githubusercontent.com/42816874/92400662-e2e84180-f149-11ea-8304-6e76cab7fb05.png",
-    "issueNumber": 84
+        "name": "Aakarsh Teja",
+        "githubUsername": "aakarshteja",
+        "imageUrl": "https://user-images.githubusercontent.com/42816874/92400662-e2e84180-f149-11ea-8304-6e76cab7fb05.png",
+        "issueNumber": 84
     },
     {
         "name": "Ritvij Kumar Sharma",
@@ -186,9 +186,9 @@
         "issueNumber": 88
     },
     {
-    "name": "Nirmal Silwal",
-    "githubUsername": "NirmalSilwal",
-    "imageUrl": "https://user-images.githubusercontent.com/31946761/93670031-aefc0d00-fab5-11ea-9ca9-cc4bfe73fa83.png",
-    "issueNumber": 93
-}
+        "name": "Nirmal Silwal",
+        "githubUsername": "NirmalSilwal",
+        "imageUrl": "https://user-images.githubusercontent.com/31946761/93670031-aefc0d00-fab5-11ea-9ca9-cc4bfe73fa83.png",
+        "issueNumber": 93
+    }
 ]
