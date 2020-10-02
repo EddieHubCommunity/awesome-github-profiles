@@ -28,8 +28,8 @@
         "githubUsername": "praveenscience",
         "imageUrl": "https://user-images.githubusercontent.com/624760/88163309-62599a00-cc0a-11ea-8f70-8a9fd17b8eed.png",
         "issueNumber": 15
-    },    
-    {  
+    },
+    {
         "name": "Atinuke Kayode",
         "githubUsername": "iambami",
         "imageUrl": "https://user-images.githubusercontent.com/64528871/92191405-9e178e80-ee5b-11ea-8e21-108a54d77075.PNG",
@@ -142,7 +142,7 @@
         "githubUsername": "w3bdesign",
         "imageUrl": "https://user-images.githubusercontent.com/45217974/91754997-ae650a80-ebca-11ea-97fd-dfa011b49d79.png",
         "issueNumber": 72
-    }, 
+    },
     {
         "name": "Russ Perry",
         "githubUsername": "rperry99",
@@ -214,6 +214,12 @@
         "githubUsername": "Abiola-Farounbi",
         "imageUrl": "https://user-images.githubusercontent.com/49586787/94759122-fd06ef80-0396-11eb-9014-e0ac0226ea49.png",
         "issueNumber": 110
+    },
+    {
+        "name": "Ankush Singh",
+        "githubUsername": "ATCtech",
+        "imageUrl": "https://user-images.githubusercontent.com/50258860/94898939-046dec00-04b0-11eb-8a6a-10a0c59da3f0.JPG",
+        "issueNumber": 115
     },
     {
         "name": "Arturs Smirnovs",
