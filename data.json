@@ -220,5 +220,11 @@
         "githubUsername": "ATCtech",
         "imageUrl": "https://user-images.githubusercontent.com/50258860/94898939-046dec00-04b0-11eb-8a6a-10a0c59da3f0.JPG",
         "issueNumber": 115
+    },
+    {
+        "name": "Arturs Smirnovs",
+        "githubUsername": "arturssmirnovs",
+        "imageUrl": "https://user-images.githubusercontent.com/7140344/94891559-14bfa000-048b-11eb-9f3b-6d79cc4b894b.png",
+        "issueNumber": 113
     }
 ]
