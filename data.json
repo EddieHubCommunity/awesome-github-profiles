@@ -232,6 +232,12 @@
         "githubUsername": "Pratham31",
         "imageUrl": "https://user-images.githubusercontent.com/56548231/94920063-2c227b80-04d3-11eb-8474-1e1c78f22b95.png",
         "issueNumber": 118
+    },
+    {
+        "name": "Shyam Praveen Singh",
+        "githubUsername": "ShyamPraveenSingh",
+        "imageUrl": "https://user-images.githubusercontent.com/57350162/94983126-66385f80-055d-11eb-9193-1cd683dd677b.png",
+        "issueNumber": 123
     }
     {
         "name": "Ritika Das",
@@ -240,3 +246,4 @@
         "issueNumber": 121
     }
 ]
+
