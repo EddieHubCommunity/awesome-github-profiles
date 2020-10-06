@@ -186,6 +186,12 @@
         "issueNumber": 88
     },
     {
+       "name": "charan",
+       "githubUsername": "charan-web",
+       "imageUrl": "https://user-images.githubusercontent.com/56212945/93706577-39d81880-fb45-11ea-9f6c-236275f1a0be.jpg",
+       "issueNumber": 95
+    },
+    {
         "name": "Nirmal Silwal",
         "githubUsername": "NirmalSilwal",
         "imageUrl": "https://user-images.githubusercontent.com/31946761/93670031-aefc0d00-fab5-11ea-9ca9-cc4bfe73fa83.png",
@@ -246,10 +252,10 @@
         "issueNumber": 121
     }
     {
-    "name": "Michelle Sandford",
-    "githubUsername": "msandfor",
-    "imageUrl": "https://user-images.githubusercontent.com/5952956/94992077-f86e5100-05b9-11eb-819a-73fe944f59c3.png",     
-    "issueNumber": 125
+        "name": "Michelle Sandford",
+        "githubUsername": "msandfor",
+        "imageUrl": "https://user-images.githubusercontent.com/5952956/94992077-f86e5100-05b9-11eb-819a-73fe944f59c3.png",     
+        "issueNumber": 125
     }
 ]
 
