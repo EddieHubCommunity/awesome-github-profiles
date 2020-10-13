@@ -276,10 +276,16 @@
         "issuenumber": 130
     },
     {
+        "name": "Subhampreet Mohanty",
+        "gitUsername": "Subhampreet",
+        "imageUrl": "https://user-images.githubusercontent.com/61475220/95688833-8eddea80-0c2a-11eb-86f0-79916ba9499d.png",
+        "issuenumber": 131
+    },
+    {
         "name": "Shoaib Khalid",
         "gitUsername": "shoaibpython",
         "imageUrl": "https://user-images.githubusercontent.com/56650286/95706498-75f82800-0c70-11eb-8bc6-77355fb9f71e.JPG",
         "issuenumber": 139
     }
-]
 
+]
