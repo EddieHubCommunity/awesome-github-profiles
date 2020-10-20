@@ -20,7 +20,7 @@ Feel free to submit a pull request with your suggestions of awesome github profi
 }
 ```
 
-Any questions let us know
+Any questions let us know!
 
 **Join the conversation on our [Discord community](https://discord.com/invite/jZQs6Wu)**
 
