@@ -335,11 +335,17 @@
     "githubUsername": "akshitagupta15june",
     "imageUrl": "https://user-images.githubusercontent.com/57909583/97854357-58722780-1d1f-11eb-8bda-83425c231ff5.png",
     "issueNumber": 160
-       },
+  },
+  {
+	  "name": "Yajush Vyas",
+    "githubUsername": "geekyvyas",
+	  "imageUrl": "https://user-images.githubusercontent.com/35025375/98467874-c924b280-21fd-11eb-810b-2d17e0342e10.png",
+	  "issueNumber": 163
+  },
 	{
     "name": "Jennifer Rosa",
     "githubUsername": "rosajen27",
     "imageUrl": "https://raw.githubusercontent.com/rosajen27/rosajen27/master/rosajen27.png",
     "issueNumber": 165
-       }
+  }
 ]
