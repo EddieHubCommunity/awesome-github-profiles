@@ -2,10 +2,9 @@
 # This file has a "_" suffix so it ran before main.yml.
 name: Prettier Lint checker to find any syntax/spacing/best practices tweaks.
 
-# Simplify this to all pushed commits.
-on:
-  pull_request:
-    branches: [develop, main, master]
+# @see https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions#onpushpull_requestbranchestags
+# This oddly isn't the same thing. If you push to an existing pull request, the PR won't be checked, so we use both push and pull request.
+on: [push, pull_request]
 
 jobs:
     prettier:
