@@ -27,5 +27,7 @@ jobs:
                   only_changed: True
                   # We specify the prettier checker to not automatically overwrite the files.
                   dry: True
+                  # This defaults to only "**/*.js", so we specify what we have as file extensions here.
+                  prettier_options: --write **/*.{md,json,yml,yaml}
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
