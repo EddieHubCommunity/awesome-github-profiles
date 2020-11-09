@@ -1,16 +1,16 @@
 on: [push]
 
 jobs:
-  table:
-    runs-on: ubuntu-latest
-    name: Update README from json data
-    steps:
-      - uses: actions/checkout@v2
-      - name: Read/Write data into README
-        uses: eddiejaoudecommunity/gh-actions-html-table-generator@v0.1
-        with:
-          json-file-path: "data.json"
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          columns: 3
-          object-field-names: '[ "githubUsername", "name", "imageUrl", "issueNumber" ]'
-          html-cell: '<td align="center"><p><a href="https://github.com/{{ githubUsername }}">{{ name }}</a></p><img src="{{ imageUrl }}" /><p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/{{ issueNumber }}">(:100: give your vote)</a></p></td>'
+    table:
+        runs-on: ubuntu-latest
+        name: Update README from json data
+        steps:
+            - uses: actions/checkout@v2
+            - name: Read/Write data into README
+              uses: eddiejaoudecommunity/gh-actions-html-table-generator@v0.1
+              with:
+                  json-file-path: "data.json"
+                  github-token: ${{ secrets.GITHUB_TOKEN }}
+                  columns: 3
+                  object-field-names: '[ "githubUsername", "name", "imageUrl", "issueNumber" ]'
+                  html-cell: '<td align="center"><p><a href="https://github.com/{{ githubUsername }}">{{ name }}</a></p><img src="{{ imageUrl }}" /><p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/{{ issueNumber }}">(:100: give your vote)</a></p></td>'
