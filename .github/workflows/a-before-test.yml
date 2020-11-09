@@ -2,9 +2,8 @@
 # This file has a "_" suffix so it ran before main.yml.
 name: Prettier Lint checker to find any syntax/spacing/best practices tweaks.
 
-on:
-  pull_request:
-    branches: [develop]
+# Simplify this to all pushed commits.
+on: [push]
 
 jobs:
   prettier:
