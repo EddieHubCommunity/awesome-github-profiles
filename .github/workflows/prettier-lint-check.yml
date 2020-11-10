@@ -1,9 +1,8 @@
 # @see https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/173
-# This file has a "_" suffix so it ran before main.yml.
 name: Prettier Lint checker to find any syntax/spacing/best practices tweaks.
 
 # @see https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions#onpushpull_requestbranchestags
-# This oddly isn't the same thing. If you push to an existing pull request, the PR won't be checked, so we use both push and pull request.
+# "Push" is every commit to any branch, whilst "pull_request" includes update commits to PRs.
 on: [push, pull_request]
 
 jobs:
