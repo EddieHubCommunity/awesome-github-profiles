@@ -311,12 +311,11 @@
         "imageUrl": "https://user-images.githubusercontent.com/48387278/96334933-121b9800-1092-11eb-8904-a88502c8b003.png",
         "issuenumber": 147
     },
-	{		
+    {		
         "name": "Mallikarjun H T",
         "gitUsername": "MallikarjunHt",
         "imageUrl": "https://user-images.githubusercontent.com/40291553/95041576-b72e8c00-06f4-11eb-8e29-61e76c681f98.png",
         "issuenumber": 127
-	
 	},
 	{
 	    "name": "Adriano Laureano",
@@ -359,7 +358,4 @@
     "githubUsername": "JayantGoel001",
     "imageUrl": "https://user-images.githubusercontent.com/54479676/98487992-88a05580-224c-11eb-8e76-d8a59aa05bd4.png",
     "issueNumber": 169
-
-  }
-
-]
+ }
