@@ -1,11 +1,5 @@
 [
   {
-    "name": "Anjan Diyora",
-    "githubUsername": "Anjan50",
-    "imageUrl": "https://user-images.githubusercontent.com/49095535/102576689-37716480-411c-11eb-804e-2b331e4e72e6.png",
-    "issueNumber": 190
-  }
-  {
     "name": "Savio Martin",
     "githubUsername": "saviomartin",
     "imageUrl": "https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/saviomartin.png",
@@ -370,5 +364,11 @@
     "githubUsername": "makuzaverite",
     "imageUrl": "https://user-images.githubusercontent.com/53856673/102192030-10423b00-3e6f-11eb-8494-a684cebb2ecc.png",
     "issueNumber": 186
+  }
+  {
+    "name": "Anjan Diyora",
+    "githubUsername": "Anjan50",
+    "imageUrl": "https://user-images.githubusercontent.com/49095535/102576689-37716480-411c-11eb-804e-2b331e4e72e6.png",
+    "issueNumber": 190
   }
 ]
