@@ -391,8 +391,14 @@
   },
   {
     "name": "Franklin Okolie",
-    "githubUsername":"DeveloperAspire",
-    "imageUrl":"https://user-images.githubusercontent.com/57295537/103459329-e1e9aa00-4d0e-11eb-9758-5351230c2df8.png",
+    "githubUsername": "DeveloperAspire",
+    "imageUrl": "https://user-images.githubusercontent.com/57295537/103459329-e1e9aa00-4d0e-11eb-9758-5351230c2df8.png",
     "issueNumber": 207
+  },
+  {
+    "name": "Jonah Lawrence",
+    "githubUsername": "DenverCoder1",
+    "imageUrl": "https://user-images.githubusercontent.com/20955511/103463192-546c8100-4d33-11eb-9197-fec4c5396e27.png",
+    "issueNumber": 209
   }
 ]
