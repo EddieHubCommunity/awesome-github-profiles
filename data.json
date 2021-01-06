@@ -6,12 +6,6 @@
     "issueNumber": 98
   },
   {
-    "name": "Md. Manzum Rahman",
-    "githubUsername": "manzumrahman",
-    "imageUrl": "https://user-images.githubusercontent.com/63909405/103669582-baab0b00-4fa2-11eb-9e79-d21a269096a1.png",
-    "issueNumber": 220
-  },
-  {
     "name": "Akas Rai",
     "githubUsername": "akasrai",
     "imageUrl": "https://user-images.githubusercontent.com/624760/88123456-d40df580-cbc2-11ea-9add-a7fc8675b243.png",
@@ -412,5 +406,11 @@
     "githubUsername": "DenverCoder1",
     "imageUrl": "https://user-images.githubusercontent.com/20955511/103463192-546c8100-4d33-11eb-9197-fec4c5396e27.png",
     "issueNumber": 209
+  },
+  {
+    "name": "Md. Manzum Rahman",
+    "githubUsername": "manzumrahman",
+    "imageUrl": "https://user-images.githubusercontent.com/63909405/103669582-baab0b00-4fa2-11eb-9e79-d21a269096a1.png",
+    "issueNumber": 220
   }
 ]
