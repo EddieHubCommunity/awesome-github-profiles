@@ -408,6 +408,12 @@
     "issueNumber": 209
   },
   {
+    "name": "Ahmed Muhammed Galadima",
+    "githubUsername": "ApolloDev0",
+    "imageUrl": "https://user-images.githubusercontent.com/68035852/103576376-18c4e900-4ee4-11eb-943e-3e097b0cc6a8.png",
+    "issueNumber": 210
+  },
+  {
     "name": "Utkarsh Singh",
     "githubUsername": "Utkarsh299-tech",
     "imageUrl": "https://user-images.githubusercontent.com/60184229/103612077-a7b81c80-4f49-11eb-90eb-0002bc43e97c.png",
@@ -424,5 +430,11 @@
     "githubUsername": "manzumrahman",
     "imageUrl": "https://user-images.githubusercontent.com/63909405/103669582-baab0b00-4fa2-11eb-9e79-d21a269096a1.png",
     "issueNumber": 220
+  },
+  {
+    "name": "Tawfik Yasser",
+    "githubUsername": "TawfikYasser",
+    "imageUrl": "https://user-images.githubusercontent.com/54971231/103836002-6bdb9f00-5090-11eb-9501-dc21ccbf3607.png",
+    "issueNumber": 227
   }
 ]
