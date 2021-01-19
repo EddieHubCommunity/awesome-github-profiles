@@ -19,6 +19,7 @@ Feel free to submit a pull request with your suggestions of awesome github profi
     "issueNumber": 66
 }
 ```
+
 **Note** : Please do not edit anything below `<!--START_SECTION:data-section-->` in `README.MD` our [GitHub Action](https://github.com/EddieJaoudeCommunity/gh-action-community) will make the necessary changes for you. 
 
 Any questions let us know!
