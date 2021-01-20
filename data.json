@@ -456,12 +456,6 @@
     "issueNumber": 237
   },
   {
-    "name": "Douglas Franklin",
-    "githubUsername": "idamezhim",
-    "imageUrl": "https://user-images.githubusercontent.com/70078201/104479251-7f709380-55c3-11eb-9b28-4cd3bf56f7df.png",
-    "issueNumber": 241
-  },
-  {
     "name": "Filippo Fonseca",
     "githubUsername": "filippo-fonseca",
     "imageUrl": "https://user-images.githubusercontent.com/48065878/104632919-feb5a400-5663-11eb-8dd0-b05cfd377158.png",
@@ -472,6 +466,12 @@
     "githubUsername": "paulsonjpaul",
     "imageUrl": "https://user-images.githubusercontent.com/73777251/104731775-360a7a80-5762-11eb-8a86-b50d98b58b01.png",
     "issueNumber": 247
+  },
+  {
+    "name": "Douglas Franklin",
+    "githubUsername": "idamezhim",
+    "imageUrl": "https://user-images.githubusercontent.com/70078201/104479251-7f709380-55c3-11eb-9b28-4cd3bf56f7df.png",
+    "issueNumber": 241
   }
 
 ]
