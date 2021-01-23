@@ -1,11 +1,5 @@
 [
   {
-    "name": "Saumya Ranjan Nayak",
-    "githubUsername": "saumya66",
-    "imageUrl": "https://user-images.githubusercontent.com/60464414/104895387-d0a1ce00-599b-11eb-8bc0-58d79507051b.jpg",
-    "issueNumber": 249
-  }
-  {
     "name": "Savio Martin",
     "githubUsername": "saviomartin",
     "imageUrl": "https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/saviomartin.png",
@@ -472,5 +466,11 @@
     "githubUsername": "paulsonjpaul",
     "imageUrl": "https://user-images.githubusercontent.com/73777251/104731775-360a7a80-5762-11eb-8a86-b50d98b58b01.png",
     "issueNumber": 247
+  },
+  {
+    "name": "Saumya Ranjan Nayak",
+    "githubUsername": "saumya66",
+    "imageUrl": "https://user-images.githubusercontent.com/60464414/104895387-d0a1ce00-599b-11eb-8bc0-58d79507051b.jpg",
+    "issueNumber": 249
   }
 ]
