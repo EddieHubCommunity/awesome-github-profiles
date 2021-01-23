@@ -2,7 +2,7 @@
   {
     "name": "Savio Martin",
     "githubUsername": "saviomartin",
-    "imageUrl": "https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/saviomartin.png",
+    "imageUrl": "https://user-images.githubusercontent.com/45217974/104979077-b3a0e580-5a03-11eb-892f-8eaa3b8bb214.png",
     "issueNumber": 98
   },
   {
@@ -140,7 +140,7 @@
   {
     "name": "Daniel F",
     "githubUsername": "w3bdesign",
-    "imageUrl": "https://user-images.githubusercontent.com/45217974/91754997-ae650a80-ebca-11ea-97fd-dfa011b49d79.png",
+    "imageUrl": "https://user-images.githubusercontent.com/45217974/104978190-9b2fcb80-5a01-11eb-81d6-af81f6147770.png",
     "issueNumber": 72
   },
   {
@@ -472,5 +472,23 @@
     "githubUsername": "Olanetsoft",
     "imageUrl": "https://user-images.githubusercontent.com/45847909/104912483-9da40e00-598c-11eb-8881-971faeaecd9d.png",
     "issueNumber": 254
+  },
+  {
+    "name": "Kushal Das",
+    "githubUsername": "Kushal997-das",
+    "imageUrl": "https://user-images.githubusercontent.com/61356005/104895611-1c547780-599c-11eb-8538-04f74005a4b4.png",
+    "issueNumber": 250
+  },
+  {
+    "name": "Jaskeerat Singh",
+    "githubUsername": "Jassi10000",
+    "imageUrl": "https://user-images.githubusercontent.com/64856348/105141728-9f520b00-5b1f-11eb-924f-d87a5ac8e9f0.jpg",
+    "issueNumber": 265
+  },
+  {
+    "name": "Saumya Ranjan Nayak",
+    "githubUsername": "saumya66",
+    "imageUrl": "https://user-images.githubusercontent.com/60464414/104895387-d0a1ce00-599b-11eb-8bc0-58d79507051b.jpg",
+    "issueNumber": 249
   }
 ]
