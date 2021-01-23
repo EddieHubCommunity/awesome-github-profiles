@@ -4,6 +4,7 @@ jobs:
     table:
         runs-on: ubuntu-latest
         name: Update README from json data
+        if: github.repository_owner == 'EddieJaoudeCommunity'
         steps:
             - uses: actions/checkout@v2
             - name: Read/Write data into README
