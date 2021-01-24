@@ -468,10 +468,22 @@
     "issueNumber": 247
   },
   {
+    "name": "Idris Olubisi",
+    "githubUsername": "Olanetsoft",
+    "imageUrl": "https://user-images.githubusercontent.com/45847909/104912483-9da40e00-598c-11eb-8881-971faeaecd9d.png",
+    "issueNumber": 254
+  },
+  {
     "name": "Kushal Das",
     "githubUsername": "Kushal997-das",
     "imageUrl": "https://user-images.githubusercontent.com/61356005/104895611-1c547780-599c-11eb-8538-04f74005a4b4.png",
     "issueNumber": 250
+  },
+  {
+    "name": "Jaskeerat Singh",
+    "githubUsername": "Jassi10000",
+    "imageUrl": "https://user-images.githubusercontent.com/64856348/105141728-9f520b00-5b1f-11eb-924f-d87a5ac8e9f0.jpg",
+    "issueNumber": 265
   },
   {
     "name": "Saumya Ranjan Nayak",
