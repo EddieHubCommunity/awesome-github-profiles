@@ -502,7 +502,7 @@
     "githubUsername": "Ayush7614",
     "imageUrl": "https://user-images.githubusercontent.com/67006255/106144942-ee8ce100-619a-11eb-908d-4bdceade5661.png",
     "issueNumber": 283
-  }, 
+  },
   {
     "name": "Vatsal Kesarwani",
     "githubUsername": "plazzy99",
@@ -520,5 +520,11 @@
     "githubUsername": "webdevrachit",
     "imageUrl": "https://user-images.githubusercontent.com/72686780/106394124-fa89d480-6420-11eb-837b-fbf179a7697d.png",
     "issueNumber": 286
+  },
+  {
+    "name": "Ivan Pesenti",
+    "githubUsername": "ivan-pesenti",
+    "imageUrl": "https://user-images.githubusercontent.com/60645922/106567973-ea621a00-6532-11eb-949b-4999700efce1.png",
+    "issueNumber": 308
   }
 ]
