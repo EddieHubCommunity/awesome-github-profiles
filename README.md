@@ -9,7 +9,10 @@ Feel free to submit a pull request with your suggestions of awesome github profi
 ### To add your github profile
 
 1. create an issue, with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image url, this will be needed in the next step)
-2. in `data.json` add your own object to the end of the file, your entry should be similar to this example:
+
+2. Fork the project
+
+3. in `data.json` add your own object to the end of the file, your entry should be similar to this example:
 
 ```typescript
 {
@@ -21,6 +24,10 @@ Feel free to submit a pull request with your suggestions of awesome github profi
 ```
 
 **Note** : Please do not edit anything below `<!--START_SECTION:data-section-->` in `README.MD` our [GitHub Action](https://github.com/EddieJaoudeCommunity/gh-action-community) will make the necessary changes for you.
+
+4. Create a PullRequest to add the changes to this Ropository. Please change the title to `add your-username` and in the description add `resolve #4711` (4711 has to be replaced with you issue number)
+
+5. The Pullrequest will be approved as soon as possible and afer merge is done you will see you entry in the list
 
 Any questions let us know!
 
