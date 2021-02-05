@@ -25,7 +25,7 @@ Feel free to submit a pull request with your suggestions of awesome github profi
 
 **Note** : Please do not edit anything below `<!--START_SECTION:data-section-->` in `README.MD` our [GitHub Action](https://github.com/EddieJaoudeCommunity/gh-action-community) will make the necessary changes for you.
 
-4. Create a PullRequest to add the changes to this Ropository. Please change the title to `add your-username` and in the description add `resolve #4711` (4711 has to be replaced with you issue number)
+4. Create a PullRequest to add the changes to this Ropository. Please change the title to `add your-username` and in the description add `resolve #issueNumber`
 
 5. The Pullrequest will be approved as soon as possible and afer merge is done you will see you entry in the list
 
