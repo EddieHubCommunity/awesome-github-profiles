@@ -1,11 +1,5 @@
 [
   {
-    "name": "Chandrika Deb",
-    "githubUsername": "chandrikadeb7",
-    "imageUrl": "https://user-images.githubusercontent.com/29686102/106919215-f0711a00-672f-11eb-88f6-8ab44f67b911.png",
-    "issueNumber": 313
-  },
-  {
     "name": "Savio Martin",
     "githubUsername": "saviomartin",
     "imageUrl": "https://user-images.githubusercontent.com/45217974/104979077-b3a0e580-5a03-11eb-892f-8eaa3b8bb214.png",
@@ -532,5 +526,11 @@
     "githubUsername": "varghesejose2020",
     "imageUrl": "https://user-images.githubusercontent.com/71702982/106555821-526d2c00-6544-11eb-9da0-076566844959.JPG",
     "issueNumber": 302
+  },
+  {
+    "name": "Chandrika Deb",
+    "githubUsername": "chandrikadeb7",
+    "imageUrl": "https://user-images.githubusercontent.com/29686102/106919215-f0711a00-672f-11eb-88f6-8ab44f67b911.png",
+    "issueNumber": 313
   }
 ]
