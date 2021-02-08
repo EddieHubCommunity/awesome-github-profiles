@@ -434,7 +434,7 @@
   {
     "name": "Tawfik Yasser",
     "githubUsername": "TawfikYasser",
-    "imageUrl": "https://user-images.githubusercontent.com/54971231/103836002-6bdb9f00-5090-11eb-9501-dc21ccbf3607.png",
+    "imageUrl": "https://user-images.githubusercontent.com/54971231/107149052-42e44d80-695f-11eb-9fbf-83c20f4a3e0a.png",
     "issueNumber": 227
   },
   {
@@ -534,9 +534,27 @@
     "issueNumber": 304
   },
   {
+    "name": "Roald Nefs",
+    "githubUsername": "roaldnefs",
+    "imageUrl": "https://user-images.githubusercontent.com/6523325/106946650-a8e78f80-6729-11eb-9f51-a580cdf9e6f1.png",
+    "issueNumber": 315
+  },
+  {
     "name": "Olanrewaju Alaba",
     "githubUsername": "chryzcodez",
     "imageUrl": "https://user-images.githubusercontent.com/77321169/106990847-5cc23c80-6775-11eb-83ae-3160bce68b20.jpg",
     "issueNumber": 306
+  },
+  {
+    "name": "Muhammad Awais",
+    "githubUsername": "muhammadawaisshaikh",
+    "imageUrl": "https://user-images.githubusercontent.com/24633059/107117015-17972b00-6899-11eb-8670-b7bf41a77d32.png",
+    "issueNumber": 340
+  },
+  {
+    "name": "Ibtihel Ouni",
+    "githubUsername": "Ibtihel-ouni",
+    "imageUrl": "https://user-images.githubusercontent.com/58151963/107116883-97f86480-6876-11eb-8382-fc1c6ce06403.png",
+    "issueNumber": 338
   }
 ]
