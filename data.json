@@ -516,6 +516,12 @@
     "issueNumber": 285
   },
   {
+    "name": "Shreya Purohit",
+    "githubUsername": "shreyalive",
+    "imageUrl": "https://user-images.githubusercontent.com/63795399/106517095-07c8c100-64fe-11eb-807a-64405ddb4db0.png",
+    "issueNumber": 297
+  },
+  {
     "name": "Rachit Tandon",
     "githubUsername": "webdevrachit",
     "imageUrl": "https://user-images.githubusercontent.com/72686780/106394124-fa89d480-6420-11eb-837b-fbf179a7697d.png",
@@ -604,5 +610,11 @@
     "githubUsername": "hossainrabbi",
     "imageUrl": "https://user-images.githubusercontent.com/67089472/107899660-189b1d00-6f69-11eb-8361-086bb1b05d19.png",
     "issueNumber": 366
+  },
+  {
+    "name": "Danish Ul Hassan",
+    "githubUsername": "danishulhassan7",
+    "imageUrl": "https://user-images.githubusercontent.com/57491009/107846186-87f6fc80-6e03-11eb-9054-d89fba7d4e65.PNG",
+    "issueNumber": 359
   }
 ]
