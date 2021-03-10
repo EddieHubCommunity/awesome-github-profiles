@@ -528,6 +528,12 @@
     "issueNumber": 286
   },
   {
+    "name": "Ankush Chauhan",
+    "githubUsername": "An-prog-hub",
+    "imageUrl": "https://user-images.githubusercontent.com/67872399/106575972-a71f9f80-6562-11eb-87dc-1b97d93f4d71.png",
+    "issueNumber": 310
+  },
+  {
     "name": "Varghese Jose",
     "githubUsername": "varghesejose2020",
     "imageUrl": "https://user-images.githubusercontent.com/71702982/106555821-526d2c00-6544-11eb-9da0-076566844959.JPG",
@@ -648,6 +654,12 @@
     "issueNumber": 388
   },
   {
+    "name": "Fabricio Cavalcante",
+    "githubUsername": "fcsouza",
+    "imageUrl": "https://user-images.githubusercontent.com/7094035/109435109-7f074d00-79f7-11eb-9e98-9486279e5a63.png",
+    "issueNumber": 378
+  },
+  {
     "name": "Rishabh Dwivedi",
     "githubUsername": "rishabh062",
     "imageUrl": "https://user-images.githubusercontent.com/57454462/109994066-f3612980-7d32-11eb-97b3-5940a4f35ce7.png",
@@ -658,6 +670,13 @@
     "githubUsername": "aryasoni98",
     "imageUrl": "https://user-images.githubusercontent.com/18515597/107496228-0b6fde00-6bb7-11eb-9a23-15d3f8aac015.png",
     "issueNumber": 354
+  },
+  {
+    "name": "Cas Martens",
+    "githubUsername": "DevCassie",
+    "imageUrl": "https://user-images.githubusercontent.com/19227530/110542942-fa6cab00-8129-11eb-9835-d482375dae8a.png",
+    "issueNumber": 394
+
   }
 
 ]
