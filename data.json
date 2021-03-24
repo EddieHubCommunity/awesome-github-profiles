@@ -688,5 +688,17 @@
     "githubUsername": "pvcodes",
     "imageUrl": "https://user-images.githubusercontent.com/54075838/111760905-40153a80-88c5-11eb-9600-aa49a78ddd05.png",
     "issueNumber": 399
+  },
+  {
+    "name": "Rohan Kulkarni",
+    "githubUsername": "rohank2502",
+    "imageUrl": "https://user-images.githubusercontent.com/76584243/111806629-30fbb000-88f8-11eb-892c-c64d7e88d035.png",
+    "issueNumber": 401
+  },
+  {
+    "name": "Chinmay Mhatre",
+    "githubUsername": "ChinmayMhatre",
+    "imageUrl": "https://user-images.githubusercontent.com/51131670/111893373-5091f600-8a28-11eb-8e94-48b23eec0495.PNG",
+    "issueNumber": 403
   }
 ]
