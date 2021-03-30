@@ -1,11 +1,5 @@
 [
   {
-    "name": "Tarun Kamboj",
-    "githubUsername": "Tarun-Kamboj",
-    "imageUrl": "https://user-images.githubusercontent.com/56023742/112745083-62910d00-8fc3-11eb-9f48-ee1cbc7bacd9.PNG",
-    "issueNumber": 419
-  },
-  {
     "name": "Savio Martin",
     "githubUsername": "saviomartin",
     "imageUrl": "https://user-images.githubusercontent.com/45217974/104979077-b3a0e580-5a03-11eb-892f-8eaa3b8bb214.png",
@@ -88,6 +82,12 @@
     "githubUsername": "adreaskar",
     "imageUrl": "https://user-images.githubusercontent.com/63111742/88703846-eed9f000-d115-11ea-9569-587de740a27a.jpg",
     "issueNumber": 39
+  },
+  {
+    "name": "Tarun Kamboj",
+    "githubUsername": "Tarun-Kamboj",
+    "imageUrl": "https://user-images.githubusercontent.com/56023742/112745083-62910d00-8fc3-11eb-9f48-ee1cbc7bacd9.PNG",
+    "issueNumber": 419
   },
   {
     "name": "Max Bridgland",
