@@ -674,7 +674,7 @@
   {
     "name": "Cas Martens",
     "githubUsername": "DevCassie",
-    "imageUrl": "https://user-images.githubusercontent.com/19227530/110542942-fa6cab00-8129-11eb-9835-d482375dae8a.png",
+    "imageUrl": "https://user-images.githubusercontent.com/19227530/112297527-4b39e300-8c96-11eb-9da2-717607286946.png",
     "issueNumber": 394
   },
   {
@@ -682,6 +682,12 @@
     "githubUsername": "SubhamRaoniar28",
     "imageUrl": "https://user-images.githubusercontent.com/41485604/111068853-767f3e00-84f0-11eb-9122-80af0d842463.jpg",
     "issueNumber": 397
+  },
+  {
+    "name": "Pranjal Verma",
+    "githubUsername": "pvcodes",
+    "imageUrl": "https://user-images.githubusercontent.com/54075838/111760905-40153a80-88c5-11eb-9600-aa49a78ddd05.png",
+    "issueNumber": 399
   },
   {
     "name": "Rohan Kulkarni",
@@ -694,5 +700,17 @@
     "githubUsername": "ChinmayMhatre",
     "imageUrl": "https://user-images.githubusercontent.com/51131670/111893373-5091f600-8a28-11eb-8e94-48b23eec0495.PNG",
     "issueNumber": 403
+  },
+  {
+    "name": "Kingsley Victor",
+    "githubUsername": "kingsley-einstein",
+    "imageUrl": "https://user-images.githubusercontent.com/35224620/112137884-1c0d6e00-8bd1-11eb-9f40-9c578888669f.png",
+    "issueNumber": 407
+  },
+  {
+    "name": "Ivelin Iliev",
+    "githubUsername": "Iwi4a",
+    "imageUrl": "https://user-images.githubusercontent.com/20727684/112530125-fb464380-8d9d-11eb-963a-0a8b25a7a87f.png",
+    "issueNumber": 412
   }
 ]
