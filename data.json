@@ -744,9 +744,15 @@
     "issueNumber": 425
   },
   {
+    "name": "Karan Singh",
+    "githubUsername": "karan-ksrk",
+    "imageUrl": "https://user-images.githubusercontent.com/44173143/113564123-6c032080-9626-11eb-80ec-e59b75892328.png",
+    "issueNumber": 431
+  },
+  {
     "name": "Yash Sehgal",
     "githubUsername": "yashsehgal",
     "imageUrl": "https://user-images.githubusercontent.com/62352288/113475867-6aeeb980-9495-11eb-86be-bfa0085a6f48.png",
-    "issueNumber": "429 "
+    "issueNumber": 429
   }
 ]
