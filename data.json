@@ -674,7 +674,7 @@
   {
     "name": "Cas Martens",
     "githubUsername": "DevCassie",
-    "imageUrl": "https://user-images.githubusercontent.com/19227530/110542942-fa6cab00-8129-11eb-9835-d482375dae8a.png",
+    "imageUrl": "https://user-images.githubusercontent.com/19227530/112297527-4b39e300-8c96-11eb-9da2-717607286946.png",
     "issueNumber": 394
   },
   {
@@ -682,6 +682,12 @@
     "githubUsername": "SubhamRaoniar28",
     "imageUrl": "https://user-images.githubusercontent.com/41485604/111068853-767f3e00-84f0-11eb-9122-80af0d842463.jpg",
     "issueNumber": 397
+  },
+  {
+    "name": "Pranjal Verma",
+    "githubUsername": "pvcodes",
+    "imageUrl": "https://user-images.githubusercontent.com/54075838/111760905-40153a80-88c5-11eb-9600-aa49a78ddd05.png",
+    "issueNumber": 399
   },
   {
     "name": "Rohan Kulkarni",
@@ -700,5 +706,41 @@
     "githubUsername": "Tarun-Kamboj",
     "imageUrl": "https://user-images.githubusercontent.com/56023742/112745083-62910d00-8fc3-11eb-9f48-ee1cbc7bacd9.PNG",
     "issueNumber": 419
+  },
+  {
+    "name": "Sefat Siddiquea Sifa",
+    "githubUsername": "sifa123",
+    "imageUrl": "https://user-images.githubusercontent.com/63462931/112490528-a3add500-8da9-11eb-853e-9972b42e5caf.png",
+    "issueNumber": 410
+  }.
+  {
+    "name": "Kingsley Victor",
+    "githubUsername": "kingsley-einstein",
+    "imageUrl": "https://user-images.githubusercontent.com/35224620/112137884-1c0d6e00-8bd1-11eb-9f40-9c578888669f.png",
+    "issueNumber": 407
+  },
+  {
+    "name": "Ivelin Iliev",
+    "githubUsername": "Iwi4a",
+    "imageUrl": "https://user-images.githubusercontent.com/20727684/112530125-fb464380-8d9d-11eb-963a-0a8b25a7a87f.png",
+    "issueNumber": 412
+  },
+  {
+    "name": "Bryson Mundia",
+    "githubUsername": "Bryson69",
+    "imageUrl": "https://user-images.githubusercontent.com/62892010/113439186-ba2fde00-93f2-11eb-8042-bdb111493c18.png",
+    "issueNumber": 423
+  },
+  {
+    "name": "Khushi Sharma",
+    "githubUsername": "KhushiSharma22",
+    "imageUrl": "https://user-images.githubusercontent.com/67903164/112979129-cd824580-9175-11eb-8fc7-09169b54d5e9.png",
+    "issueNumber": 421
+  },
+  {
+    "name": "Hariharan B",
+    "githubUsername": "HariAcidReign",
+    "imageUrl": "https://user-images.githubusercontent.com/58134096/113426876-b2bc0500-93f1-11eb-962e-772207a6e965.png",
+    "issueNumber": 425
   }
 ]
