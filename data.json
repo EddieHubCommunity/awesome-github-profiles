@@ -636,7 +636,7 @@
     "issueNumber": 359
   },
   {
-    "name": "Tom Schmelzer",
+    "name": "schmelto",
     "githubUsername": "schmelto",
     "imageUrl": "https://user-images.githubusercontent.com/30869493/108380804-7ea4d000-7207-11eb-8f3e-2d00b21d1456.png",
     "issueNumber": 373
@@ -754,5 +754,11 @@
     "githubUsername": "yashsehgal",
     "imageUrl": "https://user-images.githubusercontent.com/62352288/113475867-6aeeb980-9495-11eb-86be-bfa0085a6f48.png",
     "issueNumber": 429
+  },
+  {
+    "name": "Mohit singh",
+    "githubUsername": "anotherwebguy",
+    "imageUrl": "https://user-images.githubusercontent.com/66346161/114270825-18c90d80-9a2c-11eb-9173-1c072e90ac27.png",
+    "issueNumber": 436
   }
 ]
