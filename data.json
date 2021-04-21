@@ -404,7 +404,7 @@
   {
     "name": "Jonah Lawrence",
     "githubUsername": "DenverCoder1",
-    "imageUrl": "https://user-images.githubusercontent.com/20955511/103463192-546c8100-4d33-11eb-9197-fec4c5396e27.png",
+    "imageUrl": "https://user-images.githubusercontent.com/20955511/115257585-e6f52c80-a138-11eb-86a5-22d9e4e3a062.png",
     "issueNumber": 209
   },
   {
@@ -762,9 +762,17 @@
     "issueNumber": 436
   },
   {
+
     "name": "Rudra Barad",
     "githubUsername": "rudrabarad",
     "imageUrl": "https://user-images.githubusercontent.com/53337681/115293769-5983fd80-a175-11eb-91f8-dbdadf06a8b0.png",
     "issueNumber": 440
+  },
+  {
+    "name": "Rishabh Rathore",
+    "githubUsername": "Rishabhrathore055",
+    "imageUrl": "https://user-images.githubusercontent.com/77366500/115426452-234e8880-a21e-11eb-9e2d-c508acdb921f.jpg",
+    "issueNumber": 445
+
   }
 ]
