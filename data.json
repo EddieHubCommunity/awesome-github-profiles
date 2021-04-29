@@ -766,5 +766,23 @@
     "githubUsername": "Rishabhrathore055",
     "imageUrl": "https://user-images.githubusercontent.com/77366500/115426452-234e8880-a21e-11eb-9e2d-c508acdb921f.jpg",
     "issueNumber": 445
+  },
+  {
+    "name": "Saswat Samal",
+    "githubUsername": "saswatsamal",
+    "imageUrl": "https://user-images.githubusercontent.com/39031660/116078640-7d36ce80-a6b4-11eb-8987-525d3c2ad64d.png",
+    "issueNumber": 462
+  },
+  {
+    "name": "Angshu Bhadra",
+    "githubUsername": "angshuBHADRA",
+    "imageUrl": "https://user-images.githubusercontent.com/61795945/116436758-56ba9400-a86a-11eb-9eb4-82da46fef05a.png",
+    "issueNumber": 464
+  },
+  {
+    "name": "Sam Varghese",
+    "githubUsername": "Sam-Varghese",
+    "imageUrl": "https://user-images.githubusercontent.com/79152648/116452787-b79e9800-a87b-11eb-852c-14509cd1c33e.jpeg",
+    "issueNumber": 467
   }
 ]
