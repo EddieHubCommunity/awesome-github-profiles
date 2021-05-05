@@ -6,7 +6,7 @@ List of GitHub profiles that have awesome customisation, that you can use for in
 
 Feel free to submit a pull request with your suggestions of awesome github profiles.
 
-### To add your github profile
+## To add your github profile
 
 1. Create an issue, with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image url, this will be needed in the next step)
 
