@@ -421,8 +421,8 @@
   },
   {
     "name": "Vincent Villafuerte",
-    "githubUsername": "vinzvinci98",
-    "imageUrl": "https://user-images.githubusercontent.com/73097560/103608126-91b05900-4f55-11eb-84af-d30f20d9332c.png",
+    "githubUsername": "vinzvinci",
+    "imageUrl": "https://user-images.githubusercontent.com/73097560/117130491-b49f2c80-add2-11eb-90bb-a04331c96a4b.png",
     "issueNumber": 215
   },
   {
@@ -807,13 +807,31 @@
     "name": "Anh Hoang Chi Tran",
     "githubUsername": "longqua69",
     "imageUrl": "https://user-images.githubusercontent.com/37626565/115994832-da724780-a602-11eb-8a4f-6ab6d151715d.PNG",
-    "issueNumber": 459 
+    "issueNumber": 459
   },
   {
     "name": "vonhyou",
     "githubUsername": "vonhyou",
     "imageUrl": "https://user-images.githubusercontent.com/29454668/115579668-f8853280-a2f8-11eb-8372-95202883ac86.png",
     "issueNumber": 451
+  },
+  {
+    "name": "Krish",
+    "githubUsername": "krishdevdb",
+    "imageUrl": "https://user-images.githubusercontent.com/76587897/117103511-1db57e80-ad98-11eb-83cc-7dd9ab1f64ab.png",
+    "issueNumber": 473
+  },
+  {
+    "name": "Harikrushn kanani",
+    "githubUsername": "harikanani",
+    "imageUrl": "https://user-images.githubusercontent.com/54361799/116959271-c1306180-acba-11eb-8f59-2ee53b9da174.jpg",
+    "issueNumber": 469
+  },
+  {
+    "name": "Karuna Tata",
+    "githubUsername": "starlightknown",
+    "imageUrl": "https://user-images.githubusercontent.com/74637789/117139898-6128e080-adca-11eb-8cc1-0277b7e43114.png",
+    "issueNumber": 479
   },
   {
     "name": "Kaiwalya Koparkar",
