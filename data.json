@@ -421,8 +421,8 @@
   },
   {
     "name": "Vincent Villafuerte",
-    "githubUsername": "vinzvinci98",
-    "imageUrl": "https://user-images.githubusercontent.com/73097560/103608126-91b05900-4f55-11eb-84af-d30f20d9332c.png",
+    "githubUsername": "vinzvinci",
+    "imageUrl": "https://user-images.githubusercontent.com/73097560/117130491-b49f2c80-add2-11eb-90bb-a04331c96a4b.png",
     "issueNumber": 215
   },
   {
@@ -774,6 +774,12 @@
     "issueNumber": 445
   },
   {
+    "name": "Nikita jain",
+    "githubUsername": "nikita-jain-01",
+    "imageUrl": "https://user-images.githubusercontent.com/72670446/115362754-7c4afc00-a1df-11eb-84be-97a7554ae69b.png",
+    "issueNumber": 442
+  },
+  {
     "name": "Advaith U",
     "githubUsername": "advaith-unnikrishnan",
     "imageUrl": "https://user-images.githubusercontent.com/45172876/115498803-d73a2d00-a28b-11eb-809c-79a8eaf10a5d.png",
@@ -807,7 +813,7 @@
     "name": "Anh Hoang Chi Tran",
     "githubUsername": "longqua69",
     "imageUrl": "https://user-images.githubusercontent.com/37626565/115994832-da724780-a602-11eb-8a4f-6ab6d151715d.PNG",
-    "issueNumber": 459 
+    "issueNumber": 459
   },
   {
     "name": "vonhyou",
@@ -820,5 +826,29 @@
     "githubUsername": "evavic44",
     "imageUrl": "https://user-images.githubusercontent.com/62628408/117089670-0b165780-ad4e-11eb-84c6-7b24f8956048.png",
     "issueNumber": 471
+  },
+  {
+    "name": "Krish",
+    "githubUsername": "krishdevdb",
+    "imageUrl": "https://user-images.githubusercontent.com/76587897/117103511-1db57e80-ad98-11eb-83cc-7dd9ab1f64ab.png",
+    "issueNumber": 473
+  },
+  {
+    "name": "Harikrushn kanani",
+    "githubUsername": "harikanani",
+    "imageUrl": "https://user-images.githubusercontent.com/54361799/116959271-c1306180-acba-11eb-8f59-2ee53b9da174.jpg",
+    "issueNumber": 469
+  },
+  {
+    "name": "Karuna Tata",
+    "githubUsername": "starlightknown",
+    "imageUrl": "https://user-images.githubusercontent.com/74637789/117139898-6128e080-adca-11eb-8cc1-0277b7e43114.png",
+    "issueNumber": 479
+  },
+  {
+    "name": "Kaiwalya Koparkar",
+    "githubUsername": "kaiwalyakoparkar",
+    "imageUrl": "https://user-images.githubusercontent.com/53310847/117104479-d3350180-ad99-11eb-8152-2afaff67fe04.png",
+    "issueNumber": 475
   }
 ]
