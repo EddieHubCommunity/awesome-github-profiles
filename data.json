@@ -864,6 +864,12 @@
     "issueNumber": 487
   },
   {
+    "name": "Joel Nickson",
+    "githubUsername": "Joel-Nickson",
+    "imageUrl": "https://user-images.githubusercontent.com/61058781/117574506-00b3df00-b0fb-11eb-808d-a653374f0fd1.png",
+    "issueNumber": 485
+  },
+  {
     "name": "Supraja Arthi",
     "githubUsername": "suprajaarthi",
     "imageUrl": "https://user-images.githubusercontent.com/51900501/117803970-d554ff80-b274-11eb-91de-e62714a56d2f.jpeg",
@@ -934,5 +940,11 @@
     "githubUsername": "nayakastha",
     "imageUrl": "https://user-images.githubusercontent.com/58568514/119360619-6cd03e80-bcc8-11eb-8fec-699c31daac61.png",
     "issueNumber": 526
+  },
+  {
+    "name": "CyberBoyAyush",
+    "githubUsername": "CyberBoyAyush",
+    "imageUrl": "https://user-images.githubusercontent.com/69210117/119606961-1f131d80-be11-11eb-8af0-608ec3bb3a0c.jpg",
+    "issueNumber": 528
   }
 ]
