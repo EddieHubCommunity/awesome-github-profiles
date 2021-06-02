@@ -958,5 +958,29 @@
     "githubUsername": "KKhushhalR2405",
     "imageUrl": "https://user-images.githubusercontent.com/58569950/120160642-14db8f80-c214-11eb-8f2a-d5946aa8d59e.png",
     "issueNumber": 537
+  },
+  {
+    "name": "Gagan Bhatia",
+    "githubUsername": "gagan3012",
+    "imageUrl": "https://user-images.githubusercontent.com/49101362/120364787-7c501880-c2c2-11eb-8f18-0f0ef10c4439.png",
+    "issueNumber": 539
+  },
+  {
+    "name": "Shivendra K Jha",
+    "githubUsername": "skjha1",
+    "imageUrl": "https://user-images.githubusercontent.com/47923680/120433441-d7ecd580-c398-11eb-9c5c-fe8cd356e4d2.jpg",
+    "issueNumber": 542
+  },
+  {
+    "name": "Ampolu Nisa",
+    "githubUsername": "AmpoluNisa03",
+    "imageUrl": "https://user-images.githubusercontent.com/63179438/120458515-f82a8d80-c3b4-11eb-8d4e-4f1a698078ba.png",
+    "issueNumber": 547
+  },
+  {
+    "name": "Aditya Mangal",
+    "githubUsername": "adityamangal1",
+    "imageUrl": "https://user-images.githubusercontent.com/68494604/120438793-6bc1a000-c39f-11eb-845b-c145db5e2f9b.png",
+    "issueNumber": 544
   }
 ]
