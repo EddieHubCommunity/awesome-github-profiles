@@ -1018,5 +1018,71 @@
     "githubUsername": "jayesh-srivastava",
     "imageUrl": "https://user-images.githubusercontent.com/49337716/124381232-eeab8280-dcde-11eb-84ed-c54a5bfcf208.png",
     "issueNumber": 566
+  },  
+  {
+    "name": "Tim Burgan",
+    "githubUsername": "timburgan",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358657-f0673e80-dc29-11eb-9e43-84c889b175b0.jpg",
+    "issueNumber": 564
+  },
+  {
+    "name": "afc163",
+    "githubUsername": "afc163",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358687-1987cf00-dc2a-11eb-9e6f-faa4f425476f.jpg",
+    "issueNumber": 568
+  },
+  {
+    "name": "Lee Reilly",
+    "githubUsername": "leereilly",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358735-489e4080-dc2a-11eb-951e-5961bf3388cb.jpg",
+    "issueNumber": 569
+  },
+  {
+    "name": "Thales Brederodes Montarroyos Candido",
+    "githubUsername": "ThalesBMC",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358775-7c796600-dc2a-11eb-9e2f-e9d9daf27bf9.jpg",
+    "issueNumber": 570
+  },
+  {
+    "name": "Patrick Guo",
+    "githubUsername": "shpatrickguo",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358808-a5016000-dc2a-11eb-9210-b80403eae437.jpg",
+    "issueNumber": 571
+  },
+  {
+    "name": "Nelson T. Alba Jr.",
+    "githubUsername": "nellyXinwei",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358826-c3675b80-dc2a-11eb-944e-90b8ea2c72d8.jpg",
+    "issueNumber": 572
+  },
+  {
+    "name": "Matt Eden",
+    "githubUsername": "Matteas-Eden",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358889-09bcba80-dc2b-11eb-85bd-4141b8693256.jpg",
+    "issueNumber": 573
+  },
+  {
+    "name": "Damian Ziolo",
+    "githubUsername": "L0um15",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358914-2e189700-dc2b-11eb-80db-180c14723db1.jpg",
+    "issueNumber": 574
+  },
+  {
+    "name": "Israel Antonio Rosales Laguan",
+    "githubUsername": "Israel-Laguan",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358938-4ab4cf00-dc2b-11eb-9f53-8efb56a72b96.jpg",
+    "issueNumber": 575
+  },
+  {
+    "name": "Brian Douglas",
+    "githubUsername": "bdougie",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358969-70da6f00-dc2b-11eb-8f3b-43779550acb6.jpg",
+    "issueNumber": 576
+  },
+  {
+    "name": "Evaristo Cuesta",
+    "githubUsername": "evaristocuesta",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124359001-a8e1b200-dc2b-11eb-8c4d-924c29801aaa.jpg",
+    "issueNumber": 577
   }
 ]
