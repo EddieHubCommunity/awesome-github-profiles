@@ -914,7 +914,7 @@
   {
     "name": "aminos",
     "githubUsername": "amino19",
-    "imageUrl": "https://user-images.githubusercontent.com/75872316/118384765-6dad0480-b626-11eb-85ce-a6af24c19181.png",
+    "imageUrl": "https://user-images.githubusercontent.com/75872316/125152497-91924f80-e16a-11eb-8366-8d5c3d26df10.jpg",
     "issueNumber": 499
   },
   {
@@ -1018,7 +1018,7 @@
     "githubUsername": "jayesh-srivastava",
     "imageUrl": "https://user-images.githubusercontent.com/49337716/124381232-eeab8280-dcde-11eb-84ed-c54a5bfcf208.png",
     "issueNumber": 566
-  },  
+  },
   {
     "name": "Tim Burgan",
     "githubUsername": "timburgan",
@@ -1096,5 +1096,11 @@
     "githubUsername": "sonichigo",
     "imageUrl": "https://user-images.githubusercontent.com/53110238/125169823-89b5c800-e1c9-11eb-941f-3c2a43a0e149.png",
     "issueNumber": 584
-   }
+  },
+  {
+    "name": "Ankit",
+    "githubUsername": "AnkitSharma-007",
+    "imageUrl": "https://user-images.githubusercontent.com/33789321/124962632-7cb79e00-e03c-11eb-9a5c-d7699fa3a6b2.png",
+    "issueNumber": 580
+  }
 ]
