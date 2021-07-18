@@ -1134,11 +1134,24 @@
     "issueNumber": 592
   },
   {
+    "name": "Anirudh Panda",
+    "githubUsername": "AnirudhPanda",
+    "imageUrl": "https://user-images.githubusercontent.com/66218496/126046283-45db0b3a-fd83-4dc3-ba12-6692dd2b3228.PNG",
+    "issueNumber": 596
+  },
+  {
     "name": "Utkarsh Mishra",
     "githubUsername": "UtkarshMishra12",
     "imageUrl": "(https://user-images.githubusercontent.com/67385503/126064330-eb1f90d9-d7d3-462c-b032-b381ed00153c.png)",
     "issueNumber": 600
-  },
+
+
+  
+
+  
+
+
+  
   {
     "name": "Rohit Yadav",
     "githubUsername": "rohitturbot",
@@ -1146,3 +1159,4 @@
     "issueNumber": 602
   }
 ]
+
