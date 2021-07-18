@@ -1118,7 +1118,7 @@
   {
     "name": "Victoria Lo",
     "githubUsername": "victoria-lo",
-    "imageUrl": "https://user-images.githubusercontent.com/47699978/125807703-6d8c6adf-d642-42f2-b1bf-51f6a32c0a84.png", 
+    "imageUrl": "https://user-images.githubusercontent.com/47699978/125807703-6d8c6adf-d642-42f2-b1bf-51f6a32c0a84.png",
     "issueNumber": 590
   },
   {
@@ -1126,5 +1126,11 @@
     "githubUsername": "hill",
     "imageUrl": "https://user-images.githubusercontent.com/5620045/125885321-8cda4575-b72f-42ea-99ad-4de890e747ad.png",
     "issueNumber": 592
+  },
+  {
+    "name": "Utkarsh Mishra",
+    "githubUsername": "UtkarshMishra12",
+    "imageUrl": "(https://user-images.githubusercontent.com/67385503/126064330-eb1f90d9-d7d3-462c-b032-b381ed00153c.png)",
+    "issueNumber": 600
   }
 ]
