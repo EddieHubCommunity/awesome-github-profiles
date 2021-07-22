@@ -1,11 +1,11 @@
 tabWidth: 2
 
 overrides:
-    # We need to respect that YAML files use 4 spaces.
-    - files:
-          - "*.yml"
-          - "**/*.yml"
-          - "*.yaml"
-          - "**/*.yaml"
-      options:
-          tabWidth: 4
+  # We need to respect that YAML files use 4 spaces.
+  - files:
+      - "*.yml"
+      - "**/*.yml"
+      - "*.yaml"
+      - "**/*.yaml"
+    options:
+      tabWidth: 4
