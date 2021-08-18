@@ -7,7 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Read/Write data into README
-        uses: Panquesito7/gh-actions-html-table-generator@main
+        uses: EddieHubCommunity/gh-actions-html-table-generator@main
         with:
           json-file-path: "data.json"
           github-token: ${{ secrets.GITHUB_TOKEN }}
