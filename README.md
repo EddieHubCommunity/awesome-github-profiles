@@ -7,9 +7,9 @@ List of GitHub profiles that have awesome customisation, that you can use for in
 Feel free to submit a pull request with your suggestions of awesome github profiles.
 
 [![made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/EddieHubCommunity)
-[![made with markdown](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
-[![open source](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-[![check it out](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
+[![made with markdown](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://github.com/EddieHubCommunity)
+[![open source](https://forthebadge.com/images/badges/open-source.svg)](https://github.com/EddieHubCommunity)
+[![check it out](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/EddieHubCommunity)
 
 ## To add your github profile
 
