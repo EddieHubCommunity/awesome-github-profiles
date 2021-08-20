@@ -6,11 +6,26 @@ List of GitHub profiles that have awesome customisation, that you can use for in
 
 Feel free to submit a pull request with your suggestions of awesome github profiles.
 
-[![made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/EddieHubCommunity)
-[![made with markdown](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://github.com/EddieHubCommunity)
-[![open source](https://forthebadge.com/images/badges/open-source.svg)](https://github.com/EddieHubCommunity)
-[![check it out](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/EddieHubCommunity)
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/EddieHubCommunity)
+<p align="center">
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+ </a>
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
+ </a>
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/open-source.svg" />
+ </a>
+
+ <br />
+
+ <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/check-it-out.svg" />
+ </a>
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+ </a>
+</p>
 
 ## To add your github profile
 
