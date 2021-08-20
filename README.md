@@ -10,6 +10,7 @@ Feel free to submit a pull request with your suggestions of awesome github profi
 [![made with markdown](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://github.com/EddieHubCommunity)
 [![open source](https://forthebadge.com/images/badges/open-source.svg)](https://github.com/EddieHubCommunity)
 [![check it out](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/EddieHubCommunity)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/EddieHubCommunity)
 
 ## To add your github profile
 
