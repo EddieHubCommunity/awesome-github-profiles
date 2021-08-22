@@ -6,7 +6,7 @@ List of GitHub profiles that have awesome customisation, that you can use for in
 
 Feel free to submit a pull request with your suggestions of awesome github profiles.
 
-See it here: [Awesome Github Profiles Website](https://eddiehubcommunity.github.io/awesome-github-profiles/)
+Check our website [here](https://eddiehubcommunity.github.io/awesome-github-profiles/).
 
 <p align="center">
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
