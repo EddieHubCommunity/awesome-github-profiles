@@ -1,20 +1,19 @@
-# Awesome Github Profiles
+# Awesome GitHub profiles
 
 ![.github/workflows/main.yml](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)
 
-List of GitHub profiles that have awesome customisation, that you can use for inspiration.
+List of GitHub profiles that have awesome customisation, that you can use for inspiration.\
+Feel free to submit a pull request with your suggestions of awesome GitHub profiles.
 
-Feel free to submit a pull request with your suggestions of awesome github profiles.
+## How can I add my GitHub profile?
 
-## To add your github profile
-
-1. Create an issue, with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image url, this will be needed in the next step)
+1. Create an issue, with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image URL, this will be needed in the next step)
 
 2. Fork the project
 
-3. In `data.json` add your own object to the end of the file, your entry should be similar to this example:
+3. In the `data.json` file, add your own object to the end of the file. Your entry should be similar to this example:
 
-```typescript
+```json
 {
     "name": "Eddie Jaoude",
     "githubUsername": "eddiejaoude",
@@ -23,13 +22,13 @@ Feel free to submit a pull request with your suggestions of awesome github profi
 }
 ```
 
-**Note** : Please do not edit anything below `<!--START_SECTION:data-section-->` in `README.MD` our [GitHub Action](https://github.com/EddieJaoudeCommunity/gh-action-community) will make the necessary changes for you.
+**Note** : Please do not edit anything below `<!--START_SECTION:data-section-->` in `README.md`. Our [GitHub Action](https://github.com/EddieJaoudeCommunity/gh-action-community) will make the necessary changes for you.
 
 4. Create a Pull Request to add the changes to this Repository. Please change the title to `add your-username` and in the description add `resolve #issueNumber`
 
-Any questions let us know!
+Any questions, let us know!
 
-**Join the conversation on our [Discord community](http://discord.eddiehub.org)**
+**Join the conversation on our [Discord community](http://discord.eddiehub.org)!**
 
 <!-- DO NOT EDIT THIS SECTION -->
 <!--START_SECTION:data-section-->
