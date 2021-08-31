@@ -22,7 +22,7 @@ Feel free to submit a pull request with your suggestions of awesome GitHub profi
 }
 ```
 
-**Note** : Please do not edit anything below `<!--START_SECTION:data-section-->` in `README.md`. Our [GitHub Action](https://github.com/EddieJaoudeCommunity/gh-action-community) will make the necessary changes for you.
+**Note** : Please do not edit anything below `<!--START_SECTION:data-section-->` in `README.md`. Our [GitHub Action](https://github.com/EddieHubCommunity/gh-actions-html-table-generator) will make the necessary changes for you.
 
 4. Create a Pull Request to add the changes to this Repository. Please change the title to `add your-username` and in the description add `resolve #issueNumber`
 
