@@ -1288,11 +1288,17 @@
     "githubUsername": "ahamedbasha-n",
     "imageUrl": "https://user-images.githubusercontent.com/51391473/130546663-9ff92a77-14a1-4004-8d9c-dbc67fb027df.png",
     "issueNumber": 663
-  }, 
+  },
   {
     "name": "Anas Khan",
     "githubUsername": "anaskhan28",
     "imageUrl": "https://user-images.githubusercontent.com/87796038/130655483-7fd4dc84-9f0d-412b-acac-68ab178aaf3c.png",
     "issueNumber": 666
+  },
+  {
+    "name": "Mohammad Shakib",
+    "githubUsername": "Mo-Shakib",
+    "imageUrl": "https://user-images.githubusercontent.com/50780268/131604251-f07f6811-d795-448f-a7b8-0f13b58c602f.png",
+    "issueNumber": 675
   }
 ]
