@@ -36,12 +36,6 @@
     "issueNumber": 76
   },
   {
-    "name": "Mohammad Shakib",
-    "githubUsername": "mo-shakib",
-    "imageUrl": "https://user-images.githubusercontent.com/50780268/131604251-f07f6811-d795-448f-a7b8-0f13b58c602f.png",
-    "issueNumber": 675
-  },
-  {
     "name": "Vedant Khairnar",
     "githubUsername": "VedantKhairnar",
     "imageUrl": "https://user-images.githubusercontent.com/624760/88165360-7b177f00-cc0d-11ea-804a-776639dcca29.png",
@@ -1300,5 +1294,11 @@
     "githubUsername": "anaskhan28",
     "imageUrl": "https://user-images.githubusercontent.com/87796038/130655483-7fd4dc84-9f0d-412b-acac-68ab178aaf3c.png",
     "issueNumber": 666
+  },
+  {
+    "name": "Mohammad Shakib",
+    "githubUsername": "mo-shakib",
+    "imageUrl": "https://user-images.githubusercontent.com/50780268/131604251-f07f6811-d795-448f-a7b8-0f13b58c602f.png",
+    "issueNumber": 675
   }
 ]
