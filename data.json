@@ -1301,10 +1301,10 @@
     "imageUrl": "https://user-images.githubusercontent.com/50780268/131604251-f07f6811-d795-448f-a7b8-0f13b58c602f.png",
     "issueNumber": 675
   },
-  { "name": "Komal Pal",
+  { 
+    "name": "Komal Pal",
     "githubUsername": "Komal7209",
     "imageUrl":"https://user-images.githubusercontent.com/33154959/131854111-cff5bad4-fd84-46e8-abf0-3ce469e83fca.png",
     "issueNumber": 681
   }
-   
 ]
