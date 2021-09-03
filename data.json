@@ -1,11 +1,5 @@
 [
   {
-    "name": "Aman Upadhyay",
-    "githubUsername": "BADSHAH-AMAN",
-    "imageUrl": "https://user-images.githubusercontent.com/76415079/132032053-210481b4-882d-4314-875d-fbd4695142da.png",
-    "issueNumber": 685
-  },
-  {
     "name": "Savio Martin",
     "githubUsername": "saviomartin",
     "imageUrl": "https://user-images.githubusercontent.com/45217974/104979077-b3a0e580-5a03-11eb-892f-8eaa3b8bb214.png",
@@ -1306,5 +1300,11 @@
     "githubUsername": "Mo-Shakib",
     "imageUrl": "https://user-images.githubusercontent.com/50780268/131604251-f07f6811-d795-448f-a7b8-0f13b58c602f.png",
     "issueNumber": 675
+  },
+   {
+    "name": "Aman Upadhyay",
+    "githubUsername": "BADSHAH-AMAN",
+    "imageUrl": "https://user-images.githubusercontent.com/76415079/132032053-210481b4-882d-4314-875d-fbd4695142da.png",
+    "issueNumber": 685
   }
 ]
