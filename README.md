@@ -1,9 +1,30 @@
 # Awesome GitHub profiles
 
+See it here: [Awesome Github Profiles Website](https://eddiehubcommunity.github.io/awesome-github-profiles/)
+
 ![.github/workflows/main.yml](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)
 
 List of GitHub profiles that have awesome customisation, that you can use for inspiration.\
-Feel free to submit a pull request with your suggestions of awesome GitHub profiles.
+Feel free to submit a pull request with your suggestions of awesome GitHub profile.
+
+<p align="center">
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+ </a>
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
+ </a>
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/open-source.svg" />
+ </a>
+ <br />
+ <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/check-it-out.svg" />
+ </a>
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+ </a>
+</p>
 
 ## How can I add my GitHub profile?
 
