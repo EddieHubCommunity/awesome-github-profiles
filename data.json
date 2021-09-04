@@ -96,6 +96,18 @@
     "issueNumber": 160
   },
   {
+    "name": "Aman Upadhyay",
+    "githubUsername": "BADSHAH-AMAN",
+    "imageUrl": "https://user-images.githubusercontent.com/51391473/132057221-2e7c6dc4-a664-4565-9909-101b8fadfa4b.png",
+    "issueNumber": 685
+  },
+  {
+    "name": "aminos",
+    "githubUsername": "amino19",
+    "imageUrl": "https://user-images.githubusercontent.com/75872316/125152497-91924f80-e16a-11eb-8366-8d5c3d26df10.jpg",
+    "issueNumber": 499
+  },
+  {
     "name": "Ampolu Nisa",
     "githubUsername": "AmpoluNisa03",
     "imageUrl": "https://user-images.githubusercontent.com/63179438/120458515-f82a8d80-c3b4-11eb-8d4e-4f1a698078ba.png",
@@ -304,6 +316,12 @@
     "githubUsername": "chandrikadeb7",
     "imageUrl": "https://user-images.githubusercontent.com/29686102/106919215-f0711a00-672f-11eb-88f6-8ab44f67b911.png",
     "issueNumber": 313
+  },
+  {
+    "name": "charan",
+    "githubUsername": "charan-web",
+    "imageUrl": "https://user-images.githubusercontent.com/56212945/93706577-39d81880-fb45-11ea-9f6c-236275f1a0be.jpg",
+    "issueNumber": 95
   },
   {
     "name": "Chinmay Mhatre",
@@ -1026,6 +1044,12 @@
     "issueNumber": 98
   },
   {
+    "name": "schmelto",
+    "githubUsername": "schmelto",
+    "imageUrl": "https://user-images.githubusercontent.com/30869493/108380804-7ea4d000-7207-11eb-8f3e-2d00b21d1456.png",
+    "issueNumber": 373
+  },
+  {
     "name": "Sefat Siddiquea Sifa",
     "githubUsername": "sifa123",
     "imageUrl": "https://user-images.githubusercontent.com/63462931/112490528-a3add500-8da9-11eb-853e-9972b42e5caf.png",
@@ -1254,6 +1278,12 @@
     "issueNumber": 81
   },
   {
+    "name": "vonhyou",
+    "githubUsername": "vonhyou",
+    "imageUrl": "https://user-images.githubusercontent.com/29454668/115579668-f8853280-a2f8-11eb-8372-95202883ac86.png",
+    "issueNumber": 451
+  },
+  {
     "name": "Yajush Vyas",
     "githubUsername": "geekyvyas",
     "imageUrl": "https://user-images.githubusercontent.com/35025375/98467874-c924b280-21fd-11eb-810b-2d17e0342e10.png",
@@ -1276,29 +1306,5 @@
     "githubUsername": "afc163",
     "imageUrl": "https://user-images.githubusercontent.com/52232302/124358687-1987cf00-dc2a-11eb-9e6f-faa4f425476f.jpg",
     "issueNumber": 568
-  },
-  {
-    "name": "aminos",
-    "githubUsername": "amino19",
-    "imageUrl": "https://user-images.githubusercontent.com/75872316/125152497-91924f80-e16a-11eb-8366-8d5c3d26df10.jpg",
-    "issueNumber": 499
-  },
-  {
-    "name": "charan",
-    "githubUsername": "charan-web",
-    "imageUrl": "https://user-images.githubusercontent.com/56212945/93706577-39d81880-fb45-11ea-9f6c-236275f1a0be.jpg",
-    "issueNumber": 95
-  },
-  {
-    "name": "schmelto",
-    "githubUsername": "schmelto",
-    "imageUrl": "https://user-images.githubusercontent.com/30869493/108380804-7ea4d000-7207-11eb-8f3e-2d00b21d1456.png",
-    "issueNumber": 373
-  },
-  {
-    "name": "vonhyou",
-    "githubUsername": "vonhyou",
-    "imageUrl": "https://user-images.githubusercontent.com/29454668/115579668-f8853280-a2f8-11eb-8372-95202883ac86.png",
-    "issueNumber": 451
   }
 ]
