@@ -15,10 +15,10 @@ Feel free to submit a pull request with your suggestions of awesome GitHub profi
 
 ```json
 {
-    "name": "Eddie Jaoude",
-    "githubUsername": "eddiejaoude",
-    "imageUrl": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
-    "issueNumber": 66
+  "name": "Eddie Jaoude",
+  "githubUsername": "eddiejaoude",
+  "imageUrl": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
+  "issueNumber": 66
 }
 ```
 
