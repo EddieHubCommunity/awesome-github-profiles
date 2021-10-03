@@ -1386,9 +1386,21 @@
     "issueNumber": 742
   },
   {
+    "name": "Aaquib Ali",
+    "githubUsername": "AaquibAli",
+    "imageUrl": "https://user-images.githubusercontent.com/84700316/135708541-936038fd-97c2-4fc0-a51d-7d6a5b96dbf1.png",
+    "issueNumber": 747
+  },
+  {
+    "name": "Rohan Gupta",
+    "githubUsername": "DemonDaddy22",
+    "imageUrl": "https://user-images.githubusercontent.com/39908472/135729184-0a1a05a2-1f74-48e8-ace7-4d4b2a62eb94.png",
+    "issueNumber": 751
+  },
+  {
     "name": "Ekta Arora",
     "githubUsername": "ektaarora16",
-    "imageUrl": "https://user-images.githubusercontent.com/90129737/135709011-e377fce0-d0b9-46d5-8eff-f2edec70e8fa.png",
+    "imageUrl": "https://user-images.githubusercontent.com/51391473/135740246-b0be6db0-160a-43d8-819d-0ad3c190619c.png",
     "issueNumber": 749
   }
 ]
