@@ -1,4 +1,4 @@
-on: [push]
+on: [push, workflow_dispatch]
 
 jobs:
   sort:
@@ -18,4 +18,10 @@ jobs:
           commit_message: 'style(data): sort alphabetically'
   
       - name: Prettify code
-        run: npm run format data.json
+        uses: creyD/prettier_action@v3.1
+        with:
+          only_changed: True
+          dry: True
+          prettier_options: --write **/*.{md,json,yml,yaml}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
