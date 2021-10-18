@@ -19,10 +19,6 @@ fs.writeFile(
       console.log(err);
     }
 
-    console.log('✅ Sorted the data. Will start formatting it now.')
-
-    exec("prettier data.json --write")
-
-    console.log('✅ Formatted the file')
+    console.log('✅ Sorted the data.')
   }
 );
