@@ -13,15 +13,6 @@ jobs:
         run: |
           npm ci
           node scripts/sort.js
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: 'style(data): sort alphabetically'
-  
-      - name: Prettify code
-        uses: creyD/prettier_action@v3.1
-        with:
-          only_changed: True
-          dry: True
-          prettier_options: --write **/*.{md,json,yml,yaml}
+          npx prettier --write data.json
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
