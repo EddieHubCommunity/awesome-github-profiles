@@ -5,9 +5,9 @@ const { exec } = require("child_process");
 const prettier = require("prettier");
 
 profiles.sort((a, b) => {
-  if (a.githubUsername < b.githubUsername) return -1;
+  if (a.name < b.name) return -1;
 
-  if (a.githubUsername > b.githubUsername) return 1;
+  if (a.name > b.name) return 1;
 
   return 0;
 });
