@@ -9,7 +9,9 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: "14"
-      - run: node scripts/sort.js
+      - run: |
+          npm ci
+          node scripts/sort.js
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "style(data): sort alphabetically"
