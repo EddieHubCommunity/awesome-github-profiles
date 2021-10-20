@@ -1,21 +1,9 @@
 [
   {
-    "name": "Ranjit Yadav",
-    "githubUsername": "13yadav",
-    "imageUrl": "https://user-images.githubusercontent.com/51192422/119933239-5ca6b080-bfa1-11eb-96c7-b6edb9da4778.png",
-    "issueNumber": 531
-  },
-  {
-    "name": "Ankush Singh",
-    "githubUsername": "ATCtech",
-    "imageUrl": "https://user-images.githubusercontent.com/50258860/94898939-046dec00-04b0-11eb-8a6a-10a0c59da3f0.JPG",
-    "issueNumber": 115
-  },
-  {
-    "name": "Aditya Vikram Singh",
-    "githubUsername": "AVS1508",
-    "imageUrl": "https://user-images.githubusercontent.com/20084950/90978133-08315900-e569-11ea-9299-9f43bc5f1912.png",
-    "issueNumber": 41
+    "name": "Aakarsh Teja",
+    "githubUsername": "aakarshteja",
+    "imageUrl": "https://user-images.githubusercontent.com/42816874/92400662-e2e84180-f149-11ea-8304-6e76cab7fb05.png",
+    "issueNumber": 84
   },
   {
     "name": "Aaquib Ali",
@@ -42,10 +30,82 @@
     "issueNumber": 110
   },
   {
-    "name": "Prify Philip",
-    "githubUsername": "Amchuz",
-    "imageUrl": "https://user-images.githubusercontent.com/32680794/94683989-036c7b80-0345-11eb-9c27-76da3756d1d0.png",
-    "issueNumber": 106
+    "name": "Aditya Garde",
+    "githubUsername": "adityagarde",
+    "imageUrl": "https://user-images.githubusercontent.com/14886766/127783620-6b94c878-9fd2-40c5-a62d-995818f0caa3.jpeg",
+    "issueNumber": 630
+  },
+  {
+    "name": "Aditya Mangal",
+    "githubUsername": "adityamangal1",
+    "imageUrl": "https://user-images.githubusercontent.com/68494604/120438793-6bc1a000-c39f-11eb-845b-c145db5e2f9b.png",
+    "issueNumber": 544
+  },
+  {
+    "name": "Aditya Oberai",
+    "githubUsername": "adityaoberai",
+    "imageUrl": "https://user-images.githubusercontent.com/31401437/106563296-974b8f80-6551-11eb-8753-a13ea9e944c2.png",
+    "issueNumber": 304
+  },
+  {
+    "name": "Aditya Vikram Singh",
+    "githubUsername": "AVS1508",
+    "imageUrl": "https://user-images.githubusercontent.com/20084950/90978133-08315900-e569-11ea-9299-9f43bc5f1912.png",
+    "issueNumber": 41
+  },
+  {
+    "name": "Adriano Laureano",
+    "githubUsername": "sl4ureano",
+    "imageUrl": "https://user-images.githubusercontent.com/36384130/97517158-792f2b80-1973-11eb-9463-53bdb041497f.png",
+    "issueNumber": 156
+  },
+  {
+    "name": "Advaith U",
+    "githubUsername": "advaith-unnikrishnan",
+    "imageUrl": "https://user-images.githubusercontent.com/45172876/115498803-d73a2d00-a28b-11eb-809c-79a8eaf10a5d.png",
+    "issueNumber": 447
+  },
+  {
+    "name": "Ahamed Basha N",
+    "githubUsername": "ahamedbasha-n",
+    "imageUrl": "https://user-images.githubusercontent.com/51391473/130546663-9ff92a77-14a1-4004-8d9c-dbc67fb027df.png",
+    "issueNumber": 663
+  },
+  {
+    "name": "Ahammad Shawki",
+    "githubUsername": "ahammadshawki8",
+    "imageUrl": "https://user-images.githubusercontent.com/56157819/102689296-26f9e080-4227-11eb-9e75-08c1f2426889.png",
+    "issueNumber": 193
+  },
+  {
+    "name": "Ahmed Muhammed Galadima",
+    "githubUsername": "ApolloDev0",
+    "imageUrl": "https://user-images.githubusercontent.com/68035852/103576376-18c4e900-4ee4-11eb-943e-3e097b0cc6a8.png",
+    "issueNumber": 210
+  },
+  {
+    "name": "Akas Rai",
+    "githubUsername": "akasrai",
+    "imageUrl": "https://user-images.githubusercontent.com/624760/88123456-d40df580-cbc2-11ea-9add-a7fc8675b243.png",
+    "issueNumber": 12
+  },
+  {
+    "name": "Akshayan Sinha",
+    "githubUsername": "hippyaki",
+    "imageUrl": "https://user-images.githubusercontent.com/52236719/125198464-98f74d00-e27f-11eb-98ff-fb5f0a0ab4a6.png",
+    "issueNumber": 586
+  },
+  {
+    "name": "Akshita Gupta",
+    "githubUsername": "akshitagupta15june",
+    "imageUrl": "https://user-images.githubusercontent.com/57909583/97854357-58722780-1d1f-11eb-8bda-83425c231ff5.png",
+    "issueNumber": 160
+  },
+  {
+    "name": "Aman Upadhyay",
+    "githubUsername": "BADSHAH-AMAN",
+    "imageUrl": "https://user-images.githubusercontent.com/51391473/132057221-2e7c6dc4-a664-4565-9909-101b8fadfa4b.png",
+    "issueNumber": 685
   },
   {
     "name": "Ampolu Nisa",
@@ -54,16 +114,58 @@
     "issueNumber": 547
   },
   {
-    "name": "Ankush Chauhan",
-    "githubUsername": "An-prog-hub",
-    "imageUrl": "https://user-images.githubusercontent.com/67872399/106575972-a71f9f80-6562-11eb-87dc-1b97d93f4d71.png",
-    "issueNumber": 310
+    "name": "Anas Khan",
+    "githubUsername": "anaskhan28",
+    "imageUrl": "https://user-images.githubusercontent.com/87796038/130655483-7fd4dc84-9f0d-412b-acac-68ab178aaf3c.png",
+    "issueNumber": 666
+  },
+  {
+    "name": "Andreas Karabetian",
+    "githubUsername": "adreaskar",
+    "imageUrl": "https://user-images.githubusercontent.com/63111742/88703846-eed9f000-d115-11ea-9569-587de740a27a.jpg",
+    "issueNumber": 39
+  },
+  {
+    "name": "Angshu Bhadra",
+    "githubUsername": "angshuBHADRA",
+    "imageUrl": "https://user-images.githubusercontent.com/61795945/116436758-56ba9400-a86a-11eb-9eb4-82da46fef05a.png",
+    "issueNumber": 464
+  },
+  {
+    "name": "Anh Hoang Chi Tran",
+    "githubUsername": "longqua69",
+    "imageUrl": "https://user-images.githubusercontent.com/37626565/115994832-da724780-a602-11eb-8a4f-6ab6d151715d.PNG",
+    "issueNumber": 459
   },
   {
     "name": "Anik Chakraborty",
     "githubUsername": "Anikcb",
     "imageUrl": "https://user-images.githubusercontent.com/47493387/130086990-1072a097-f8b7-423b-8eeb-b161870b11ea.png",
     "issueNumber": 657
+  },
+  {
+    "name": "Aniket Kumar",
+    "githubUsername": "aniket-24",
+    "imageUrl": "https://user-images.githubusercontent.com/51391473/134812399-6a005576-3b24-46a6-b9bc-7798f79e5bf1.png",
+    "issueNumber": 723
+  },
+  {
+    "name": "Aniket Singh",
+    "githubUsername": "aniketsingh98571",
+    "imageUrl": "https://user-images.githubusercontent.com/63097956/93450123-351c2600-f8f3-11ea-8964-bd44fd12dc0f.png",
+    "issueNumber": 88
+  },
+  {
+    "name": "Animesh Pathak",
+    "githubUsername": "sonichigo",
+    "imageUrl": "https://user-images.githubusercontent.com/53110238/125169823-89b5c800-e1c9-11eb-941f-3c2a43a0e149.png",
+    "issueNumber": 584
+  },
+  {
+    "name": "Anirudh Anup",
+    "githubUsername": "qwe123pro",
+    "imageUrl": "https://user-images.githubusercontent.com/51391473/129775827-5d94ffc7-81bc-4364-9e08-a936030e6006.png",
+    "issuesNumber": 629
   },
   {
     "name": "Anirudh Panda",
@@ -84,652 +186,34 @@
     "issueNumber": 580
   },
   {
+    "name": "Ankush Chauhan",
+    "githubUsername": "An-prog-hub",
+    "imageUrl": "https://user-images.githubusercontent.com/67872399/106575972-a71f9f80-6562-11eb-87dc-1b97d93f4d71.png",
+    "issueNumber": 310
+  },
+  {
+    "name": "Ankush Chavan",
+    "githubUsername": "cankush625",
+    "imageUrl": "https://user-images.githubusercontent.com/41515472/135764171-9fbac687-0017-449f-815d-527dc6b5f44f.jpg",
+    "issueNumber": 754
+  },
+  {
+    "name": "Ankush Singh",
+    "githubUsername": "ATCtech",
+    "imageUrl": "https://user-images.githubusercontent.com/50258860/94898939-046dec00-04b0-11eb-8a6a-10a0c59da3f0.JPG",
+    "issueNumber": 115
+  },
+  {
     "name": "Ankush Singh Gandhi",
     "githubUsername": "AnkushSinghGandhi",
     "imageUrl": "https://user-images.githubusercontent.com/24972335/96338880-96bde480-1099-11eb-8b76-f6a39292477a.png",
     "issueNumber": 151
   },
   {
-    "name": "Ahmed Muhammed Galadima",
-    "githubUsername": "ApolloDev0",
-    "imageUrl": "https://user-images.githubusercontent.com/68035852/103576376-18c4e900-4ee4-11eb-943e-3e097b0cc6a8.png",
-    "issueNumber": 210
-  },
-  {
-    "name": "Ashutosh Dwivedi",
-    "githubUsername": "Ashutosh00710",
-    "imageUrl": "https://user-images.githubusercontent.com/42907572/95647789-c3995700-0aef-11eb-97f3-01ff3b54cdaf.png",
-    "issueNumber": 134
-  },
-  {
-    "name": "Avid Coder",
-    "githubUsername": "AvidCoder101",
-    "imageUrl": "https://user-images.githubusercontent.com/70807684/126078076-3df641ea-3c0f-483f-952c-cbabbb5758c1.png",
-    "issueNumber": 594
-  },
-  {
-    "name": "Ayush Kumar",
-    "githubUsername": "Ayush7614",
-    "imageUrl": "https://user-images.githubusercontent.com/67006255/106144942-ee8ce100-619a-11eb-908d-4bdceade5661.png",
-    "issueNumber": 283
-  },
-  {
-    "name": "Ayush Parikh",
-    "githubUsername": "Ayushparikh-code",
-    "imageUrl": "https://user-images.githubusercontent.com/60268067/118812871-33649100-b8cc-11eb-9e90-0ec4fe333229.png",
-    "issueNumber": 519
-  },
-  {
-    "name": "Aman Upadhyay",
-    "githubUsername": "BADSHAH-AMAN",
-    "imageUrl": "https://user-images.githubusercontent.com/51391473/132057221-2e7c6dc4-a664-4565-9909-101b8fadfa4b.png",
-    "issueNumber": 685
-  },
-  {
-    "name": "Bhuvanesh Hingal",
-    "githubUsername": "BhuvaneshHingal",
-    "imageUrl": "https://user-images.githubusercontent.com/58567847/92334550-be8a5780-f0ac-11ea-9bbc-626b8dac30c6.jpg",
-    "issueNumber": 80
-  },
-  {
-    "name": "Bolaji Ayodeji",
-    "githubUsername": "BolajiAyodeji",
-    "imageUrl": "https://user-images.githubusercontent.com/64528871/92191405-9e178e80-ee5b-11ea-8e21-108a54d77075.PNG",
-    "issueNumber": 76
-  },
-  {
-    "name": "Bryson Mundia",
-    "githubUsername": "Bryson69",
-    "imageUrl": "https://user-images.githubusercontent.com/62892010/113439186-ba2fde00-93f2-11eb-8042-bdb111493c18.png",
-    "issueNumber": 423
-  },
-  {
-    "name": "Carlos Souza",
-    "githubUsername": "CarlosViniMSouza",
-    "imageUrl": "https://user-images.githubusercontent.com/60679101/118286430-d1112800-b4a8-11eb-8bc9-9152ba87d351.png",
-    "issueNumber": 501
-  },
-  {
-    "name": "Chayan Debbarma",
-    "githubUsername": "Chayan-11",
-    "imageUrl": "https://user-images.githubusercontent.com/76246106/137589642-7e33d835-d02d-4f20-9fec-85c35554c2a2.png",
-    "issueNumber": 777
-  },
-  {
-    "name": "Chinmay Mhatre",
-    "githubUsername": "ChinmayMhatre",
-    "imageUrl": "https://user-images.githubusercontent.com/51131670/111893373-5091f600-8a28-11eb-8e94-48b23eec0495.PNG",
-    "issueNumber": 403
-  },
-  {
-    "name": "CodingSpecies",
-    "githubUsername": "CodingSpecies",
-    "imageUrl": "https://user-images.githubusercontent.com/51391473/129598330-ca71253a-4431-4bbd-91af-8db083144b9a.png",
-    "issueNumber": 650
-  },
-  {
-    "name": "CyberBoyAyush",
-    "githubUsername": "CyberBoyAyush",
-    "imageUrl": "https://user-images.githubusercontent.com/69210117/119606961-1f131d80-be11-11eb-8af0-608ec3bb3a0c.jpg",
-    "issueNumber": 528
-  },
-  {
-    "name": "Darsh Gupta",
-    "githubUsername": "DarshGupta1910",
-    "imageUrl": "https://user-images.githubusercontent.com/73016212/135509959-87f8b8e4-9fab-4247-bae4-d965fca5ddbc.png",
-    "issueNumber": 742
-  },
-  {
-    "name": "Rohan Gupta",
-    "githubUsername": "DemonDaddy22",
-    "imageUrl": "https://user-images.githubusercontent.com/39908472/135729184-0a1a05a2-1f74-48e8-ace7-4d4b2a62eb94.png",
-    "issueNumber": 751
-  },
-  {
-    "name": "Jonah Lawrence",
-    "githubUsername": "DenverCoder1",
-    "imageUrl": "https://user-images.githubusercontent.com/20955511/115257585-e6f52c80-a138-11eb-86a5-22d9e4e3a062.png",
-    "issueNumber": 209
-  },
-  {
-    "name": "Cas Martens",
-    "githubUsername": "DevCassie",
-    "imageUrl": "https://user-images.githubusercontent.com/19227530/112297527-4b39e300-8c96-11eb-9da2-717607286946.png",
-    "issueNumber": 394
-  },
-  {
-    "name": "Franklin Okolie",
-    "githubUsername": "DeveloperAspire",
-    "imageUrl": "https://user-images.githubusercontent.com/57295537/103459329-e1e9aa00-4d0e-11eb-9758-5351230c2df8.png",
-    "issueNumber": 207
-  },
-  {
-    "name": "Fayas Noushad",
-    "githubUsername": "FayasNoushad",
-    "imageUrl": "https://user-images.githubusercontent.com/76828314/132162846-8e55ec2c-90de-4f9a-8c12-e8254a942f0f.jpg",
-    "issueNumber": 646
-  },
-  {
-    "name": "Gurjot Singh",
-    "githubUsername": "Gur-jot",
-    "imageUrl": "https://user-images.githubusercontent.com/78019426/135703000-f777dee5-735f-4c93-acc7-86fcce0d20a0.jpg",
-    "issueNumber": 745
-  },
-  {
-    "name": "Hariharan B",
-    "githubUsername": "HariAcidReign",
-    "imageUrl": "https://user-images.githubusercontent.com/58134096/113426876-b2bc0500-93f1-11eb-962e-772207a6e965.png",
-    "issueNumber": 425
-  },
-  {
-    "name": "Henok B Ademtew",
-    "githubUsername": "HenokB",
-    "imageUrl": "https://user-images.githubusercontent.com/46082799/107974254-4f326100-6f84-11eb-8cbb-105cd0d59189.png",
-    "issueNumber": 371
-  },
-  {
-    "name": "Ibtihel Ouni",
-    "githubUsername": "Ibtihel-ouni",
-    "imageUrl": "https://user-images.githubusercontent.com/58151963/107116883-97f86480-6876-11eb-8382-fc1c6ce06403.png",
-    "issueNumber": 338
-  },
-  {
-    "name": "Avinash Sharma",
-    "githubUsername": "ImAvinashSharma",
-    "imageUrl": "https://user-images.githubusercontent.com/58262578/118364777-87633300-b5b7-11eb-9d16-7ada5d04b460.png",
-    "issueNumber": 510
-  },
-  {
-    "name": "Israel Antonio Rosales Laguan",
-    "githubUsername": "Israel-Laguan",
-    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358938-4ab4cf00-dc2b-11eb-9f53-8efb56a72b96.jpg",
-    "issueNumber": 575
-  },
-  {
-    "name": "Ivelin Iliev",
-    "githubUsername": "Iwi4a",
-    "imageUrl": "https://user-images.githubusercontent.com/20727684/112530125-fb464380-8d9d-11eb-963a-0a8b25a7a87f.png",
-    "issueNumber": 412
-  },
-  {
-    "name": "Jaskirat Singh",
-    "githubUsername": "Jas-Script",
-    "imageUrl": "https://user-images.githubusercontent.com/75515362/137254367-8c87ff8d-9cb9-476f-bd9d-b830c9ae20a2.PNG",
-    "issueNumber": 772
-  },
-  {
-    "name": "Jaskeerat Singh",
-    "githubUsername": "Jassi10000",
-    "imageUrl": "https://user-images.githubusercontent.com/64856348/105141728-9f520b00-5b1f-11eb-924f-d87a5ac8e9f0.jpg",
-    "issueNumber": 265
-  },
-  {
-    "name": "Jayant Goel",
-    "githubUsername": "JayantGoel001",
-    "imageUrl": "https://user-images.githubusercontent.com/54479676/118960081-8bf56600-b980-11eb-9d59-a6d84971c5a3.png",
-    "issueNumber": 169
-  },
-  {
-    "name": "Jaynil Gaglani",
-    "githubUsername": "Jaynil1611",
-    "imageUrl": "https://user-images.githubusercontent.com/48921037/88678363-00b69580-d10c-11ea-902b-58e25c2c799c.PNG",
-    "issueNumber": 36
-  },
-  {
-    "name": "Joel Nickson",
-    "githubUsername": "Joel-Nickson",
-    "imageUrl": "https://user-images.githubusercontent.com/61058781/117574506-00b3df00-b0fb-11eb-808d-a653374f0fd1.png",
-    "issueNumber": 485
-  },
-  {
-    "name": "Joykishan Sharma",
-    "githubUsername": "JoykishanSharma",
-    "imageUrl": "https://user-images.githubusercontent.com/47889468/90676332-78925e80-e279-11ea-9f7d-bbc2c44289b0.png",
-    "issueNumber": 62
-  },
-  {
-    "name": "Khushhal Reddy",
-    "githubUsername": "KKhushhalR2405",
-    "imageUrl": "https://user-images.githubusercontent.com/58569950/120160642-14db8f80-c214-11eb-8f2a-d5946aa8d59e.png",
-    "issueNumber": 537
-  },
-  {
-    "name": "Karthik Nayak",
-    "githubUsername": "KarthikNayak024",
-    "imageUrl": "https://user-images.githubusercontent.com/39642646/90327189-aa23d500-dfae-11ea-8147-53bbddc3d1c3.png",
-    "issueNumber": 56
-  },
-  {
-    "name": "Khushi Sharma",
-    "githubUsername": "KhushiSharma22",
-    "imageUrl": "https://user-images.githubusercontent.com/67903164/112979129-cd824580-9175-11eb-8fc7-09169b54d5e9.png",
-    "issueNumber": 421
-  },
-  {
-    "name": "Komal Pal",
-    "githubUsername": "Komal7209",
-    "imageUrl": "https://user-images.githubusercontent.com/51391473/131920342-adaf32bd-cfde-4bb2-ad5f-390b61898a37.png",
-    "issueNumber": 681
-  },
-  {
-    "name": "Krishna Kumar",
-    "githubUsername": "Krishnapro",
-    "imageUrl": "https://user-images.githubusercontent.com/59277887/132136661-d62a6664-0fa3-437d-b97d-ea41ca21c61f.png",
-    "issueNumber": 702
-  },
-  {
-    "name": "Shubham Kukreti",
-    "githubUsername": "KukretiShubham",
-    "imageUrl": "https://user-images.githubusercontent.com/51391473/129485691-4a1249b6-3203-4f15-ac8c-654a67d50ee4.png",
-    "issueNumber": 648
-  },
-  {
-    "name": "Kushal Das",
-    "githubUsername": "Kushal997-das",
-    "imageUrl": "https://user-images.githubusercontent.com/61356005/104895611-1c547780-599c-11eb-8538-04f74005a4b4.png",
-    "issueNumber": 250
-  },
-  {
-    "name": "Damian Ziolo",
-    "githubUsername": "L0um15",
-    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358914-2e189700-dc2b-11eb-80db-180c14723db1.jpg",
-    "issueNumber": 574
-  },
-  {
-    "name": "Max Bridgland",
-    "githubUsername": "M4cs",
-    "imageUrl": "https://user-images.githubusercontent.com/624760/91051132-96fcaf00-e617-11ea-91f7-48d42535373d.png",
-    "issueNumber": 65
-  },
-  {
-    "name": "Mallikarjun H T",
-    "githubUsername": "MallikarjunHt",
-    "imageUrl": "https://user-images.githubusercontent.com/40291553/95041576-b72e8c00-06f4-11eb-8e29-61e76c681f98.png",
-    "issueNumber": 127
-  },
-  {
-    "name": "Matt Eden",
-    "githubUsername": "Matteas-Eden",
-    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358889-09bcba80-dc2b-11eb-85bd-4141b8693256.jpg",
-    "issueNumber": 573
-  },
-  {
-    "name": "Meghna Das",
-    "githubUsername": "Meghna-DAS",
-    "imageUrl": "https://user-images.githubusercontent.com/58567847/92334660-c1397c80-f0ad-11ea-9c35-45f99de50225.jpg",
-    "issueNumber": 82
-  },
-  {
-    "name": "Mohammad Shakib",
-    "githubUsername": "Mo-Shakib",
-    "imageUrl": "https://user-images.githubusercontent.com/50780268/131604251-f07f6811-d795-448f-a7b8-0f13b58c602f.png",
-    "issueNumber": 675
-  },
-  {
-    "name": "Slim Coder",
-    "githubUsername": "MrSlimCoder",
-    "imageUrl": "https://user-images.githubusercontent.com/28563357/126220805-82470ad3-f38a-40b4-a277-8c40704fdb5b.png",
-    "issueNumber": 607
-  },
-  {
-    "name": "Nandani Paliwal",
-    "githubUsername": "Nandani-Paliwal",
-    "imageUrl": "https://user-images.githubusercontent.com/83964826/136408997-e2fcefa5-2c78-4484-9ac3-574bd72da253.PNG",
-    "issueNumber": 760
-  },
-  {
-    "name": "Nirmal Silwal",
-    "githubUsername": "NirmalSilwal",
-    "imageUrl": "https://user-images.githubusercontent.com/31946761/93670031-aefc0d00-fab5-11ea-9ca9-cc4bfe73fa83.png",
-    "issueNumber": 93
-  },
-  {
-    "name": "Nitesh Thapliyal",
-    "githubUsername": "Nitesh-thapliyal",
-    "imageUrl": "https://user-images.githubusercontent.com/53345517/103440787-a13a5400-4c6e-11eb-8ab7-b82e497f662d.png",
-    "issueNumber": 205
-  },
-  {
-    "name": "Nisarg Kapkar",
-    "githubUsername": "Nkap23",
-    "imageUrl": "https://user-images.githubusercontent.com/53402062/107231517-67672500-6a46-11eb-857e-8b6ad34f7a38.PNG",
-    "issueNumber": 350
-  },
-  {
-    "name": "Oktay Kır",
-    "githubUsername": "OKTAYKIR",
-    "imageUrl": "https://user-images.githubusercontent.com/8077228/107888040-53766400-6f1b-11eb-93e4-97696149b0f0.PNG",
-    "issueNumber": 364
-  },
-  {
-    "name": "Idris Olubisi",
-    "githubUsername": "Olanetsoft",
-    "imageUrl": "https://user-images.githubusercontent.com/45847909/104912483-9da40e00-598c-11eb-8881-971faeaecd9d.png",
-    "issueNumber": 254
-  },
-  {
-    "name": "Omkar Kulkarni",
-    "githubUsername": "Omkar0114",
-    "imageUrl": "https://user-images.githubusercontent.com/51391473/133314407-008ec664-bdbd-4428-a9c4-8c306f74a91c.png",
-    "issueNumber": 713
-  },
-  {
-    "name": "David Leal",
-    "githubUsername": "Panquesito7",
-    "imageUrl": "https://user-images.githubusercontent.com/51391473/120854354-a57edc00-c542-11eb-910a-6dab08382357.png",
-    "issueNumber": 550
-  },
-  {
-    "name": "Prathamesh Giri",
-    "githubUsername": "Pratham31",
-    "imageUrl": "https://user-images.githubusercontent.com/56548231/94920063-2c227b80-04d3-11eb-8474-1e1c78f22b95.png",
-    "issueNumber": 118
-  },
-  {
-    "name": "Pushkar Thakur",
-    "githubUsername": "Push9828",
-    "imageUrl": "https://user-images.githubusercontent.com/31934448/95063061-77c76600-071b-11eb-813f-f53f9ba04035.png",
-    "issueNumber": 128
-  },
-  {
-    "name": "Rayman",
-    "githubUsername": "Rayman-Sodhi",
-    "imageUrl": "https://user-images.githubusercontent.com/65675692/103086722-50da4b00-460b-11eb-9259-a75a12957bea.PNG",
-    "issueNumber": 198
-  },
-  {
-    "name": "Remco Halman",
-    "githubUsername": "RemcoHalman",
-    "imageUrl": "https://user-images.githubusercontent.com/25010775/91281626-9cc5d200-e788-11ea-843f-52a10890b485.jpg",
-    "issueNumber": 69
-  },
-  {
-    "name": "Rishabh Rathore",
-    "githubUsername": "Rishabhrathore055",
-    "imageUrl": "https://user-images.githubusercontent.com/77366500/115426452-234e8880-a21e-11eb-9e2d-c508acdb921f.jpg",
-    "issueNumber": 445
-  },
-  {
-    "name": "Ritika Das",
-    "githubUsername": "Ritika-Das",
-    "imageUrl": "https://user-images.githubusercontent.com/61988162/94970758-f907d880-0522-11eb-91fc-2c0c0b48b735.png",
-    "issueNumber": 121
-  },
-  {
-    "name": "Ritwik Sinha",
-    "githubUsername": "Ritwik880",
-    "imageUrl": "https://user-images.githubusercontent.com/54446880/127509715-b594b68d-4703-4bc2-aed5-1172d7df6a5c.png",
-    "issueNumber": 627
-  },
-  {
-    "name": "Rupam Shil",
-    "githubUsername": "Rupam-Shil",
-    "imageUrl": "https://user-images.githubusercontent.com/68724228/119318846-67a6cb80-bc97-11eb-8dd1-32832f379fe5.png",
-    "issueNumber": 523
-  },
-  {
-    "name": "Saatvik Nagpal",
-    "githubUsername": "Saatvik21",
-    "imageUrl": "https://user-images.githubusercontent.com/61618767/117973604-3bf81d00-b34a-11eb-86a2-8bbd7f19b6d5.png",
-    "issueNumber": 493
-  },
-  {
-    "name": "Sahitya",
-    "githubUsername": "SahityaRoy",
-    "imageUrl": "https://user-images.githubusercontent.com/72821604/127466372-6f894759-7511-4bd1-828c-30734755102e.png",
-    "issueNumber": 621
-  },
-  {
-    "name": "Sairam Nomula",
-    "githubUsername": "SairamNomula",
-    "imageUrl": "https://user-images.githubusercontent.com/78247889/137581575-7f2195b8-bf1b-49e0-9df1-19080616d117.png",
-    "issueNumber": 774
-  },
-  {
-    "name": "Sam Varghese",
-    "githubUsername": "Sam-Varghese",
-    "imageUrl": "https://user-images.githubusercontent.com/79152648/116452787-b79e9800-a87b-11eb-852c-14509cd1c33e.jpeg",
-    "issueNumber": 467
-  },
-  {
-    "name": "Samriddhi",
-    "githubUsername": "Samridhi-98",
-    "imageUrl": "https://user-images.githubusercontent.com/54466041/104162252-40530e80-541a-11eb-967d-6b6f4050371c.png",
-    "issueNumber": 235
-  },
-  {
-    "name": "Sayantani Deb",
-    "githubUsername": "SayantaniDeb",
-    "imageUrl": "https://user-images.githubusercontent.com/74983536/135533466-d88b6a9c-1950-4cf5-a694-cdb2109dbff2.png",
-    "issueNumber": 744
-  },
-  {
-    "name": "Shubham Hadake",
-    "githubUsername": "Shubham714",
-    "imageUrl": "https://user-images.githubusercontent.com/40699892/89451190-6db7d400-d779-11ea-8302-fd5d4f9bc8f8.png",
-    "issueNumber": 50
-  },
-  {
-    "name": "Shyam Praveen Singh",
-    "githubUsername": "ShyamPraveenSingh",
-    "imageUrl": "https://user-images.githubusercontent.com/57350162/94983126-66385f80-055d-11eb-9193-1cd683dd677b.png",
-    "issueNumber": 123
-  },
-  {
-    "name": "Sri Subathra Devi B",
-    "githubUsername": "Subathra19",
-    "imageUrl": "https://user-images.githubusercontent.com/55084520/127505296-cd9fe349-ed69-4ff8-ad10-4b363cdf8f34.PNG",
-    "issueNumber": 625
-  },
-  {
-    "name": "Subham Raoniar",
-    "githubUsername": "SubhamRaoniar28",
-    "imageUrl": "https://user-images.githubusercontent.com/41485604/111068853-767f3e00-84f0-11eb-9122-80af0d842463.jpg",
-    "issueNumber": 397
-  },
-  {
-    "name": "Subhampreet Mohanty",
-    "githubUsername": "Subhampreet",
-    "imageUrl": "https://user-images.githubusercontent.com/61475220/95688833-8eddea80-0c2a-11eb-86f0-79916ba9499d.png",
-    "issueNumber": 131
-  },
-  {
-    "name": "Sulthan Mohaideen",
-    "githubUsername": "SulthanNK",
-    "imageUrl": "https://user-images.githubusercontent.com/32130871/117547009-e4586980-b04a-11eb-8daa-baad5ffb4949.png",
-    "issueNumber": 482
-  },
-  {
-    "name": "Suraj Bokde",
-    "githubUsername": "Surajbokde",
-    "imageUrl": "https://user-images.githubusercontent.com/66197682/105803643-eaf33180-5fc3-11eb-8f97-42de7cee0f05.png",
-    "issueNumber": 279
-  },
-  {
-    "name": "Tarun Kamboj",
-    "githubUsername": "Tarun-Kamboj",
-    "imageUrl": "https://user-images.githubusercontent.com/56023742/112745083-62910d00-8fc3-11eb-9f48-ee1cbc7bacd9.PNG",
-    "issueNumber": 419
-  },
-  {
-    "name": "Tawfik Yasser",
-    "githubUsername": "TawfikYasser",
-    "imageUrl": "https://user-images.githubusercontent.com/54971231/107149052-42e44d80-695f-11eb-9fbf-83c20f4a3e0a.png",
-    "issueNumber": 227
-  },
-  {
-    "name": "Thales Brederodes Montarroyos Candido",
-    "githubUsername": "ThalesBMC",
-    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358775-7c796600-dc2a-11eb-9e2f-e9d9daf27bf9.jpg",
-    "issueNumber": 570
-  },
-  {
-    "name": "Sonal Tiwari",
-    "githubUsername": "Tiwarisonal19",
-    "imageUrl": "https://user-images.githubusercontent.com/66546980/136524950-8180c22f-d630-4e07-97f4-90d40a6d890e.png",
-    "issueNumber": 768
-  },
-  {
-    "name": "Utkarsh Mishra",
-    "githubUsername": "Utkarsh1504",
-    "imageUrl": "https://user-images.githubusercontent.com/76392681/107881996-f673b180-6f0c-11eb-90a8-9365ff3e4753.png",
-    "issueNumber": 361
-  },
-  {
-    "name": "Utkarsh Singh",
-    "githubUsername": "Utkarsh299-tech",
-    "imageUrl": "https://user-images.githubusercontent.com/60184229/103612077-a7b81c80-4f49-11eb-90eb-0002bc43e97c.png",
-    "issueNumber": 217
-  },
-  {
-    "name": "Utkarsh Mishra",
-    "githubUsername": "UtkarshMishra12",
-    "imageUrl": "(https://user-images.githubusercontent.com/67385503/126064330-eb1f90d9-d7d3-462c-b032-b381ed00153c.png)",
-    "issueNumber": 600
-  },
-  {
-    "name": "Vanshika Pandey",
-    "githubUsername": "Vanshikapandey30",
-    "imageUrl": "https://user-images.githubusercontent.com/70807500/135111984-f6c4f540-949b-451c-8fb3-22d5daa07575.png",
-    "issueNumber": 738
-  },
-  {
-    "name": "Vasudev Jaiswal",
-    "githubUsername": "VasudevJaiswal",
-    "imageUrl": "https://user-images.githubusercontent.com/85981735/129255772-5bac726e-d98e-4eb4-8c9f-c2206b72c976.png",
-    "issueNumber": 641
-  },
-  {
-    "name": "Vedant Khairnar",
-    "githubUsername": "VedantKhairnar",
-    "imageUrl": "https://user-images.githubusercontent.com/624760/88165360-7b177f00-cc0d-11ea-804a-776639dcca29.png",
-    "issueNumber": 18
-  },
-  {
-    "name": "Mohamed Yaseen Sheriff S",
-    "githubUsername": "Yaseen549",
-    "imageUrl": "https://user-images.githubusercontent.com/43935210/115549892-d377cc00-a2c6-11eb-9b4b-7983603b5c6c.jpg",
-    "issueNumber": 449
-  },
-  {
-    "name": "Yash Indane",
-    "githubUsername": "YashIndane",
-    "imageUrl": "https://user-images.githubusercontent.com/53041219/99989860-22353e80-2dd9-11eb-95c5-07dd04eecd7d.png",
-    "issueNumber": 180
-  },
-  {
-    "name": "Zaid Khan",
-    "githubUsername": "ZaidKhan2002",
-    "imageUrl": "https://user-images.githubusercontent.com/71960989/135026473-a1f58d4b-55d7-4d5f-8a72-1673d52ea20d.png",
-    "issueNumber": 733
-  },
-  {
-    "name": "Aakarsh Teja",
-    "githubUsername": "aakarshteja",
-    "imageUrl": "https://user-images.githubusercontent.com/42816874/92400662-e2e84180-f149-11ea-8304-6e76cab7fb05.png",
-    "issueNumber": 84
-  },
-  {
-    "name": "Aditya Garde",
-    "githubUsername": "adityagarde",
-    "imageUrl": "https://user-images.githubusercontent.com/14886766/127783620-6b94c878-9fd2-40c5-a62d-995818f0caa3.jpeg",
-    "issueNumber": 630
-  },
-  {
-    "name": "Aditya Mangal",
-    "githubUsername": "adityamangal1",
-    "imageUrl": "https://user-images.githubusercontent.com/68494604/120438793-6bc1a000-c39f-11eb-845b-c145db5e2f9b.png",
-    "issueNumber": 544
-  },
-  {
-    "name": "Aditya Oberai",
-    "githubUsername": "adityaoberai",
-    "imageUrl": "https://user-images.githubusercontent.com/31401437/106563296-974b8f80-6551-11eb-8753-a13ea9e944c2.png",
-    "issueNumber": 304
-  },
-  {
-    "name": "Andreas Karabetian",
-    "githubUsername": "adreaskar",
-    "imageUrl": "https://user-images.githubusercontent.com/63111742/88703846-eed9f000-d115-11ea-9569-587de740a27a.jpg",
-    "issueNumber": 39
-  },
-  {
-    "name": "Advaith U",
-    "githubUsername": "advaith-unnikrishnan",
-    "imageUrl": "https://user-images.githubusercontent.com/45172876/115498803-d73a2d00-a28b-11eb-809c-79a8eaf10a5d.png",
-    "issueNumber": 447
-  },
-  {
-    "name": "afc163",
-    "githubUsername": "afc163",
-    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358687-1987cf00-dc2a-11eb-9e6f-faa4f425476f.jpg",
-    "issueNumber": 568
-  },
-  {
-    "name": "Ahamed Basha N",
-    "githubUsername": "ahamedbasha-n",
-    "imageUrl": "https://user-images.githubusercontent.com/51391473/130546663-9ff92a77-14a1-4004-8d9c-dbc67fb027df.png",
-    "issueNumber": 663
-  },
-  {
-    "name": "Ahammad Shawki",
-    "githubUsername": "ahammadshawki8",
-    "imageUrl": "https://user-images.githubusercontent.com/56157819/102689296-26f9e080-4227-11eb-9e75-08c1f2426889.png",
-    "issueNumber": 193
-  },
-  {
-    "name": "Akas Rai",
-    "githubUsername": "akasrai",
-    "imageUrl": "https://user-images.githubusercontent.com/624760/88123456-d40df580-cbc2-11ea-9add-a7fc8675b243.png",
-    "issueNumber": 12
-  },
-  {
-    "name": "Akshita Gupta",
-    "githubUsername": "akshitagupta15june",
-    "imageUrl": "https://user-images.githubusercontent.com/57909583/97854357-58722780-1d1f-11eb-8bda-83425c231ff5.png",
-    "issueNumber": 160
-  },
-  {
-    "name": "aminos",
-    "githubUsername": "amino19",
-    "imageUrl": "https://user-images.githubusercontent.com/75872316/125152497-91924f80-e16a-11eb-8366-8d5c3d26df10.jpg",
-    "issueNumber": 499
-  },
-  {
-    "name": "Anas Khan",
-    "githubUsername": "anaskhan28",
-    "imageUrl": "https://user-images.githubusercontent.com/87796038/130655483-7fd4dc84-9f0d-412b-acac-68ab178aaf3c.png",
-    "issueNumber": 666
-  },
-  {
-    "name": "Angshu Bhadra",
-    "githubUsername": "angshuBHADRA",
-    "imageUrl": "https://user-images.githubusercontent.com/61795945/116436758-56ba9400-a86a-11eb-9eb4-82da46fef05a.png",
-    "issueNumber": 464
-  },
-  {
-    "name": "Aniket Kumar",
-    "githubUsername": "aniket-24",
-    "imageUrl": "https://user-images.githubusercontent.com/51391473/134812399-6a005576-3b24-46a6-b9bc-7798f79e5bf1.png",
-    "issueNumber": 723
-  },
-  {
-    "name": "Aniket Singh",
-    "githubUsername": "aniketsingh98571",
-    "imageUrl": "https://user-images.githubusercontent.com/63097956/93450123-351c2600-f8f3-11ea-8964-bd44fd12dc0f.png",
-    "issueNumber": 88
-  },
-  {
     "name": "Annu",
     "githubUsername": "annu12340",
     "imageUrl": "https://user-images.githubusercontent.com/624760/88266719-92b33e00-ccc7-11ea-9b40-d77fa96dcd4f.png",
     "issueNumber": 22
-  },
-  {
-    "name": "Mohit singh",
-    "githubUsername": "anotherwebguy",
-    "imageUrl": "https://user-images.githubusercontent.com/66346161/114270825-18c90d80-9a2c-11eb-9173-1c072e90ac27.png",
-    "issueNumber": 436
   },
   {
     "name": "Anubhav",
@@ -762,10 +246,40 @@
     "issueNumber": 354
   },
   {
-    "name": "Ayush Varshney",
-    "githubUsername": "ayush-09",
-    "imageUrl": "https://user-images.githubusercontent.com/51924622/107047890-54f2ae80-67ee-11eb-8995-90c289eb8346.png",
-    "issueNumber": 325
+    "name": "Ashutosh Dwivedi",
+    "githubUsername": "Ashutosh00710",
+    "imageUrl": "https://user-images.githubusercontent.com/42907572/95647789-c3995700-0aef-11eb-97f3-01ff3b54cdaf.png",
+    "issueNumber": 134
+  },
+  {
+    "name": "Astha Nayak",
+    "githubUsername": "nayakastha",
+    "imageUrl": "https://user-images.githubusercontent.com/58568514/119360619-6cd03e80-bcc8-11eb-8fec-699c31daac61.PNG",
+    "issueNumber": 526
+  },
+  {
+    "name": "Avid Coder",
+    "githubUsername": "AvidCoder101",
+    "imageUrl": "https://user-images.githubusercontent.com/70807684/126078076-3df641ea-3c0f-483f-952c-cbabbb5758c1.png",
+    "issueNumber": 594
+  },
+  {
+    "name": "Avinash Sharma",
+    "githubUsername": "ImAvinashSharma",
+    "imageUrl": "https://user-images.githubusercontent.com/58262578/118364777-87633300-b5b7-11eb-9d16-7ada5d04b460.png",
+    "issueNumber": 510
+  },
+  {
+    "name": "Ayush Kumar",
+    "githubUsername": "Ayush7614",
+    "imageUrl": "https://user-images.githubusercontent.com/67006255/106144942-ee8ce100-619a-11eb-908d-4bdceade5661.png",
+    "issueNumber": 283
+  },
+  {
+    "name": "Ayush Parikh",
+    "githubUsername": "Ayushparikh-code",
+    "imageUrl": "https://user-images.githubusercontent.com/60268067/118812871-33649100-b8cc-11eb-9e90-0ec4fe333229.png",
+    "issueNumber": 519
   },
   {
     "name": "Ayush Tamra",
@@ -774,10 +288,10 @@
     "issueNumber": 517
   },
   {
-    "name": "Brian Douglas",
-    "githubUsername": "bdougie",
-    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358969-70da6f00-dc2b-11eb-8f3b-43779550acb6.jpg",
-    "issueNumber": 576
+    "name": "Ayush Varshney",
+    "githubUsername": "ayush-09",
+    "imageUrl": "https://user-images.githubusercontent.com/51924622/107047890-54f2ae80-67ee-11eb-8995-90c289eb8346.png",
+    "issueNumber": 325
   },
   {
     "name": "Beven Nyamande",
@@ -786,22 +300,40 @@
     "issueNumber": 552
   },
   {
-    "name": "Pratham Bhagat",
-    "githubUsername": "bhagatpratham",
-    "imageUrl": "https://user-images.githubusercontent.com/66031743/128864527-177a97f6-967c-4b18-93d2-c02472274612.PNG",
-    "issueNumber": 639
+    "name": "Bhuvanesh Hingal",
+    "githubUsername": "BhuvaneshHingal",
+    "imageUrl": "https://user-images.githubusercontent.com/58567847/92334550-be8a5780-f0ac-11ea-9bbc-626b8dac30c6.jpg",
+    "issueNumber": 80
   },
   {
-    "name": "Jakob Jung",
-    "githubUsername": "bloedboemmel",
-    "imageUrl": "https://user-images.githubusercontent.com/58067119/126633887-0f5362c3-1189-47ce-b195-1fc772d28ac7.PNG",
-    "issueNumber": 614
+    "name": "Bolaji Ayodeji",
+    "githubUsername": "BolajiAyodeji",
+    "imageUrl": "https://user-images.githubusercontent.com/64528871/92191405-9e178e80-ee5b-11ea-8e21-108a54d77075.PNG",
+    "issueNumber": 76
   },
   {
-    "name": "Ankush Chavan",
-    "githubUsername": "cankush625",
-    "imageUrl": "https://user-images.githubusercontent.com/41515472/135764171-9fbac687-0017-449f-815d-527dc6b5f44f.jpg",
-    "issueNumber": 754
+    "name": "Brian Douglas",
+    "githubUsername": "bdougie",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358969-70da6f00-dc2b-11eb-8f3b-43779550acb6.jpg",
+    "issueNumber": 576
+  },
+  {
+    "name": "Bryson Mundia",
+    "githubUsername": "Bryson69",
+    "imageUrl": "https://user-images.githubusercontent.com/62892010/113439186-ba2fde00-93f2-11eb-8042-bdb111493c18.png",
+    "issueNumber": 423
+  },
+  {
+    "name": "Carlos Souza",
+    "githubUsername": "CarlosViniMSouza",
+    "imageUrl": "https://user-images.githubusercontent.com/60679101/118286430-d1112800-b4a8-11eb-8bc9-9152ba87d351.png",
+    "issueNumber": 501
+  },
+  {
+    "name": "Cas Martens",
+    "githubUsername": "DevCassie",
+    "imageUrl": "https://user-images.githubusercontent.com/19227530/112297527-4b39e300-8c96-11eb-9da2-717607286946.png",
+    "issueNumber": 394
   },
   {
     "name": "Chandrika Deb",
@@ -810,10 +342,10 @@
     "issueNumber": 313
   },
   {
-    "name": "charan",
-    "githubUsername": "charan-web",
-    "imageUrl": "https://user-images.githubusercontent.com/56212945/93706577-39d81880-fb45-11ea-9f6c-236275f1a0be.jpg",
-    "issueNumber": 95
+    "name": "Chayan Debbarma",
+    "githubUsername": "Chayan-11",
+    "imageUrl": "https://user-images.githubusercontent.com/76246106/137589642-7e33d835-d02d-4f20-9fec-85c35554c2a2.png",
+    "issueNumber": 777
   },
   {
     "name": "Chetan Thakral",
@@ -822,16 +354,52 @@
     "issueNumber": 724
   },
   {
-    "name": "Olanrewaju Alaba",
-    "githubUsername": "chryzcodez",
-    "imageUrl": "https://user-images.githubusercontent.com/77321169/106990847-5cc23c80-6775-11eb-83ae-3160bce68b20.jpg",
-    "issueNumber": 306
+    "name": "Chinmay Mhatre",
+    "githubUsername": "ChinmayMhatre",
+    "imageUrl": "https://user-images.githubusercontent.com/51131670/111893373-5091f600-8a28-11eb-8e94-48b23eec0495.PNG",
+    "issueNumber": 403
+  },
+  {
+    "name": "CodingSpecies",
+    "githubUsername": "CodingSpecies",
+    "imageUrl": "https://user-images.githubusercontent.com/51391473/129598330-ca71253a-4431-4bbd-91af-8db083144b9a.png",
+    "issueNumber": 650
+  },
+  {
+    "name": "CyberBoyAyush",
+    "githubUsername": "CyberBoyAyush",
+    "imageUrl": "https://user-images.githubusercontent.com/69210117/119606961-1f131d80-be11-11eb-8af0-608ec3bb3a0c.jpg",
+    "issueNumber": 528
+  },
+  {
+    "name": "Damian Ziolo",
+    "githubUsername": "L0um15",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358914-2e189700-dc2b-11eb-80db-180c14723db1.jpg",
+    "issueNumber": 574
+  },
+  {
+    "name": "Daniel F",
+    "githubUsername": "w3bdesign",
+    "imageUrl": "https://user-images.githubusercontent.com/45217974/104978190-9b2fcb80-5a01-11eb-81d6-af81f6147770.png",
+    "issueNumber": 72
   },
   {
     "name": "Danish Ul Hassan",
     "githubUsername": "danishulhassan7",
     "imageUrl": "https://user-images.githubusercontent.com/57491009/107846186-87f6fc80-6e03-11eb-9054-d89fba7d4e65.PNG",
     "issueNumber": 359
+  },
+  {
+    "name": "Darsh Gupta",
+    "githubUsername": "DarshGupta1910",
+    "imageUrl": "https://user-images.githubusercontent.com/73016212/135509959-87f8b8e4-9fab-4247-bae4-d965fca5ddbc.png",
+    "issueNumber": 742
+  },
+  {
+    "name": "David Leal",
+    "githubUsername": "Panquesito7",
+    "imageUrl": "https://user-images.githubusercontent.com/51391473/120854354-a57edc00-c542-11eb-910a-6dab08382357.png",
+    "issueNumber": 550
   },
   {
     "name": "Dedar Alam",
@@ -858,6 +426,12 @@
     "issueNumber": 285
   },
   {
+    "name": "Eke Victor",
+    "githubUsername": "evavic44",
+    "imageUrl": "https://user-images.githubusercontent.com/62628408/117089670-0b165780-ad4e-11eb-84c6-7b24f8956048.png",
+    "issueNumber": 471
+  },
+  {
     "name": "Ekta Arora",
     "githubUsername": "ektaarora16",
     "imageUrl": "https://user-images.githubusercontent.com/51391473/135740246-b0be6db0-160a-43d8-819d-0ad3c190619c.png",
@@ -870,10 +444,16 @@
     "issueNumber": 577
   },
   {
-    "name": "Eke Victor",
-    "githubUsername": "evavic44",
-    "imageUrl": "https://user-images.githubusercontent.com/62628408/117089670-0b165780-ad4e-11eb-84c6-7b24f8956048.png",
-    "issueNumber": 471
+    "name": "Fabricio Cavalcante",
+    "githubUsername": "fcsouza",
+    "imageUrl": "https://user-images.githubusercontent.com/7094035/109435109-7f074d00-79f7-11eb-9e98-9486279e5a63.png",
+    "issueNumber": 378
+  },
+  {
+    "name": "Falguni Sarkar",
+    "githubUsername": "lostgirljourney",
+    "imageUrl": "https://user-images.githubusercontent.com/56036475/136514446-f91cea9a-a793-4dc4-bf80-706e7bb87bf9.png",
+    "issueNumber": 764
   },
   {
     "name": "Faouzi Mohamed",
@@ -882,16 +462,22 @@
     "issueNumber": 196
   },
   {
-    "name": "Fabricio Cavalcante",
-    "githubUsername": "fcsouza",
-    "imageUrl": "https://user-images.githubusercontent.com/7094035/109435109-7f074d00-79f7-11eb-9e98-9486279e5a63.png",
-    "issueNumber": 378
+    "name": "Fayas Noushad",
+    "githubUsername": "FayasNoushad",
+    "imageUrl": "https://user-images.githubusercontent.com/76828314/132162846-8e55ec2c-90de-4f9a-8c12-e8254a942f0f.jpg",
+    "issueNumber": 646
   },
   {
     "name": "Filippo Fonseca",
     "githubUsername": "filippo-fonseca",
     "imageUrl": "https://user-images.githubusercontent.com/48065878/104632919-feb5a400-5663-11eb-8dd0-b05cfd377158.png",
     "issueNumber": 244
+  },
+  {
+    "name": "Franklin Okolie",
+    "githubUsername": "DeveloperAspire",
+    "imageUrl": "https://user-images.githubusercontent.com/57295537/103459329-e1e9aa00-4d0e-11eb-9758-5351230c2df8.png",
+    "issueNumber": 207
   },
   {
     "name": "Franklin U.O. Ohaegbulam",
@@ -906,16 +492,22 @@
     "issueNumber": 539
   },
   {
-    "name": "Yajush Vyas",
-    "githubUsername": "geekyvyas",
-    "imageUrl": "https://user-images.githubusercontent.com/35025375/98467874-c924b280-21fd-11eb-810b-2d17e0342e10.png",
-    "issueNumber": 163
-  },
-  {
     "name": "Grawish Sachdeva",
     "githubUsername": "grawish",
     "imageUrl": "https://user-images.githubusercontent.com/41504211/133457470-bca4c546-8800-4729-ad5d-587527d4ab29.png",
     "issueNumber": 717
+  },
+  {
+    "name": "Gunjan Paneri",
+    "githubUsername": "iamgunjan",
+    "imageUrl": "https://user-images.githubusercontent.com/53567221/129094169-e012e3fb-3ba9-47e7-9173-0e09e7517034.png",
+    "issueNumber": 642
+  },
+  {
+    "name": "Gurjot Singh",
+    "githubUsername": "Gur-jot",
+    "imageUrl": "https://user-images.githubusercontent.com/78019426/135703000-f777dee5-735f-4c93-acc7-86fcce0d20a0.jpg",
+    "issueNumber": 745
   },
   {
     "name": "Hanshul Chandel",
@@ -924,16 +516,22 @@
     "issueNumber": 578
   },
   {
-    "name": "Harikrushn kanani",
-    "githubUsername": "harikanani",
-    "imageUrl": "https://user-images.githubusercontent.com/54361799/116959271-c1306180-acba-11eb-8f59-2ee53b9da174.jpg",
-    "issueNumber": 469
+    "name": "Hariharan B",
+    "githubUsername": "HariAcidReign",
+    "imageUrl": "https://user-images.githubusercontent.com/58134096/113426876-b2bc0500-93f1-11eb-962e-772207a6e965.png",
+    "issueNumber": 425
   },
   {
     "name": "Hariket Sukesh Kumar Sheth",
     "githubUsername": "hariketsheth",
     "imageUrl": "https://user-images.githubusercontent.com/72455881/134767118-d853cd39-ddc1-4df6-bda1-1a4315f9c855.png",
     "issueNumber": 728
+  },
+  {
+    "name": "Harikrushn kanani",
+    "githubUsername": "harikanani",
+    "imageUrl": "https://user-images.githubusercontent.com/54361799/116959271-c1306180-acba-11eb-8f59-2ee53b9da174.jpg",
+    "issueNumber": 469
   },
   {
     "name": "Harkirat Singh",
@@ -948,22 +546,10 @@
     "issueNumber": 158
   },
   {
-    "name": "Uttam Kumar",
-    "githubUsername": "helper-uttam",
-    "imageUrl": "https://user-images.githubusercontent.com/72701081/137596655-04914ae9-7ce0-44d3-8904-12af8a089696.png",
-    "issueNumber": 779
-  },
-  {
-    "name": "Tom Hill",
-    "githubUsername": "hill",
-    "imageUrl": "https://user-images.githubusercontent.com/5620045/125885321-8cda4575-b72f-42ea-99ad-4de890e747ad.png",
-    "issueNumber": 592
-  },
-  {
-    "name": "Akshayan Sinha",
-    "githubUsername": "hippyaki",
-    "imageUrl": "https://user-images.githubusercontent.com/52236719/125198464-98f74d00-e27f-11eb-98ff-fb5f0a0ab4a6.png",
-    "issueNumber": 586
+    "name": "Henok B Ademtew",
+    "githubUsername": "HenokB",
+    "imageUrl": "https://user-images.githubusercontent.com/46082799/107974254-4f326100-6f84-11eb-8cbb-105cd0d59189.png",
+    "issueNumber": 371
   },
   {
     "name": "Hossain Rabbi",
@@ -990,22 +576,28 @@
     "issueNumber": 560
   },
   {
-    "name": "Gunjan Paneri",
-    "githubUsername": "iamgunjan",
-    "imageUrl": "https://user-images.githubusercontent.com/53567221/129094169-e012e3fb-3ba9-47e7-9173-0e09e7517034.png",
-    "issueNumber": 642
-  },
-  {
     "name": "Ibrahim Ramadhan",
     "githubUsername": "ibby360",
     "imageUrl": "https://user-images.githubusercontent.com/51038084/118176523-31b54c00-b43a-11eb-8e62-bcc439335b8f.png",
     "issueNumber": 502
   },
   {
-    "name": "Sushant Gaurav",
-    "githubUsername": "imsushant12",
-    "imageUrl": "https://user-images.githubusercontent.com/68695162/136514805-e77cb457-2a22-43b3-bea5-4e77eccf22a4.png",
-    "issueNumber": 765
+    "name": "Ibtihel Ouni",
+    "githubUsername": "Ibtihel-ouni",
+    "imageUrl": "https://user-images.githubusercontent.com/58151963/107116883-97f86480-6876-11eb-8382-fc1c6ce06403.png",
+    "issueNumber": 338
+  },
+  {
+    "name": "Idris Olubisi",
+    "githubUsername": "Olanetsoft",
+    "imageUrl": "https://user-images.githubusercontent.com/45847909/104912483-9da40e00-598c-11eb-8881-971faeaecd9d.png",
+    "issueNumber": 254
+  },
+  {
+    "name": "Israel Antonio Rosales Laguan",
+    "githubUsername": "Israel-Laguan",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358938-4ab4cf00-dc2b-11eb-9f53-8efb56a72b96.jpg",
+    "issueNumber": 575
   },
   {
     "name": "Ivan Pesenti",
@@ -1014,16 +606,76 @@
     "issueNumber": 308
   },
   {
-    "name": "Jayesh Srivastava",
-    "githubUsername": "jayesh-srivastava",
-    "imageUrl": "https://user-images.githubusercontent.com/49337716/124381232-eeab8280-dcde-11eb-84ed-c54a5bfcf208.png",
-    "issueNumber": 566
+    "name": "Ivelin Iliev",
+    "githubUsername": "Iwi4a",
+    "imageUrl": "https://user-images.githubusercontent.com/20727684/112530125-fb464380-8d9d-11eb-963a-0a8b25a7a87f.png",
+    "issueNumber": 412
+  },
+  {
+    "name": "Jakob Jung",
+    "githubUsername": "bloedboemmel",
+    "imageUrl": "https://user-images.githubusercontent.com/58067119/126633887-0f5362c3-1189-47ce-b195-1fc772d28ac7.PNG",
+    "issueNumber": 614
+  },
+  {
+    "name": "Jaskeerat Singh",
+    "githubUsername": "Jassi10000",
+    "imageUrl": "https://user-images.githubusercontent.com/64856348/105141728-9f520b00-5b1f-11eb-924f-d87a5ac8e9f0.jpg",
+    "issueNumber": 265
+  },
+  {
+    "name": "Jaskirat Singh",
+    "githubUsername": "Jas-Script",
+    "imageUrl": "https://user-images.githubusercontent.com/75515362/137254367-8c87ff8d-9cb9-476f-bd9d-b830c9ae20a2.PNG",
+    "issueNumber": 772
   },
   {
     "name": "Jay Patel",
     "githubUsername": "jaypatel31",
     "imageUrl": "https://user-images.githubusercontent.com/59785863/109974379-82fcdd00-7d1f-11eb-9cf9-9a7911767705.png",
     "issueNumber": 388
+  },
+  {
+    "name": "Jayant Goel",
+    "githubUsername": "JayantGoel001",
+    "imageUrl": "https://user-images.githubusercontent.com/54479676/118960081-8bf56600-b980-11eb-9d59-a6d84971c5a3.png",
+    "issueNumber": 169
+  },
+  {
+    "name": "Jayesh Srivastava",
+    "githubUsername": "jayesh-srivastava",
+    "imageUrl": "https://user-images.githubusercontent.com/49337716/124381232-eeab8280-dcde-11eb-84ed-c54a5bfcf208.png",
+    "issueNumber": 566
+  },
+  {
+    "name": "Jaynil Gaglani",
+    "githubUsername": "Jaynil1611",
+    "imageUrl": "https://user-images.githubusercontent.com/48921037/88678363-00b69580-d10c-11ea-902b-58e25c2c799c.PNG",
+    "issueNumber": 36
+  },
+  {
+    "name": "Jennifer Rosa",
+    "githubUsername": "rosajen27",
+    "imageUrl": "https://raw.githubusercontent.com/rosajen27/rosajen27/master/rosajen27.png",
+    "issueNumber": 165
+  },
+  {
+    "name": "Joel Nickson",
+    "githubUsername": "Joel-Nickson",
+    "imageUrl": "https://user-images.githubusercontent.com/61058781/117574506-00b3df00-b0fb-11eb-808d-a653374f0fd1.png",
+    "issueNumber": 485
+  },
+  {
+    "name": "Jonah Lawrence",
+    "githubUsername": "DenverCoder1",
+    "imageUrl": "https://user-images.githubusercontent.com/20955511/115257585-e6f52c80-a138-11eb-86a5-22d9e4e3a062.png",
+    "issueNumber": 209
+  },
+  {
+    "name": "Joykishan Sharma",
+    "githubUsername": "JoykishanSharma",
+    "imageUrl": "https://user-images.githubusercontent.com/47889468/90676332-78925e80-e279-11ea-9f7d-bbc2c44289b0.png",
+    "issueNumber": 62
   },
   {
     "name": "Kaiwalya Koparkar",
@@ -1044,10 +696,40 @@
     "issueNumber": 431
   },
   {
+    "name": "Karthik Nayak",
+    "githubUsername": "KarthikNayak024",
+    "imageUrl": "https://user-images.githubusercontent.com/39642646/90327189-aa23d500-dfae-11ea-8147-53bbddc3d1c3.png",
+    "issueNumber": 56
+  },
+  {
+    "name": "Karuna Tata",
+    "githubUsername": "starlightknown",
+    "imageUrl": "https://user-images.githubusercontent.com/74637789/117139898-6128e080-adca-11eb-8cc1-0277b7e43114.png",
+    "issueNumber": 479
+  },
+  {
+    "name": "Khushhal Reddy",
+    "githubUsername": "KKhushhalR2405",
+    "imageUrl": "https://user-images.githubusercontent.com/58569950/120160642-14db8f80-c214-11eb-8f2a-d5946aa8d59e.png",
+    "issueNumber": 537
+  },
+  {
+    "name": "Khushi Sharma",
+    "githubUsername": "KhushiSharma22",
+    "imageUrl": "https://user-images.githubusercontent.com/67903164/112979129-cd824580-9175-11eb-8fc7-09169b54d5e9.png",
+    "issueNumber": 421
+  },
+  {
     "name": "Kingsley Victor",
     "githubUsername": "kingsley-einstein",
     "imageUrl": "https://user-images.githubusercontent.com/35224620/112137884-1c0d6e00-8bd1-11eb-9f40-9c578888669f.png",
     "issueNumber": 407
+  },
+  {
+    "name": "Komal Pal",
+    "githubUsername": "Komal7209",
+    "imageUrl": "https://user-images.githubusercontent.com/51391473/131920342-adaf32bd-cfde-4bb2-ad5f-390b61898a37.png",
+    "issueNumber": 681
   },
   {
     "name": "Krish",
@@ -1056,16 +738,22 @@
     "issueNumber": 473
   },
   {
-    "name": "Nitish Kumar",
-    "githubUsername": "krniya",
-    "imageUrl": "https://user-images.githubusercontent.com/5454844/109417110-3b591700-79e8-11eb-9258-b4d830b0cbe6.png",
-    "issueNumber": 375
+    "name": "Krishna Kumar",
+    "githubUsername": "Krishnapro",
+    "imageUrl": "https://user-images.githubusercontent.com/59277887/132136661-d62a6664-0fa3-437d-b97d-ea41ca21c61f.png",
+    "issueNumber": 702
   },
   {
     "name": "Kumaran KM",
     "githubUsername": "kumarankm",
     "imageUrl": "https://user-images.githubusercontent.com/60292723/107042199-7bf9b200-67e7-11eb-8454-23f4bfa10f59.png",
     "issueNumber": 321
+  },
+  {
+    "name": "Kushal Das",
+    "githubUsername": "Kushal997-das",
+    "imageUrl": "https://user-images.githubusercontent.com/61356005/104895611-1c547780-599c-11eb-8538-04f74005a4b4.png",
+    "issueNumber": 250
   },
   {
     "name": "Lee Reilly",
@@ -1080,28 +768,28 @@
     "issueNumber": 554
   },
   {
-    "name": "Anh Hoang Chi Tran",
-    "githubUsername": "longqua69",
-    "imageUrl": "https://user-images.githubusercontent.com/37626565/115994832-da724780-a602-11eb-8a4f-6ab6d151715d.PNG",
-    "issueNumber": 459
-  },
-  {
-    "name": "Falguni Sarkar",
-    "githubUsername": "lostgirljourney",
-    "imageUrl": "https://user-images.githubusercontent.com/56036475/136514446-f91cea9a-a793-4dc4-bf80-706e7bb87bf9.png",
-    "issueNumber": 764
-  },
-  {
-    "name": "Rakesh Mahato",
-    "githubUsername": "mahatorakesh",
-    "imageUrl": "https://user-images.githubusercontent.com/69909347/132104145-a6c264c0-7049-4572-8fae-e08a413c4afe.png",
-    "issueNumber": 689
-  },
-  {
     "name": "Makuza Mugabo Verite",
     "githubUsername": "makuzaverite",
     "imageUrl": "https://user-images.githubusercontent.com/53856673/102192030-10423b00-3e6f-11eb-8494-a684cebb2ecc.png",
     "issueNumber": 186
+  },
+  {
+    "name": "Mallikarjun H T",
+    "githubUsername": "MallikarjunHt",
+    "imageUrl": "https://user-images.githubusercontent.com/40291553/95041576-b72e8c00-06f4-11eb-8e29-61e76c681f98.png",
+    "issueNumber": 127
+  },
+  {
+    "name": "Matt Eden",
+    "githubUsername": "Matteas-Eden",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358889-09bcba80-dc2b-11eb-85bd-4141b8693256.jpg",
+    "issueNumber": 573
+  },
+  {
+    "name": "Max Bridgland",
+    "githubUsername": "M4cs",
+    "imageUrl": "https://user-images.githubusercontent.com/624760/91051132-96fcaf00-e617-11ea-91f7-48d42535373d.png",
+    "issueNumber": 65
   },
   {
     "name": "Md. Manzum Rahman",
@@ -1116,16 +804,10 @@
     "issueNumber": 30
   },
   {
-    "name": "Motasim",
-    "githubUsername": "motasimmakki",
-    "imageUrl": "https://user-images.githubusercontent.com/44056349/127783862-dfa186c1-478a-45d0-8088-59cab12c36a9.png",
-    "issueNumber": 631
-  },
-  {
-    "name": "Saad Irfan",
-    "githubUsername": "msaaddev",
-    "imageUrl": "https://user-images.githubusercontent.com/44341551/128627907-fbeb7a8a-f0d7-454f-a077-cf10c8876aaa.png",
-    "issueNumber": 636
+    "name": "Meghna Das",
+    "githubUsername": "Meghna-DAS",
+    "imageUrl": "https://user-images.githubusercontent.com/58567847/92334660-c1397c80-f0ad-11ea-9c35-45f99de50225.jpg",
+    "issueNumber": 82
   },
   {
     "name": "Michelle Sandford",
@@ -1134,16 +816,40 @@
     "issueNumber": 125
   },
   {
+    "name": "Mohamed Yaseen Sheriff S",
+    "githubUsername": "Yaseen549",
+    "imageUrl": "https://user-images.githubusercontent.com/43935210/115549892-d377cc00-a2c6-11eb-9b4b-7983603b5c6c.jpg",
+    "issueNumber": 449
+  },
+  {
+    "name": "Mohammad Shakib",
+    "githubUsername": "Mo-Shakib",
+    "imageUrl": "https://user-images.githubusercontent.com/50780268/131604251-f07f6811-d795-448f-a7b8-0f13b58c602f.png",
+    "issueNumber": 675
+  },
+  {
+    "name": "Mohit singh",
+    "githubUsername": "anotherwebguy",
+    "imageUrl": "https://user-images.githubusercontent.com/66346161/114270825-18c90d80-9a2c-11eb-9173-1c072e90ac27.png",
+    "issueNumber": 436
+  },
+  {
+    "name": "Motasim",
+    "githubUsername": "motasimmakki",
+    "imageUrl": "https://user-images.githubusercontent.com/44056349/127783862-dfa186c1-478a-45d0-8088-59cab12c36a9.png",
+    "issueNumber": 631
+  },
+  {
     "name": "Muhammad Awais",
     "githubUsername": "muhammadawaisshaikh",
     "imageUrl": "https://user-images.githubusercontent.com/24633059/107117015-17972b00-6899-11eb-8670-b7bf41a77d32.png",
     "issueNumber": 340
   },
   {
-    "name": "Astha Nayak",
-    "githubUsername": "nayakastha",
-    "imageUrl": "https://user-images.githubusercontent.com/58568514/119360619-6cd03e80-bcc8-11eb-8fec-699c31daac61.PNG",
-    "issueNumber": 526
+    "name": "Nandani Paliwal",
+    "githubUsername": "Nandani-Paliwal",
+    "imageUrl": "https://user-images.githubusercontent.com/83964826/136408997-e2fcefa5-2c78-4484-9ac3-574bd72da253.PNG",
+    "issueNumber": 760
   },
   {
     "name": "Nelson T. Alba Jr.",
@@ -1158,10 +864,58 @@
     "issueNumber": 442
   },
   {
+    "name": "Nirmal Silwal",
+    "githubUsername": "NirmalSilwal",
+    "imageUrl": "https://user-images.githubusercontent.com/31946761/93670031-aefc0d00-fab5-11ea-9ca9-cc4bfe73fa83.png",
+    "issueNumber": 93
+  },
+  {
+    "name": "Nisarg Kapkar",
+    "githubUsername": "Nkap23",
+    "imageUrl": "https://user-images.githubusercontent.com/53402062/107231517-67672500-6a46-11eb-857e-8b6ad34f7a38.PNG",
+    "issueNumber": 350
+  },
+  {
+    "name": "Nitesh Thapliyal",
+    "githubUsername": "Nitesh-thapliyal",
+    "imageUrl": "https://user-images.githubusercontent.com/53345517/103440787-a13a5400-4c6e-11eb-8ab7-b82e497f662d.png",
+    "issueNumber": 205
+  },
+  {
+    "name": "Nitish Kumar",
+    "githubUsername": "krniya",
+    "imageUrl": "https://user-images.githubusercontent.com/5454844/109417110-3b591700-79e8-11eb-9258-b4d830b0cbe6.png",
+    "issueNumber": 375
+  },
+  {
+    "name": "Oktay Kır",
+    "githubUsername": "OKTAYKIR",
+    "imageUrl": "https://user-images.githubusercontent.com/8077228/107888040-53766400-6f1b-11eb-93e4-97696149b0f0.PNG",
+    "issueNumber": 364
+  },
+  {
+    "name": "Olanrewaju Alaba",
+    "githubUsername": "chryzcodez",
+    "imageUrl": "https://user-images.githubusercontent.com/77321169/106990847-5cc23c80-6775-11eb-83ae-3160bce68b20.jpg",
+    "issueNumber": 306
+  },
+  {
+    "name": "Omkar Kulkarni",
+    "githubUsername": "Omkar0114",
+    "imageUrl": "https://user-images.githubusercontent.com/51391473/133314407-008ec664-bdbd-4428-a9c4-8c306f74a91c.png",
+    "issueNumber": 713
+  },
+  {
     "name": "Pascal Ojinnaka",
     "githubUsername": "passy4ucj",
     "imageUrl": "https://user-images.githubusercontent.com/56399504/107071622-46ec6000-67e5-11eb-8ce8-dc2b06f16dae.PNG",
     "issueNumber": 336
+  },
+  {
+    "name": "Patrick Guo",
+    "githubUsername": "shpatrickguo",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358808-a5016000-dc2a-11eb-9210-b80403eae437.jpg",
+    "issueNumber": 571
   },
   {
     "name": "Paulson J Paul",
@@ -1170,10 +924,28 @@
     "issueNumber": 247
   },
   {
-    "name": "Vatsal Kesarwani",
-    "githubUsername": "plazzy99",
-    "imageUrl": "https://user-images.githubusercontent.com/48295138/106139911-0f9e0380-6194-11eb-9558-56ff97b53c94.png",
-    "issueNumber": 281
+    "name": "Pranjal Verma",
+    "githubUsername": "pvcodes",
+    "imageUrl": "https://user-images.githubusercontent.com/54075838/111760905-40153a80-88c5-11eb-9600-aa49a78ddd05.png",
+    "issueNumber": 399
+  },
+  {
+    "name": "Pratham Bhagat",
+    "githubUsername": "bhagatpratham",
+    "imageUrl": "https://user-images.githubusercontent.com/66031743/128864527-177a97f6-967c-4b18-93d2-c02472274612.PNG",
+    "issueNumber": 639
+  },
+  {
+    "name": "Prathamesh Borse",
+    "githubUsername": "viraldevpb",
+    "imageUrl": "https://user-images.githubusercontent.com/66899360/104146755-cb6bde80-53f1-11eb-84bd-dbc87d80152e.png",
+    "issueNumber": 232
+  },
+  {
+    "name": "Prathamesh Giri",
+    "githubUsername": "Pratham31",
+    "imageUrl": "https://user-images.githubusercontent.com/56548231/94920063-2c227b80-04d3-11eb-8474-1e1c78f22b95.png",
+    "issueNumber": 118
   },
   {
     "name": "Praveen",
@@ -1182,22 +954,28 @@
     "issueNumber": 15
   },
   {
+    "name": "Prify Philip",
+    "githubUsername": "Amchuz",
+    "imageUrl": "https://user-images.githubusercontent.com/32680794/94683989-036c7b80-0345-11eb-9c27-76da3756d1d0.png",
+    "issueNumber": 106
+  },
+  {
     "name": "Priyanka Mishra",
     "githubUsername": "priyaankamishra",
     "imageUrl": "https://user-images.githubusercontent.com/71710239/117578918-55148a00-b10e-11eb-93f4-8d2bd01dcd8c.png",
     "issueNumber": 487
   },
   {
-    "name": "Pranjal Verma",
-    "githubUsername": "pvcodes",
-    "imageUrl": "https://user-images.githubusercontent.com/54075838/111760905-40153a80-88c5-11eb-9600-aa49a78ddd05.png",
-    "issueNumber": 399
+    "name": "Pushkar Thakur",
+    "githubUsername": "Push9828",
+    "imageUrl": "https://user-images.githubusercontent.com/31934448/95063061-77c76600-071b-11eb-813f-f53f9ba04035.png",
+    "issueNumber": 128
   },
   {
-    "name": "Anirudh Anup",
-    "githubUsername": "qwe123pro",
-    "imageUrl": "https://user-images.githubusercontent.com/51391473/129775827-5d94ffc7-81bc-4364-9e08-a936030e6006.png",
-    "issuesNumber": 629
+    "name": "Rachit Tandon",
+    "githubUsername": "webdevrachit",
+    "imageUrl": "https://user-images.githubusercontent.com/72686780/106394124-fa89d480-6420-11eb-837b-fbf179a7697d.png",
+    "issueNumber": 286
   },
   {
     "name": "Rajiv Ranjan Mars",
@@ -1206,10 +984,40 @@
     "issueNumber": 619
   },
   {
+    "name": "Rakesh Mahato",
+    "githubUsername": "mahatorakesh",
+    "imageUrl": "https://user-images.githubusercontent.com/69909347/132104145-a6c264c0-7049-4572-8fae-e08a413c4afe.png",
+    "issueNumber": 689
+  },
+  {
+    "name": "Ranjit Yadav",
+    "githubUsername": "13yadav",
+    "imageUrl": "https://user-images.githubusercontent.com/51192422/119933239-5ca6b080-bfa1-11eb-96c7-b6edb9da4778.png",
+    "issueNumber": 531
+  },
+  {
+    "name": "Rayman",
+    "githubUsername": "Rayman-Sodhi",
+    "imageUrl": "https://user-images.githubusercontent.com/65675692/103086722-50da4b00-460b-11eb-9259-a75a12957bea.PNG",
+    "issueNumber": 198
+  },
+  {
+    "name": "Reeha",
+    "githubUsername": "syedareehaquasar",
+    "imageUrl": "https://user-images.githubusercontent.com/624760/88165225-473c5980-cc0d-11ea-936d-3c3daa24a536.png",
+    "issueNumber": 17
+  },
+  {
     "name": "Rehan Punjwani",
     "githubUsername": "rehanpunjwani",
     "imageUrl": "https://user-images.githubusercontent.com/51391473/134791010-7e18ffeb-f5f1-4b0f-ac41-4c4bc9006485.png",
     "issueNumber": 730
+  },
+  {
+    "name": "Remco Halman",
+    "githubUsername": "RemcoHalman",
+    "imageUrl": "https://user-images.githubusercontent.com/25010775/91281626-9cc5d200-e788-11ea-843f-52a10890b485.jpg",
+    "issueNumber": 69
   },
   {
     "name": "Rishabh Dwivedi",
@@ -1218,10 +1026,28 @@
     "issueNumber": 390
   },
   {
+    "name": "Rishabh Rathore",
+    "githubUsername": "Rishabhrathore055",
+    "imageUrl": "https://user-images.githubusercontent.com/77366500/115426452-234e8880-a21e-11eb-9e2d-c508acdb921f.jpg",
+    "issueNumber": 445
+  },
+  {
+    "name": "Ritesh Kumar",
+    "githubUsername": "wordssaysalot",
+    "imageUrl": "https://user-images.githubusercontent.com/56651899/118150685-71773600-b430-11eb-95f7-38a7479c5e34.png",
+    "issueNumber": 498
+  },
+  {
     "name": "Ritik Rawal",
     "githubUsername": "ritik307",
     "imageUrl": "https://user-images.githubusercontent.com/22374829/104178614-a8acea80-5430-11eb-8ee8-1a7bb89248b2.png",
     "issueNumber": 237
+  },
+  {
+    "name": "Ritika Das",
+    "githubUsername": "Ritika-Das",
+    "imageUrl": "https://user-images.githubusercontent.com/61988162/94970758-f907d880-0522-11eb-91fc-2c0c0b48b735.png",
+    "issueNumber": 121
   },
   {
     "name": "Ritvij Kumar Sharma",
@@ -1230,10 +1056,22 @@
     "issueNumber": 86
   },
   {
+    "name": "Ritwik Sinha",
+    "githubUsername": "Ritwik880",
+    "imageUrl": "https://user-images.githubusercontent.com/54446880/127509715-b594b68d-4703-4bc2-aed5-1172d7df6a5c.png",
+    "issueNumber": 627
+  },
+  {
     "name": "Roald Nefs",
     "githubUsername": "roaldnefs",
     "imageUrl": "https://user-images.githubusercontent.com/6523325/106946650-a8e78f80-6729-11eb-9f51-a580cdf9e6f1.png",
     "issueNumber": 315
+  },
+  {
+    "name": "Rohan Gupta",
+    "githubUsername": "DemonDaddy22",
+    "imageUrl": "https://user-images.githubusercontent.com/39908472/135729184-0a1a05a2-1f74-48e8-ace7-4d4b2a62eb94.png",
+    "issueNumber": 751
   },
   {
     "name": "Rohan Kulkarni",
@@ -1248,10 +1086,16 @@
     "issueNumber": 602
   },
   {
-    "name": "Jennifer Rosa",
-    "githubUsername": "rosajen27",
-    "imageUrl": "https://raw.githubusercontent.com/rosajen27/rosajen27/master/rosajen27.png",
-    "issueNumber": 165
+    "name": "Rudra Barad",
+    "githubUsername": "rudrabarad",
+    "imageUrl": "https://user-images.githubusercontent.com/53337681/115293769-5983fd80-a175-11eb-91f8-dbdadf06a8b0.png",
+    "issueNumber": 440
+  },
+  {
+    "name": "Rupam Shil",
+    "githubUsername": "Rupam-Shil",
+    "imageUrl": "https://user-images.githubusercontent.com/68724228/119318846-67a6cb80-bc97-11eb-8dd1-32832f379fe5.png",
+    "issueNumber": 523
   },
   {
     "name": "Russ Perry",
@@ -1260,10 +1104,40 @@
     "issueNumber": 78
   },
   {
-    "name": "Rudra Barad",
-    "githubUsername": "rudrabarad",
-    "imageUrl": "https://user-images.githubusercontent.com/53337681/115293769-5983fd80-a175-11eb-91f8-dbdadf06a8b0.png",
-    "issueNumber": 440
+    "name": "Saad Irfan",
+    "githubUsername": "msaaddev",
+    "imageUrl": "https://user-images.githubusercontent.com/44341551/128627907-fbeb7a8a-f0d7-454f-a077-cf10c8876aaa.png",
+    "issueNumber": 636
+  },
+  {
+    "name": "Saatvik Nagpal",
+    "githubUsername": "Saatvik21",
+    "imageUrl": "https://user-images.githubusercontent.com/61618767/117973604-3bf81d00-b34a-11eb-86a2-8bbd7f19b6d5.png",
+    "issueNumber": 493
+  },
+  {
+    "name": "Sahitya",
+    "githubUsername": "SahityaRoy",
+    "imageUrl": "https://user-images.githubusercontent.com/72821604/127466372-6f894759-7511-4bd1-828c-30734755102e.png",
+    "issueNumber": 621
+  },
+  {
+    "name": "Sairam Nomula",
+    "githubUsername": "SairamNomula",
+    "imageUrl": "https://user-images.githubusercontent.com/78247889/137581575-7f2195b8-bf1b-49e0-9df1-19080616d117.png",
+    "issueNumber": 774
+  },
+  {
+    "name": "Sam Varghese",
+    "githubUsername": "Sam-Varghese",
+    "imageUrl": "https://user-images.githubusercontent.com/79152648/116452787-b79e9800-a87b-11eb-852c-14509cd1c33e.jpeg",
+    "issueNumber": 467
+  },
+  {
+    "name": "Samriddhi",
+    "githubUsername": "Samridhi-98",
+    "imageUrl": "https://user-images.githubusercontent.com/54466041/104162252-40530e80-541a-11eb-967d-6b6f4050371c.png",
+    "issueNumber": 235
   },
   {
     "name": "Sanchit Vijay",
@@ -1296,10 +1170,16 @@
     "issueNumber": 98
   },
   {
-    "name": "schmelto",
-    "githubUsername": "schmelto",
-    "imageUrl": "https://user-images.githubusercontent.com/30869493/108380804-7ea4d000-7207-11eb-8f3e-2d00b21d1456.png",
-    "issueNumber": 373
+    "name": "Sayantani Deb",
+    "githubUsername": "SayantaniDeb",
+    "imageUrl": "https://user-images.githubusercontent.com/74983536/135533466-d88b6a9c-1950-4cf5-a694-cdb2109dbff2.png",
+    "issueNumber": 744
+  },
+  {
+    "name": "Sefat Siddiquea Sifa",
+    "githubUsername": "sifa123",
+    "imageUrl": "https://user-images.githubusercontent.com/63462931/112490528-a3add500-8da9-11eb-853e-9972b42e5caf.png",
+    "issueNumber": 410
   },
   {
     "name": "Shajeen Ahamed",
@@ -1320,16 +1200,16 @@
     "issueNumber": 762
   },
   {
+    "name": "Shivendra K Jha",
+    "githubUsername": "skjha1",
+    "imageUrl": "https://user-images.githubusercontent.com/47923680/120433441-d7ecd580-c398-11eb-9c5c-fe8cd356e4d2.jpg",
+    "issueNumber": 542
+  },
+  {
     "name": "Shoaib Khalid",
     "githubUsername": "shoaibpython",
     "imageUrl": "https://user-images.githubusercontent.com/56650286/95706498-75f82800-0c70-11eb-8bc6-77355fb9f71e.JPG",
     "issueNumber": 139
-  },
-  {
-    "name": "Patrick Guo",
-    "githubUsername": "shpatrickguo",
-    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358808-a5016000-dc2a-11eb-9210-b80403eae437.jpg",
-    "issueNumber": 571
   },
   {
     "name": "Shrejal Singh",
@@ -1338,16 +1218,34 @@
     "issueNumber": 784
   },
   {
+    "name": "Shreya Purohit",
+    "githubUsername": "shreyalive",
+    "imageUrl": "https://user-images.githubusercontent.com/63795399/106517095-07c8c100-64fe-11eb-807a-64405ddb4db0.png",
+    "issueNumber": 297
+  },
+  {
     "name": "Shreyaans Jain",
     "githubUsername": "shreyaansjain06",
     "imageUrl": "https://user-images.githubusercontent.com/51391473/134031514-b0bbff29-3974-4f05-a2c6-a5c163e90216.png",
     "issueNumber": 726
   },
   {
-    "name": "Shreya Purohit",
-    "githubUsername": "shreyalive",
-    "imageUrl": "https://user-images.githubusercontent.com/63795399/106517095-07c8c100-64fe-11eb-807a-64405ddb4db0.png",
-    "issueNumber": 297
+    "name": "Shubham Hadake",
+    "githubUsername": "Shubham714",
+    "imageUrl": "https://user-images.githubusercontent.com/40699892/89451190-6db7d400-d779-11ea-8302-fd5d4f9bc8f8.png",
+    "issueNumber": 50
+  },
+  {
+    "name": "Shubham Kukreti",
+    "githubUsername": "KukretiShubham",
+    "imageUrl": "https://user-images.githubusercontent.com/51391473/129485691-4a1249b6-3203-4f15-ac8c-654a67d50ee4.png",
+    "issueNumber": 648
+  },
+  {
+    "name": "Shyam Praveen Singh",
+    "githubUsername": "ShyamPraveenSingh",
+    "imageUrl": "https://user-images.githubusercontent.com/57350162/94983126-66385f80-055d-11eb-9193-1cd683dd677b.png",
+    "issueNumber": 123
   },
   {
     "name": "Siddhi Bhanushali ",
@@ -1356,40 +1254,22 @@
     "issueNumber": 598
   },
   {
-    "name": "Sefat Siddiquea Sifa",
-    "githubUsername": "sifa123",
-    "imageUrl": "https://user-images.githubusercontent.com/63462931/112490528-a3add500-8da9-11eb-853e-9972b42e5caf.png",
-    "issueNumber": 410
+    "name": "Slim Coder",
+    "githubUsername": "MrSlimCoder",
+    "imageUrl": "https://user-images.githubusercontent.com/28563357/126220805-82470ad3-f38a-40b4-a277-8c40704fdb5b.png",
+    "issueNumber": 607
   },
   {
-    "name": "Shivendra K Jha",
-    "githubUsername": "skjha1",
-    "imageUrl": "https://user-images.githubusercontent.com/47923680/120433441-d7ecd580-c398-11eb-9c5c-fe8cd356e4d2.jpg",
-    "issueNumber": 542
+    "name": "Sonal Tiwari",
+    "githubUsername": "Tiwarisonal19",
+    "imageUrl": "https://user-images.githubusercontent.com/66546980/136524950-8180c22f-d630-4e07-97f4-90d40a6d890e.png",
+    "issueNumber": 768
   },
   {
-    "name": "Adriano Laureano",
-    "githubUsername": "sl4ureano",
-    "imageUrl": "https://user-images.githubusercontent.com/36384130/97517158-792f2b80-1973-11eb-9463-53bdb041497f.png",
-    "issueNumber": 156
-  },
-  {
-    "name": "Vaidhyanathan S M",
-    "githubUsername": "smv1999",
-    "imageUrl": "https://user-images.githubusercontent.com/42896577/107180778-6f4fa680-69ff-11eb-9e53-b2d3c858644d.png",
-    "issueNumber": 344
-  },
-  {
-    "name": "Animesh Pathak",
-    "githubUsername": "sonichigo",
-    "imageUrl": "https://user-images.githubusercontent.com/53110238/125169823-89b5c800-e1c9-11eb-941f-3c2a43a0e149.png",
-    "issueNumber": 584
-  },
-  {
-    "name": "Karuna Tata",
-    "githubUsername": "starlightknown",
-    "imageUrl": "https://user-images.githubusercontent.com/74637789/117139898-6128e080-adca-11eb-8cc1-0277b7e43114.png",
-    "issueNumber": 479
+    "name": "Sri Subathra Devi B",
+    "githubUsername": "Subathra19",
+    "imageUrl": "https://user-images.githubusercontent.com/55084520/127505296-cd9fe349-ed69-4ff8-ad10-4b363cdf8f34.PNG",
+    "issueNumber": 625
   },
   {
     "name": "Stephen Mount",
@@ -1398,16 +1278,58 @@
     "issueNumber": 20
   },
   {
+    "name": "Subham Raoniar",
+    "githubUsername": "SubhamRaoniar28",
+    "imageUrl": "https://user-images.githubusercontent.com/41485604/111068853-767f3e00-84f0-11eb-9122-80af0d842463.jpg",
+    "issueNumber": 397
+  },
+  {
+    "name": "Subhampreet Mohanty",
+    "githubUsername": "Subhampreet",
+    "imageUrl": "https://user-images.githubusercontent.com/61475220/95688833-8eddea80-0c2a-11eb-86f0-79916ba9499d.png",
+    "issueNumber": 131
+  },
+  {
+    "name": "Sulthan Mohaideen",
+    "githubUsername": "SulthanNK",
+    "imageUrl": "https://user-images.githubusercontent.com/32130871/117547009-e4586980-b04a-11eb-8daa-baad5ffb4949.png",
+    "issueNumber": 482
+  },
+  {
     "name": "Supraja Arthi",
     "githubUsername": "suprajaarthi",
     "imageUrl": "https://user-images.githubusercontent.com/51900501/117803970-d554ff80-b274-11eb-91de-e62714a56d2f.jpeg",
     "issueNumber": 490
   },
   {
-    "name": "Reeha",
-    "githubUsername": "syedareehaquasar",
-    "imageUrl": "https://user-images.githubusercontent.com/624760/88165225-473c5980-cc0d-11ea-936d-3c3daa24a536.png",
-    "issueNumber": 17
+    "name": "Suraj Bokde",
+    "githubUsername": "Surajbokde",
+    "imageUrl": "https://user-images.githubusercontent.com/66197682/105803643-eaf33180-5fc3-11eb-8f97-42de7cee0f05.png",
+    "issueNumber": 279
+  },
+  {
+    "name": "Sushant Gaurav",
+    "githubUsername": "imsushant12",
+    "imageUrl": "https://user-images.githubusercontent.com/68695162/136514805-e77cb457-2a22-43b3-bea5-4e77eccf22a4.png",
+    "issueNumber": 765
+  },
+  {
+    "name": "Tarun Kamboj",
+    "githubUsername": "Tarun-Kamboj",
+    "imageUrl": "https://user-images.githubusercontent.com/56023742/112745083-62910d00-8fc3-11eb-9f48-ee1cbc7bacd9.PNG",
+    "issueNumber": 419
+  },
+  {
+    "name": "Tawfik Yasser",
+    "githubUsername": "TawfikYasser",
+    "imageUrl": "https://user-images.githubusercontent.com/54971231/107149052-42e44d80-695f-11eb-9fbf-83c20f4a3e0a.png",
+    "issueNumber": 227
+  },
+  {
+    "name": "Thales Brederodes Montarroyos Candido",
+    "githubUsername": "ThalesBMC",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358775-7c796600-dc2a-11eb-9e2f-e9d9daf27bf9.jpg",
+    "issueNumber": 570
   },
   {
     "name": "Thejaswin S",
@@ -1428,10 +1350,70 @@
     "issueNumber": 562
   },
   {
+    "name": "Tom Hill",
+    "githubUsername": "hill",
+    "imageUrl": "https://user-images.githubusercontent.com/5620045/125885321-8cda4575-b72f-42ea-99ad-4de890e747ad.png",
+    "issueNumber": 592
+  },
+  {
+    "name": "Utkarsh Mishra",
+    "githubUsername": "Utkarsh1504",
+    "imageUrl": "https://user-images.githubusercontent.com/76392681/107881996-f673b180-6f0c-11eb-90a8-9365ff3e4753.png",
+    "issueNumber": 361
+  },
+  {
+    "name": "Utkarsh Mishra",
+    "githubUsername": "UtkarshMishra12",
+    "imageUrl": "(https://user-images.githubusercontent.com/67385503/126064330-eb1f90d9-d7d3-462c-b032-b381ed00153c.png)",
+    "issueNumber": 600
+  },
+  {
+    "name": "Utkarsh Singh",
+    "githubUsername": "Utkarsh299-tech",
+    "imageUrl": "https://user-images.githubusercontent.com/60184229/103612077-a7b81c80-4f49-11eb-90eb-0002bc43e97c.png",
+    "issueNumber": 217
+  },
+  {
+    "name": "Uttam Kumar",
+    "githubUsername": "helper-uttam",
+    "imageUrl": "https://user-images.githubusercontent.com/72701081/137596655-04914ae9-7ce0-44d3-8904-12af8a089696.png",
+    "issueNumber": 779
+  },
+  {
+    "name": "Vaidhyanathan S M",
+    "githubUsername": "smv1999",
+    "imageUrl": "https://user-images.githubusercontent.com/42896577/107180778-6f4fa680-69ff-11eb-9e53-b2d3c858644d.png",
+    "issueNumber": 344
+  },
+  {
+    "name": "Vanshika Pandey",
+    "githubUsername": "Vanshikapandey30",
+    "imageUrl": "https://user-images.githubusercontent.com/70807500/135111984-f6c4f540-949b-451c-8fb3-22d5daa07575.png",
+    "issueNumber": 738
+  },
+  {
     "name": "Varghese Jose",
     "githubUsername": "varghesejose2020",
     "imageUrl": "https://user-images.githubusercontent.com/71702982/106555821-526d2c00-6544-11eb-9da0-076566844959.JPG",
     "issueNumber": 302
+  },
+  {
+    "name": "Vasudev Jaiswal",
+    "githubUsername": "VasudevJaiswal",
+    "imageUrl": "https://user-images.githubusercontent.com/85981735/129255772-5bac726e-d98e-4eb4-8c9f-c2206b72c976.png",
+    "issueNumber": 641
+  },
+  {
+    "name": "Vatsal Kesarwani",
+    "githubUsername": "plazzy99",
+    "imageUrl": "https://user-images.githubusercontent.com/48295138/106139911-0f9e0380-6194-11eb-9558-56ff97b53c94.png",
+    "issueNumber": 281
+  },
+  {
+    "name": "Vedant Khairnar",
+    "githubUsername": "VedantKhairnar",
+    "imageUrl": "https://user-images.githubusercontent.com/624760/88165360-7b177f00-cc0d-11ea-804a-776639dcca29.png",
+    "issueNumber": 18
   },
   {
     "name": "Victor Ikechukwu",
@@ -1446,22 +1428,16 @@
     "issueNumber": 590
   },
   {
-    "name": "Vineel Sai",
-    "githubUsername": "vineelsai26",
-    "imageUrl": "https://user-images.githubusercontent.com/52851879/128023216-f48c89f6-c745-4e76-ae7a-38b9034de2b1.png",
-    "issueNumber": 634
-  },
-  {
     "name": "Vincent Villafuerte",
     "githubUsername": "vinzvinci",
     "imageUrl": "https://user-images.githubusercontent.com/73097560/117130491-b49f2c80-add2-11eb-90bb-a04331c96a4b.png",
     "issueNumber": 215
   },
   {
-    "name": "Prathamesh Borse",
-    "githubUsername": "viraldevpb",
-    "imageUrl": "https://user-images.githubusercontent.com/66899360/104146755-cb6bde80-53f1-11eb-84bd-dbc87d80152e.png",
-    "issueNumber": 232
+    "name": "Vineel Sai",
+    "githubUsername": "vineelsai26",
+    "imageUrl": "https://user-images.githubusercontent.com/52851879/128023216-f48c89f6-c745-4e76-ae7a-38b9034de2b1.png",
+    "issueNumber": 634
   },
   {
     "name": "Vivek Singh",
@@ -1470,33 +1446,57 @@
     "issueNumber": 81
   },
   {
-    "name": "vonhyou",
-    "githubUsername": "vonhyou",
-    "imageUrl": "https://user-images.githubusercontent.com/29454668/115579668-f8853280-a2f8-11eb-8372-95202883ac86.png",
-    "issueNumber": 451
+    "name": "Yajush Vyas",
+    "githubUsername": "geekyvyas",
+    "imageUrl": "https://user-images.githubusercontent.com/35025375/98467874-c924b280-21fd-11eb-810b-2d17e0342e10.png",
+    "issueNumber": 163
   },
   {
-    "name": "Daniel F",
-    "githubUsername": "w3bdesign",
-    "imageUrl": "https://user-images.githubusercontent.com/45217974/104978190-9b2fcb80-5a01-11eb-81d6-af81f6147770.png",
-    "issueNumber": 72
-  },
-  {
-    "name": "Rachit Tandon",
-    "githubUsername": "webdevrachit",
-    "imageUrl": "https://user-images.githubusercontent.com/72686780/106394124-fa89d480-6420-11eb-837b-fbf179a7697d.png",
-    "issueNumber": 286
-  },
-  {
-    "name": "Ritesh Kumar",
-    "githubUsername": "wordssaysalot",
-    "imageUrl": "https://user-images.githubusercontent.com/56651899/118150685-71773600-b430-11eb-95f7-38a7479c5e34.png",
-    "issueNumber": 498
+    "name": "Yash Indane",
+    "githubUsername": "YashIndane",
+    "imageUrl": "https://user-images.githubusercontent.com/53041219/99989860-22353e80-2dd9-11eb-95c5-07dd04eecd7d.png",
+    "issueNumber": 180
   },
   {
     "name": "Yash Sehgal",
     "githubUsername": "yashsehgal",
     "imageUrl": "https://user-images.githubusercontent.com/62352288/113475867-6aeeb980-9495-11eb-86be-bfa0085a6f48.png",
     "issueNumber": 429
+  },
+  {
+    "name": "Zaid Khan",
+    "githubUsername": "ZaidKhan2002",
+    "imageUrl": "https://user-images.githubusercontent.com/71960989/135026473-a1f58d4b-55d7-4d5f-8a72-1673d52ea20d.png",
+    "issueNumber": 733
+  },
+  {
+    "name": "afc163",
+    "githubUsername": "afc163",
+    "imageUrl": "https://user-images.githubusercontent.com/52232302/124358687-1987cf00-dc2a-11eb-9e6f-faa4f425476f.jpg",
+    "issueNumber": 568
+  },
+  {
+    "name": "aminos",
+    "githubUsername": "amino19",
+    "imageUrl": "https://user-images.githubusercontent.com/75872316/125152497-91924f80-e16a-11eb-8366-8d5c3d26df10.jpg",
+    "issueNumber": 499
+  },
+  {
+    "name": "charan",
+    "githubUsername": "charan-web",
+    "imageUrl": "https://user-images.githubusercontent.com/56212945/93706577-39d81880-fb45-11ea-9f6c-236275f1a0be.jpg",
+    "issueNumber": 95
+  },
+  {
+    "name": "schmelto",
+    "githubUsername": "schmelto",
+    "imageUrl": "https://user-images.githubusercontent.com/30869493/108380804-7ea4d000-7207-11eb-8f3e-2d00b21d1456.png",
+    "issueNumber": 373
+  },
+  {
+    "name": "vonhyou",
+    "githubUsername": "vonhyou",
+    "imageUrl": "https://user-images.githubusercontent.com/29454668/115579668-f8853280-a2f8-11eb-8372-95202883ac86.png",
+    "issueNumber": 451
   }
 ]
