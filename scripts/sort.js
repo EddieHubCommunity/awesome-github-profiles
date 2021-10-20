@@ -14,12 +14,12 @@ profiles.sort((a, b) => {
 
 fs.writeFile(
   path.join(__dirname, "..", "data.json"),
-  prettier.format(JSON.stringify(profiles), require('../.prettierrc.json')),
+  prettier.format(JSON.stringify(profiles), require("../.prettierrc.json")),
   (err) => {
     if (err) {
       console.log(err);
     }
 
-    console.log('✅ Sorted the data.')
+    console.log("✅ Sorted the data.");
   }
 );

@@ -8,7 +8,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
-          node-version: '14'
+          node-version: "14"
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'style(data): sort alphabetically'
+          commit_message: "style(data): sort alphabetically"
