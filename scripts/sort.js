@@ -14,7 +14,10 @@ profiles.sort((a, b) => {
 
 fs.writeFile(
   path.join(__dirname, "..", "data.json"),
-  prettier.format(JSON.stringify(profiles), require("../.prettierrc.json")),
+  prettier.format(JSON.stringify(profiles), {
+    'parser': 'json',
+    ...require('../.prettierrc.json')
+  }),
   (err) => {
     if (err) {
       console.log(err);
