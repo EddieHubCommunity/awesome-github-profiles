@@ -33,7 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: prettier
     name: Update README from json data
-    if: github.event === 'push'
+    if: ${{ github.event === 'push' && github.repository_owner == 'EddieHubCommunity' }}
     steps:
       - uses: actions/checkout@v2
       - name: Read/Write data into README
