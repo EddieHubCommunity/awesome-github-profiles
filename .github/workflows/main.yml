@@ -8,10 +8,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Read/Write data into README
+      - run: |
+          npm i
+          node generate.js
         uses: eddiejaoudecommunity/gh-actions-html-table-generator@v0.1
         with:
-          json-file-path: "data.json"
+          json-file-path: ".cache/data.json"
           github-token: ${{ secrets.GITHUB_TOKEN }}
           columns: 3
-          object-field-names: '[ "githubUsername", "name", "imageUrl", "issueNumber" ]'
+          object-field-names: '[ "username", "name", "image", "issueId" ]'
           html-cell: '<td align="center"><p><a href="https://github.com/{{ githubUsername }}">{{ name }}</a></p><img src="{{ imageUrl }}" /><p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/{{ issueNumber }}">(💯 give your vote)</a></p></td>'
