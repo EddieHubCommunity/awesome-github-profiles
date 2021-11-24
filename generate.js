@@ -11,14 +11,14 @@ fs.readdir(
       throw err;
     }
 
-    let profiles = [];
+    const profiles = [];
 
     fs.mkdir(path.join(__dirname, ".cache"), { recursive: true }, () => {});
 
     files.forEach((file) => {
       const profile = require(path.join(__dirname, "profiles", file.name));
 
-      profiles = [...profiles, profile];
+      profiles.push(profile);
     });
 
     const sorted = profiles.sort((a, b) => {
