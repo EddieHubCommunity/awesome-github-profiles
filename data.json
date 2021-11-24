@@ -1548,6 +1548,11 @@
     "issueNumber": 805
   },
   {
+    "name": "Amit Kumar",
+    "githubUsername": "UltimateBrains",
+    "imageUrl": "https://user-images.githubusercontent.com/20683046/139575119-4c44ca4f-9a7d-4aa9-9d40-b9b930707353.png",
+    "issueNumber": 817
+  },
     "name": "Antonio Martínez",
     "githubUsername": "metantonio",
     "imageUrl": "https://user-images.githubusercontent.com/51391473/139906982-fb25c6da-4255-41b6-9f53-71f48f78d32b.png",
@@ -1606,5 +1611,35 @@
     "githubUsername": "rohansaini886",
     "imageUrl": "https://user-images.githubusercontent.com/83878702/142400265-5eb0aeb6-1575-4322-ba44-bca642b4d227.png",
     "issueNumber": 847
+  },
+  {
+    "name": "Kira",
+    "githubUsername": "Kira272921",
+    "imageUrl": "https://user-images.githubusercontent.com/90365542/142598803-a3a64c69-b985-4b80-a628-6c841193cb75.png",
+    "issueNumber": 849
+  },
+  {
+    "name": "Krish Gupta",
+    "githubUsername": "krishguptadev",
+    "imageUrl": "https://user-images.githubusercontent.com/91655303/142618933-d2dead94-c735-47ac-92d8-025c23a2c07d.png",
+    "issueNumber": 851
+  },
+  {
+    "name": "Jaideep Guntupalli",
+    "githubUsername": "JaideepGuntupalli",
+    "imageUrl": "https://user-images.githubusercontent.com/63718527/142635090-b0065905-edad-4d60-81d1-206ddf3093a4.png",
+    "issueNumber": 853
+  },
+  {
+    "name": "Sriniketh J",
+    "githubUsername": "srini047",
+    "imageUrl": "https://user-images.githubusercontent.com/81156510/142722621-fe15ceb1-3be2-4526-baea-024f5cdfd60a.png",
+    "issueNumber": 855
+  },
+  {
+    "name": "Khushi Saxena",
+    "githubUsername": "Khushi0321",
+    "imageUrl": "https://user-images.githubusercontent.com/62301468/143006604-d866b862-8fb2-4357-ad3a-aff3c0fdd704.png",
+    "issueNumber": 859
   }
 ]
