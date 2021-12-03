@@ -1,9 +1,9 @@
 # @see https://github.com/EddieHubCommunity/awesome-github-profiles/issues/173
-name: Prettier Lint checker to find any syntax/spacing/best practices tweaks.
+name: Main
 
 # @see https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions#onpushpull_requestbranchestags
 # "Push" is every commit to any branch, whilst "pull_request" includes update commits to PRs.
-on: [push, pull_request]
+on: [push, pull_request, workflow_dispatch]
 
 jobs:
   prettier:
