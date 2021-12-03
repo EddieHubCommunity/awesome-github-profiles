@@ -1485,7 +1485,7 @@
     "name": "Anirudh Anup",
     "githubUsername": "qwe123pro",
     "imageUrl": "https://user-images.githubusercontent.com/51391473/129775827-5d94ffc7-81bc-4364-9e08-a936030e6006.png",
-    "issuesNumber": 629
+    "issueNumber": 629
   },
   {
     "name": "Nandani Paliwal",
@@ -1553,6 +1553,7 @@
     "imageUrl": "https://user-images.githubusercontent.com/20683046/139575119-4c44ca4f-9a7d-4aa9-9d40-b9b930707353.png",
     "issueNumber": 817
   },
+  {
     "name": "Antonio Martínez",
     "githubUsername": "metantonio",
     "imageUrl": "https://user-images.githubusercontent.com/51391473/139906982-fb25c6da-4255-41b6-9f53-71f48f78d32b.png",
@@ -1641,5 +1642,23 @@
     "githubUsername": "Khushi0321",
     "imageUrl": "https://user-images.githubusercontent.com/62301468/143006604-d866b862-8fb2-4357-ad3a-aff3c0fdd704.png",
     "issueNumber": 859
+  },
+  {
+    "name": "Avneesh Agarwal",
+    "githubUsername": "avneesh0612",
+    "imageUrl": "https://user-images.githubusercontent.com/76690419/143516958-4e176034-cbce-45dd-8667-f3e9208e5c19.png",
+    "issueNumber": 863
+  },
+  {
+    "name": "Anish De",
+    "githubUsername": "AnishDe12020",
+    "imageUrl": "https://user-images.githubusercontent.com/51391473/143733055-ea3a82e1-0d0d-460d-89c2-e622877974a0.png",
+    "issueNumber": 870
+  },
+  {
+    "name": "Anurag Pathak",
+    "githubUsername": "AnuragThePathak",
+    "imageUrl": "https://user-images.githubusercontent.com/75429250/143869337-38c7d5d6-f496-4435-9970-6d0831931884.png",
+    "issueNumber": 874
   }
 ]
