@@ -1,3 +1,4 @@
+name: "Read/Write profiles' data"
 on: [push]
 
 jobs:
@@ -6,7 +7,7 @@ jobs:
     name: Update README from json data
     steps:
       - uses: actions/checkout@v2
-      - name: Read/Write data into README
+      - name: "Read/Write profiles' data"
         uses: EddieHubCommunity/gh-actions-html-table-generator@main
         with:
           json-file-path: "data.json"
