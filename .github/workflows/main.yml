@@ -1,3 +1,4 @@
+name: "Read/Write profiles' data"
 on: [push]
 
 jobs:
@@ -13,7 +14,7 @@ jobs:
       - run: |
           npm i
           node generate.js
-      - name: Read/Write data into README
+      - name: "Read/Write profiles' data"
         uses: EddieHubCommunity/gh-actions-html-table-generator@main
         with:
           json-file-path: ".cache/data.json"
