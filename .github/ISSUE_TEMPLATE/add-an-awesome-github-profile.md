@@ -2,9 +2,8 @@
 name: Add an Awesome GitHub Profile
 about: Add your awesome GitHub profile to the project
 title: Your-Name-Here
-labels: ''
-assignees: ''
-
+labels: ""
+assignees: ""
 ---
 
 ## Profile Screenshot
