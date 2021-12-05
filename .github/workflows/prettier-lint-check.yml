@@ -1,13 +1,24 @@
 # @see https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/173
-name: Prettier Lint checker to find any syntax/spacing/best practices tweaks.
+name: Prettier
 
 # @see https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions#onpushpull_requestbranchestags
 # "Push" is every commit to any branch, whilst "pull_request" includes update commits to PRs.
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   prettier:
+    name: Prettier Linting
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x]
 
     steps:
       - name: Checkout
@@ -18,14 +29,13 @@ jobs:
           # This is important to fetch the changes to the previous commit
           fetch-depth: 0
 
-      - name: Prettify code
-        uses: creyD/prettier_action@v3.1
+      - name: Load Node.js
+        uses: actions/setup-node@v2
         with:
-          # We only check ONLY_CHANGED as this is a PR action
-          only_changed: True
-          # We specify the prettier checker to not automatically overwrite the files.
-          dry: True
-          # This defaults to only "**/*.js", so we specify what we have as file extensions here.
-          prettier_options: --write **/*.{md,json,yml,yaml}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install Deps
+        run: npm ci
+
+      - name: Run Prettier
+        run: npm run lint
