@@ -30,7 +30,9 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
 
 2. Fork the project, using the top right corner button, that states `fork`
 
-3. In the `data.json` file, add your own object to the **end of the file**. Your entry should be similar to this example:
+3. Create a file named `your-username.json` in the directory [`profiles`](/profiles) with the following content. 
+
+>  Your entry should be similar to this example:
 
 ```json
 {
@@ -40,8 +42,6 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
   "issueNumber": 66
 }
 ```
-
-**Note** : Please do not edit anything below `<!--START_SECTION:data-section-->` in `profiles.md`. Our [GitHub Action](https://github.com/EddieHubCommunity/gh-action-community) will make the necessary changes for you.
 
 4. Create a [Pull Request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) to add the changes to this repository. Please change the title to `add your-username` and in the description add `resolve #issueNumber`
 
