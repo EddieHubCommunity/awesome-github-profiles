@@ -48,5 +48,3 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
 ### Any questions, feel free to let us know!
 
 **Join the conversation on our [Discord community](http://discord.eddiehub.org)!**
-
-## Thank you for seeing the amazing list of **Awesome Github Profiles**!
