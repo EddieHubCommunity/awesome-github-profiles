@@ -5,6 +5,6 @@ resolves #`issueNumber`
 
 ## Checklist for profile addition
 
-- [ ] Name the PR `Add <your-username>`
-- [ ] You've filled all the required fields in [data.json](https://github.com/EddieHubCommunity/awesome-github-profiles/blob/main/data.json) file
-- [ ] You've linked the PR to correct Issue
+- [ ] Name the PR `fix: Add <your-username>`.
+- [ ] You've added file named `your-username.json` in the [profiles](https://github.com/EddieHubCommunity/awesome-github-profiles/tree/main/profiles) directory. 
+- [ ] You've linked the PR to correct Issue.
