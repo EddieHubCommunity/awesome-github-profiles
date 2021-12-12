@@ -30,16 +30,16 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
 
 2. Fork the project, using the top right corner button, that states `fork`
 
-3. Create a file named `your-username.json` in the directory [`profiles`](/profiles) with the following content. 
+3. Create a file named `your-username.json` in the directory [`profiles`](/profiles) with the following content.
 
->  Your entry should be similar to this example:
+> Your entry should be similar to this example:
 
 ```json
 {
-    "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
-    "issueId": 66,
-    "name": "Eddie Jaoude",
-    "username": "eddiejaoude"
+  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
+  "issueId": 66,
+  "name": "Eddie Jaoude",
+  "username": "eddiejaoude"
 }
 ```
 
