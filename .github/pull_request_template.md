@@ -7,7 +7,7 @@ resolves #`issueNumber`
 
 ## Checklist for profile addition
 
-- [ ] Name the PR `fix: Add <your-username>`.
+- [ ] Name the PR `fix: add <your-username>`.
 - [ ] You've added file named `your-username.json` in the [profiles](https://github.com/EddieHubCommunity/awesome-github-profiles/tree/main/profiles) directory.
 - [ ] You've linked the PR to the correct issue.
 
