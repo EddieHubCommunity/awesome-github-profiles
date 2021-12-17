@@ -26,7 +26,6 @@ export default function Home({ data }) {
       </Head>
 
       <main>
-        <Button>Hello World</Button>
         <h1>
           Welcome to EddieHub ({data && data.length})
         </h1>
