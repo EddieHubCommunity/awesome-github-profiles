@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import {Button} from "primereact/button"
 
 export async function getStaticProps(context) {
   const res = await fetch('http://localhost:3000/api/profiles')
@@ -25,6 +26,7 @@ export default function Home({ data }) {
       </Head>
 
       <main>
+        <Button>Hello World</Button>
         <h1>
           Welcome to EddieHub ({data && data.length})
         </h1>
