@@ -1,18 +1,18 @@
-import Head from "next/head";
+import Head from 'next/head'
 
 export async function getStaticProps(context) {
-  const res = await fetch("http://localhost:3000/api/profiles");
-  const data = await res.json();
+  const res = await fetch('http://localhost:3000/api/profiles')
+  const data = await res.json()
 
   if (!data) {
     return {
       notFound: true,
-    };
+    }
   }
 
   return {
     props: { data }, // will be passed to the page component as props
-  };
+  }
 }
 
 export default function Home({ data }) {
@@ -37,5 +37,5 @@ export default function Home({ data }) {
 
       <footer>Powered by EddieHub</footer>
     </div>
-  );
+  )
 }
