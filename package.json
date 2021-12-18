@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "generate": "node generate.js"
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "12.0.7",
