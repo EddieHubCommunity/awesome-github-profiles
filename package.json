@@ -1,25 +1,27 @@
 {
-  "name": "awesome-github-profiles",
-  "version": "1.0.0",
-  "description": "![.github/workflows/main.yml](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)",
-  "main": "index.js",
+  "name": "myproject",
+  "private": true,
   "scripts": {
-    "lint": "npx prettier --check .",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "format": "npx prettier --write ."
+    "postinstall": "npm run generate",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "generate": "node generate.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EddieHubCommunity/awesome-github-profiles.git"
+  "dependencies": {
+    "next": "12.0.7",
+    "primeicons": "^5.0.0",
+    "primereact": "^7.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-transition-group": "^4.4.2"
   },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/EddieHubCommunity/awesome-github-profiles/issues"
-  },
-  "homepage": "https://github.com/EddieHubCommunity/awesome-github-profiles#readme",
   "devDependencies": {
-    "prettier": "2.3.2"
+    "autoprefixer": "^10.4.0",
+    "eslint": "8.4.1",
+    "eslint-config-next": "12.0.7",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.7"
   }
 }
