@@ -1,7 +1,9 @@
 import Head from "next/head";
+import { server } from "../assets/config/config";
 
 export async function getStaticProps(context) {
-  const res = await fetch("http://localhost:3000/api/profiles");
+  const url = `${server}/api/profiles`;
+  const res = await fetch(url);
   const data = await res.json();
 
   if (!data) {

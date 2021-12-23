@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import { server } from "../../assets/config/config";
 
 export default async function handler(req, res) {
   const relativeDir = path.resolve("./public", "profiles");
@@ -8,7 +9,7 @@ export default async function handler(req, res) {
   const profiles = await Promise.all(
     files.map(async (file) => {
       const response = await fetch(
-        `http://localhost:3000${path.join("/", "profiles", file)}`
+        `${server}${path.join("/", "profiles", file)}`
       );
       if (response.ok) {
         const data = await response.json();
