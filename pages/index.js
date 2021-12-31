@@ -1,22 +1,35 @@
 import Head from "next/head";
 
-import { Card } from "primereact/card";
+import { useState } from "react";
+
+import { Menubar } from "primereact/menubar";
+import { InputText } from "primereact/inputtext";
+
+import Profile from "../Components/Profile/Profile";
 
 export async function getStaticProps() {
   const res = await fetch("http://localhost:3000/api/profiles");
-  const data = await res.json();
+  const profiles = await res.json();
 
   return {
-    props: { data },
+    props: {
+      profiles,
+    },
   };
 }
 
-export default function Home({ data }) {
-  const card = (profile) => (
-    <Card header={<img src={profile.image} alt={profile.name} />}>
-      {profile.name}
-    </Card>
-  );
+export default function Home({ profiles }) {
+  const [list, setList] = useState(profiles);
+  const items = [];
+
+  const search = (e) =>
+    setList(
+      profiles.filter(
+        (profile) =>
+          profile.name.includes(e.target.value) ||
+          profile.username.includes(e.target.value)
+      )
+    );
 
   return (
     <div>
@@ -26,9 +39,33 @@ export default function Home({ data }) {
       </Head>
 
       <main>
-        <h1>Awesome GitHub Profiles</h1>
+        <Menubar
+          className="p-mb-6"
+          model={items}
+          start={
+            <span>
+              <InputText placeholder="Search" type="text" onKeyUp={search} />{" "}
+              Awesome GitHub Profiles ({list.length})
+            </span>
+          }
+          end={
+            <a
+              href="https://github.com/EddieHubCommunity/awesome-github-profiles"
+              target="_blank"
+            >
+              <i className="pi pi-github"></i>
+            </a>
+          }
+        />
 
-        {data && data.map((profile) => card(profile))}
+        <div className="p-d-flex p-flex-wrap p-m-4">
+          {profiles &&
+            list
+              // .slice(0, 9)
+              .map((profile) => (
+                <Profile key={profile.username} profile={profile} />
+              ))}
+        </div>
       </main>
 
       <footer>
