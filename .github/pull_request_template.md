@@ -3,7 +3,7 @@
 
 <!-- If you are adding your profile, follow the steps listed here, and delete the **Other additions/changes** section below. -->
 
-resolves #`issueNumber`
+resolves #issueNumber
 
 ## Checklist for profile addition
 
