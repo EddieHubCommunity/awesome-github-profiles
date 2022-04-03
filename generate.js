@@ -20,7 +20,7 @@ fs.readdir(
 
       profiles.push(profile);
 
-      profiles.image.alt = "Github profile from "`${profiles.name}`;
+      profiles.image.alt = "GitHub profile from "`${profiles.name}`;
     });
 
     const sorted = profiles.sort((a, b) => {
