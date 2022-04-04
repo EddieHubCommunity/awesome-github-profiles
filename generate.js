@@ -19,8 +19,6 @@ fs.readdir(
       const profile = require(path.join(__dirname, "profiles", file.name));
 
       profiles.push(profile);
-
-      profiles.image.alt = "Github profile from "`${profiles.name}`;
     });
 
     const sorted = profiles.sort((a, b) => {
