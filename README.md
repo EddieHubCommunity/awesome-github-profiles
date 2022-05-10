@@ -45,6 +45,8 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
 
 4. Create a [Pull Request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) to add the changes to this repository. Please change the title to `fix: add <your-username>` and in the description add `resolve #issueNumber`
 
+## Check out our awesome profiles [Here](https://github.com/EddieHubCommunity/awesome-github-profiles/blob/main/profiles.md)
+
 ### Any questions, feel free to let us know!
 
 **Join the conversation on our [Discord community](http://discord.eddiehub.org)!**
