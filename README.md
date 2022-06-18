@@ -7,20 +7,20 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
 
 <p align="center">
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
  </a>
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
+    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="made with markdown badge" />
  </a>
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/open-source.svg" />
+    <img src="https://forthebadge.com/images/badges/open-source.svg" alt="open source badge" />
  </a>
  <br />
  <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/check-it-out.svg" />
+    <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="check it out badge" />
  </a>
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" />
  </a>
 </p>
 
@@ -32,7 +32,7 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
 
 3. Create a file named `your-username.json` in the directory [`profiles`](/profiles) with the following content.
 
-> Your entry should be similar to this example:
+> <span style="color: #606c71">Your entry should be similar to this example:</span>
 
 ```json
 {
@@ -44,6 +44,8 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
 ```
 
 4. Create a [Pull Request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) to add the changes to this repository. Please change the title to `fix: add <your-username>` and in the description add `resolve #issueNumber`
+
+## Check out our awesome profiles [here](https://eddiehubcommunity.github.io/awesome-github-profiles/)
 
 ### Any questions, feel free to let us know!
 
