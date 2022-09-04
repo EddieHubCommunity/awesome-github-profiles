@@ -27,7 +27,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
-        run: npm ci
+      - run: npm ci
       - name: Prettier
         run: npx run format
         env:
