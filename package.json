@@ -4,9 +4,9 @@
   "description": "![.github/workflows/main.yml](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)",
   "main": "index.js",
   "scripts": {
-    "lint": "npx prettier --check .",
+    "lint": "npx prettier --check profiles",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "format": "npx prettier --write ."
+    "format": "npx prettier --write profiles"
   },
   "repository": {
     "type": "git",
