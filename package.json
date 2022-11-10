@@ -1,7 +1,7 @@
 {
   "name": "awesome-github-profiles",
   "version": "1.0.0",
-  "description": "![.github/workflows/main.yml](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)",
+  "description": "List of GitHub profiles that have awesome customisation, that you can use for inspiration.",
   "main": "index.js",
   "scripts": {
     "lint": "npx prettier --check profiles",
