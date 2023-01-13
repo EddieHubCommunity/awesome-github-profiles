@@ -1,0 +1,14 @@
+name: "Add an Awesome GitHub Profile"
+description: "Add your awesome GitHub profile to the project"
+title: "[PROFILE ADDITION] <name here>"
+labels: ["profile addition"]
+body:
+  - type: textarea
+    id: profilescreenshot
+    attributes:
+      label: Profile screenshot
+      placeholder: |
+        Upload the screenshot of your profile page here
+        Keep the generated image link in mind for later
+    validations:
+      required: true
