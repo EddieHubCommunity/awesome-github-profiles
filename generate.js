@@ -13,7 +13,7 @@ fs.readdir(
 
     const profiles = [];
 
-    fs.mkdir(path.join(__dirname, ".cache"), { recursive: true }, () => { });
+    fs.mkdir(path.join(__dirname, ".cache"), { recursive: true }, () => {});
 
     files.forEach((file) => {
       const profile = require(path.join(__dirname, "profiles", file.name));
