@@ -30,7 +30,7 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
 
 2. Fork the project, using the top right corner button, that states `fork`
 
-3. Create a file named `your-username.json` in the directory [`profiles`](/profiles) with the following content.
+3. Create a file named `your-username.json` in the directory [`profiles`](https://github.com/EddieHubCommunity/awesome-github-profiles/tree/main/profiles) with the following content.
 
 > <span style="color: #606c71">Your entry should be similar to this example:</span>
 
