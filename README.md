@@ -43,7 +43,7 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
 }
 ```
 
-4. Create a [Pull Request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) to add the changes to this repository. Please change the title to `fix: add <your-username>` and in the description add `resolve #issueNumber`
+4. Create a [Pull Request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) to add the changes to this repository. Please change the title to `fix: add <your-username>` and in the description add `closes #issueNumber`
 
 ## Check out our awesome profiles [here](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)
 
