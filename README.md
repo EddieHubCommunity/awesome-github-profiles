@@ -10,7 +10,7 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
     <img src="https://img.shields.io/badge/built-with-love" alt="built with love badge" />
  </a>
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/made-with-markdown" alt="made with markdown badge" />
+    <img src="https://img.shields.io/badge/made-with-blue" alt="made with markdown badge" />
  </a>
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/open-source-love" alt="open source badge" />
@@ -20,7 +20,7 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
     <img src="https://img.shields.io/badge/check-it-out" alt="check it out badge" />
  </a>
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/built-by-developers" alt="built by developers badge" />
+    <img src="https://img.shields.io/badge/built-by-blue" alt="built by developers badge" />
  </a>
 </p>
 
