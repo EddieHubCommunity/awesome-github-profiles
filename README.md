@@ -7,20 +7,20 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
 
 <p align="center">
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
+    <img src="https://img.shields.io/images/badge/built-with-love" alt="built with love badge" />
  </a>
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="made with markdown badge" />
+    <img src="https://img.shields.io/images/badge/made-with-markdown" alt="made with markdown badge" />
  </a>
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/open-source.svg" alt="open source badge" />
+    <img src="https://img.shields.io/images/badge/open-source" alt="open source badge" />
  </a>
  <br />
  <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="check it out badge" />
+    <img src="https://img.shields.io/images/badge/check-it-out" alt="check it out badge" />
  </a>
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" />
+    <img src="https://img.shields.io/images/badge/built-by-developers" alt="built by developers badge" />
  </a>
 </p>
 
