@@ -13,7 +13,7 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
     <img src="https://img.shields.io/badge/made_with-markdown-blue" alt="made with markdown badge" />
  </a>
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/open-source-love" alt="open source badge" />
+    <img src="https://img.shields.io/badge/open-source-green" alt="open source badge" />
  </a>
  <br />
  <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/" target="_blank" rel="noopener noreferrer">
