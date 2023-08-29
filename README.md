@@ -17,7 +17,7 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
  </a>
  <br />
  <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/check-it_out-love" alt="check it out badge" />
+    <img src="https://img.shields.io/badge/check_it-out-blue" alt="check it out badge" />
  </a>
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/built_by-developers-yellow" alt="built by developers badge" />
