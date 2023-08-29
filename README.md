@@ -7,7 +7,7 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
 
 <p align="center">
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/built-with_love-blue" alt="built with love badge" />
+    <img src="https://img.shields.io/badge/built_with-love-red" alt="built with love badge" />
  </a>
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/made-with_love-pink" alt="made with markdown badge" />
