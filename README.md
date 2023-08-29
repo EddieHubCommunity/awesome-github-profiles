@@ -20,7 +20,7 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
     <img src="https://img.shields.io/badge/check-it_out-love" alt="check it out badge" />
  </a>
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/built-by_developer-blue" alt="built by developers badge" />
+    <img src="https://img.shields.io/badge/built-by_developers-blue" alt="built by developers badge" />
  </a>
 </p>
 
