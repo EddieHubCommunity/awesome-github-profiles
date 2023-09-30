@@ -1,4 +1,6 @@
-# Awesome GitHub profiles
+# Note: This repository is _not_ included in the Hacktoberfest event, as it is for practice only!
+
+## Awesome GitHub profiles
 
 [![Read/Write profiles' data](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml)
 
