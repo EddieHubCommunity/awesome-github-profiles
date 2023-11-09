@@ -21,5 +21,9 @@
   "homepage": "https://github.com/EddieHubCommunity/awesome-github-profiles#readme",
   "devDependencies": {
     "prettier": "2.3.2"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
   }
 }
