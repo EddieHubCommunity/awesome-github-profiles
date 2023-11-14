@@ -1,0 +1,35 @@
+name: Read/Write profiles' data
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  table:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+          cache: 'npm'
+
+      - name: Install dependencies and generate data
+        run: |
+          npm ci
+          node generate.js
+
+      - name: Generate HTML Table
+        uses: EddieHubCommunity/gh-actions-html-table-generator@main
+        with:
+          json-file-path: .cache/data.json
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          columns: 3
+          file-to-use: profiles.md
+          object-field-names: '["username", "name", "image", "issueId"]'
+          html-cell: '<td align="center"><p><a href="https://github.com/{{ username }}">{{ name }}</a></p><img src="{{ image }}" alt="GitHub profile of {{ name }}" /><p><a href="https://github.com/EddieHubCommunity/awesome-github-profiles/issues/{{ issueId }}">(💯 give your vote)</a></p></td>'
