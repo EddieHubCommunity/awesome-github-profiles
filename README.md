@@ -30,7 +30,7 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
 
 1. Create an [issue](https://github.com/EddieHubCommunity/awesome-github-profiles/issues), with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image URL, this will be needed in the next step)
 
-2. Fork the project, using the top right corner button, that states `fork`
+2. Fork the project, using the top right corner button, that states `fork` and Perform Installing the dependencies `npm ci` from the terminal
 
 3. Create a file named `your-username.json` in the directory [`profiles`](https://github.com/EddieHubCommunity/awesome-github-profiles/tree/main/profiles) with the following content.
 
